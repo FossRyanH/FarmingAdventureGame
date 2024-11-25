@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://btdn8k1x24mbi"]
+
+[ext_resource type="Script" path="res://Scripts/Character/Player/PlayerController.cs" id="1_b2doo"]
+
+[sub_resource type="AnimationNodeStateMachine" id="AnimationNodeStateMachine_v4ytf"]
+
+[node name="Player" type="CharacterBody2D"]
+script = ExtResource("1_b2doo")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+
+[node name="HitBox" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="HitBox"]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+
+[node name="AnimationTree" type="AnimationTree" parent="."]
+tree_root = SubResource("AnimationNodeStateMachine_v4ytf")
+anim_player = NodePath("../AnimationPlayer")
