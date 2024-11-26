@@ -12,11 +12,13 @@ public class PlayerMoveState : PlayerBaseState
     public override void Enter()
     {
         base.Enter();
-        GD.Print("Moving On");
+        Player.StateMachineNodePlayback.Travel("MoveTree");
     }
 
     public override void Update(double delta)
     {
+        base.Update(delta);
+        
         if (Player.InputDir == Vector2.Zero)
         {
             Player.ChangeState(Player.Idle);

@@ -10,11 +10,13 @@ public class PlayerIdleState : PlayerBaseState
     public override void Enter()
     {
         base.Enter();
-        GD.Print("Idling");
+        Player.StateMachineNodePlayback.Travel("IdleTree");
     }
 
     public override void Update(double delta)
     {
+        base.Update(delta);
+        
         if (Player.InputDir != Vector2.Zero)
         {
             Player.ChangeState(Player.Move);

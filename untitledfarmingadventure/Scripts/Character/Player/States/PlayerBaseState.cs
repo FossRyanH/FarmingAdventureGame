@@ -15,7 +15,10 @@ public class PlayerBaseState : IState, IPlayerControlsListener
         RegisterListerners();
     }
 
-    public virtual void Update(double delta) {  }
+    public virtual void Update(double delta)
+    {
+        UpdateLookDir();
+    }
 
     public virtual void PhysicsUpdate(double delta) {  }
 
@@ -40,6 +43,11 @@ public class PlayerBaseState : IState, IPlayerControlsListener
     {
         Player.InputDir = movement;
         Player.InputDir.Normalized();
+
+        if (Player.InputDir != Vector2.Zero)
+        {
+            Player.LastInputDir = Player.InputDir;
+        }
     }
 
     public void Interact() 
@@ -50,5 +58,16 @@ public class PlayerBaseState : IState, IPlayerControlsListener
     public void UseTool() 
     {
         GD.Print("Using whatever the hell is equipped");
+    }
+
+    void UpdateLookDir()
+    {
+        if (Player.LastInputDir == Vector2.Zero) { return; }
+
+        if (Player.AnimationTree != null)
+        {
+            Player.AnimationTree.Set("parameters/IdleTree/blend_position", Player.LastInputDir);
+            Player.AnimationTree.Set("parameters/MoveTree/blend_position", Player.LastInputDir);
+        }
     }
 }

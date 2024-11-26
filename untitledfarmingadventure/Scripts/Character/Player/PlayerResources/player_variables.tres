@@ -4,5 +4,5 @@
 
 [resource]
 script = ExtResource("1_80eed")
-WalkSpeed = 100.0
+WalkSpeed = 50.0
 DashSpeed = 300.0

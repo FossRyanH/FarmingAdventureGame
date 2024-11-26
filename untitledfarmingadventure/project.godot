@@ -17,6 +17,7 @@ config/icon="res://icon.svg"
 [autoload]
 
 InputManager="*res://Scenes/ManagerScenes/input_manager.tscn"
+MusicManager="*res://Scenes/ManagerScenes/music_manager.tscn"
 
 [display]
 

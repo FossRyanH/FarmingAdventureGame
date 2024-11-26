@@ -20,7 +20,7 @@ public partial class Player : StateMachine
     #endregion
     
     #region Misc
-    private AnimationNodeStateMachinePlayback StateMachineNodePlayback;
+    public AnimationNodeStateMachinePlayback StateMachineNodePlayback { get; set; }
     public Vector2 InputDir { get; set; }
     public Vector2 LastInputDir { get; set; }
     [Export] public PlayerVariablesRes PlayerVariables { get; set; }
@@ -35,7 +35,7 @@ public partial class Player : StateMachine
     public override void _Ready()
     {
         AnimationTree.Active = true;
-        AnimationTree.Set("parameters/IdleTree/blend_position",Vector2.Right);
+        AnimationTree.Set("parameters/IdleTree/blend_position",Vector2.Down);
         StateMachineNodePlayback = (AnimationNodeStateMachinePlayback)AnimationTree.Get("parameters/playback");
         
         InitState(Idle);

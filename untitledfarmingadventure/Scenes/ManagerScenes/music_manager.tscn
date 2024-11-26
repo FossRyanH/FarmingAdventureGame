@@ -4,5 +4,3 @@
 
 [node name="MusicManager" type="Node"]
 script = ExtResource("1_t0thf")
-
-[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
