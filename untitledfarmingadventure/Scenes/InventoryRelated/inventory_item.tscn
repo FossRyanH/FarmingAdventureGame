@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://cpaje6oouke0x"]
+
+[ext_resource type="Texture2D" uid="uid://dclptn4nuisx3" path="res://GameArt/Sprout Lands - Sprites - premium pack/Objects/Items/farming-Plants-items.png" id="1_hxr82"]
+[ext_resource type="Script" path="res://Scripts/InventoryRelated/InventoryItem.cs" id="1_j76lv"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_24rpj"]
+
+[node name="InventoryItem" type="Node2D" groups=["Items"]]
+script = ExtResource("1_j76lv")
+
+[node name="InventorySprite" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("1_hxr82")
+hframes = 2
+vframes = 15
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("CircleShape2D_24rpj")
+debug_color = Color(0.353578, 0.61847, 0.0384838, 0.42)

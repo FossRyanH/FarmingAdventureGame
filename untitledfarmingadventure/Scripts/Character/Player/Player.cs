@@ -32,6 +32,11 @@ public partial class Player : StateMachine
         Move = new PlayerMoveState(this);
     }
 
+    public override void _EnterTree()
+    {
+        InventoryManager.Instance.SetPlayerReference(this);
+    }
+
     public override void _Ready()
     {
         AnimationTree.Active = true;
