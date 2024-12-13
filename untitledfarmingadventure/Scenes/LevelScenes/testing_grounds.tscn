@@ -1,12 +1,24 @@
-[gd_scene load_steps=4 format=3 uid="uid://dnk4i0qe00bgc"]
+[gd_scene load_steps=6 format=3 uid="uid://dnk4i0qe00bgc"]
 
 [ext_resource type="PackedScene" uid="uid://btdn8k1x24mbi" path="res://Scenes/CharacterScenes/player.tscn" id="1_km0nm"]
 [ext_resource type="Script" path="res://TestingGrounds.cs" id="1_rw14d"]
 [ext_resource type="AudioStream" uid="uid://dow8h0eqnmqmx" path="res://Audio/Music/155 November_snow-33_tape_leveled.mp3" id="2_oxxap"]
+[ext_resource type="Script" path="res://Scripts/Utility/FollowCamera.cs" id="4_pc4mr"]
+[ext_resource type="Texture2D" uid="uid://lg2btk4rq3be" path="res://icon.svg" id="5_2mcuv"]
 
 [node name="TestingGrounds" type="Node2D"]
 script = ExtResource("1_rw14d")
 backgroundMusic01 = ExtResource("2_oxxap")
 
 [node name="Player" parent="." instance=ExtResource("1_km0nm")]
-position = Vector2(218, 125)
+position = Vector2(108, 77)
+
+[node name="FollowCamera" type="Camera2D" parent="."]
+position_smoothing_speed = 10.0
+script = ExtResource("4_pc4mr")
+SmoothSpeed = 10.0
+
+[node name="Icon" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(354, 118)
+texture = ExtResource("5_2mcuv")
