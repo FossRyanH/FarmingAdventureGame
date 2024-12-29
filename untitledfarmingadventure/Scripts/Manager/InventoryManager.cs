@@ -12,47 +12,67 @@ public partial class InventoryManager : Singleton<InventoryManager>
 
     public Player Player { get; set; }
 
-    private Dictionary<int, Dictionary<string, object>> _items = new Dictionary<int, Dictionary<string, object>>();
-
-    public void AddItem(Dictionary<string, object> item)
-    {
-        string itemID = item["ItemName"].ToString();
-
-        foreach (var slot in _items)
-        {
-            if (slot.Value["ItemName"].ToString() == itemID)
-            {
-                slot.Value["itemQuantity"] = (int)slot.Value["itemQuantity"] + (int)item["itemQuantity"];
-                InventoryUpdated?.Invoke();
-                
-                return;
-            }
-        }
-        
-        for (int i = 0; i < InventorySize; i++)
-        {
-            if (!_items.ContainsKey(i))
-            {
-                _items[i] = item;
-                InventoryUpdated?.Invoke();
-                
-                return;
-            }
-        }
-    }
-
-    public void RemoveItem()
-    {
-        InventoryUpdated?.Invoke();
-    }
-
-    public void IncreaseInventorySize(int additionalSlots)
-    {
-        InventoryUpdated?.Invoke();
-    }
+    private List<(ItemRes, int)> _items = new List<(ItemRes, int)>();
 
     public void SetPlayerReference(Player player)
     {
         Player = player;
+    }
+
+    public void AddItem(ItemRes item, int count)
+    {
+        if (item == null)
+        {
+            GD.Print("Cannot add item of null type");
+            return;
+        }
+
+        for (int i = 0; i < _items.Count; i++)
+        {
+            if (_items[i].Item1.itemID == item.itemID)
+            {
+                var existingCount = _items[i].Item2;
+                if (existingCount + count <= item.MaxStack)
+                {
+                    _items[i] = (_items[i].Item1, existingCount + count);
+                    InventoryUpdated?.Invoke();
+                    return;
+                }
+            }
+        }
+
+        if (_items.Count < InventorySize)
+        {
+            _items.Add((item, count));
+            InventoryUpdated?.Invoke();
+        }
+        else
+        {
+            GD.Print("Inventory is currently Full");
+            return;
+        }
+    }
+
+    public void RemoveItem(ItemRes item, int count)
+    {
+        for (int i = 0; i <_items.Count; i++)
+        {
+            if (_items[i].Item1.itemID == item.itemID)
+            {
+                var existingCount = _items[i].Item2;
+
+                if (existingCount > count)
+                {
+                    _items[i] = (_items[i].Item1, existingCount - count);
+                }
+                else
+                {
+                    _items.RemoveAt(i);
+                }
+
+                InventoryUpdated?.Invoke();
+                return;
+            }
+        }
     }
 }

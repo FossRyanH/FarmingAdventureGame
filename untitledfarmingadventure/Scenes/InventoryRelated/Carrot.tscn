@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://ccp22ohc0t665"]
+
+[ext_resource type="Script" path="res://Scripts/InventoryRelated/ItemNode.cs" id="1_4um50"]
+[ext_resource type="Resource" uid="uid://cgko3rbiixdx" path="res://Scripts/InventoryRelated/Seeds/carrot_seed.tres" id="2_3kc75"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_sefub"]
+
+[node name="Carrot" type="Area2D" node_paths=PackedStringArray("_itemSprite")]
+texture_filter = 1
+script = ExtResource("1_4um50")
+ItemData = ExtResource("2_3kc75")
+_itemSprite = NodePath("Sprite2D")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_sefub")

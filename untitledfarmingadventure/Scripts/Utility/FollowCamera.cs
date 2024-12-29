@@ -9,6 +9,8 @@ public partial class FollowCamera : Camera2D
 
     public override void _Ready()
     {
+        GameStateManager.Instance.CurrentGameState += SetActiveCamera;
+
         var localPlayers = GetTree().GetNodesInGroup("Player");
 
         if (localPlayers.Count > 0)
@@ -31,6 +33,11 @@ public partial class FollowCamera : Camera2D
         }
     }
 
+    public override void _ExitTree()
+    {
+        GameStateManager.Instance.CurrentGameState -= SetActiveCamera;
+    }
+
     public override void _PhysicsProcess(double delta)
     {
         if (_playerFollow == null) { return; }
@@ -47,5 +54,10 @@ public partial class FollowCamera : Camera2D
     bool HasCameraAttached(Player player)
     {
         return player.GetNodeOrNull<Camera2D>("FollowCamera") != null;
+    }
+
+    void SetActiveCamera(GameState state)
+    {
+        this.Enabled = state != GameState.CutScene;
     }
 }

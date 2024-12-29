@@ -3,12 +3,27 @@ using System;
 
 public partial class GameStateManager : Singleton<GameStateManager>
 {
-    public GameState GameState { get; set; }
+    public event Action<GameState> CurrentGameState;
+
+    GameState _currentState;
+
+    public GameState GameState 
+    {
+        get => _currentState;
+        set
+        {
+            if (_currentState != value)
+            {
+                _currentState = value;
+                CurrentGameState?.Invoke(_currentState);
+            }
+        }
+    }
 
     protected override void Initialize()
     {
-        GameState = GameState.GamePlay;
+        _currentState = GameState.GamePlay;
     }
 }
 
-public enum GameState { Menu, GamePlay, Inventory, Dialogue }
+public enum GameState { Menu, GamePlay, Inventory, Dialogue, CutScene }
