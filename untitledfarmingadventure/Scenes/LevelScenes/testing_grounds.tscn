@@ -1,10 +1,9 @@
-[gd_scene load_steps=7 format=3 uid="uid://dnk4i0qe00bgc"]
+[gd_scene load_steps=6 format=3 uid="uid://dnk4i0qe00bgc"]
 
 [ext_resource type="PackedScene" uid="uid://btdn8k1x24mbi" path="res://Scenes/CharacterScenes/player.tscn" id="1_km0nm"]
 [ext_resource type="Script" path="res://TestingGrounds.cs" id="1_rw14d"]
 [ext_resource type="AudioStream" uid="uid://dow8h0eqnmqmx" path="res://Audio/Music/155 November_snow-33_tape_leveled.mp3" id="2_oxxap"]
 [ext_resource type="Script" path="res://Scripts/Utility/FollowCamera.cs" id="4_pc4mr"]
-[ext_resource type="Texture2D" uid="uid://lg2btk4rq3be" path="res://icon.svg" id="5_2mcuv"]
 [ext_resource type="PackedScene" uid="uid://ccp22ohc0t665" path="res://Scenes/InventoryRelated/Carrot.tscn" id="6_4i33q"]
 
 [node name="TestingGrounds" type="Node2D"]
@@ -19,11 +18,6 @@ position = Vector2(108, 77)
 position_smoothing_speed = 10.0
 script = ExtResource("4_pc4mr")
 SmoothSpeed = 10.0
-
-[node name="Icon" type="Sprite2D" parent="."]
-texture_filter = 1
-position = Vector2(354, 118)
-texture = ExtResource("5_2mcuv")
 
 [node name="Carrot" parent="." instance=ExtResource("6_4i33q")]
 position = Vector2(243, 154)

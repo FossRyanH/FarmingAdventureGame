@@ -1,15 +1,15 @@
-[gd_scene load_steps=30 format=3 uid="uid://btdn8k1x24mbi"]
+[gd_scene load_steps=31 format=3 uid="uid://btdn8k1x24mbi"]
 
 [ext_resource type="Script" path="res://Scripts/Character/Player/Player.cs" id="1_jk56q"]
 [ext_resource type="Resource" uid="uid://cgc2jf54byyi6" path="res://Scripts/Character/Player/PlayerResources/player_inputs.tres" id="2_k8ttq"]
 [ext_resource type="Texture2D" uid="uid://dbip6dqbguxe7" path="res://GameArt/Sprout Lands - Sprites - premium pack/Characters/Premium Charakter Spritesheet.png" id="2_ljseo"]
 [ext_resource type="Resource" uid="uid://dyyvynjs8k6os" path="res://Scripts/Character/Player/PlayerResources/player_variables.tres" id="3_cv7vw"]
+[ext_resource type="Script" path="res://Scripts/Character/Player/CollectionRadius.cs" id="5_1lsqv"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_jdwam"]
 radius = 4.0
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_d6du2"]
-radius = 16.0
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_ifapc"]
 radius = 4.0
@@ -259,7 +259,11 @@ position = Vector2(0, -2)
 shape = SubResource("CircleShape2D_jdwam")
 debug_color = Color(0.439245, 0.598923, 0.0198507, 0.42)
 
-[node name="CollectionRadius" type="Area2D" parent="."]
+[node name="CollectionRadius" type="Area2D" parent="." node_paths=PackedStringArray("_collectioinRadius", "_itemDetectionShape")]
+script = ExtResource("5_1lsqv")
+_collectioinRadius = NodePath(".")
+_itemDetectionShape = NodePath("CollisionShape2D")
+MagnetRadius = 32.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CollectionRadius"]
 position = Vector2(0, -2)
