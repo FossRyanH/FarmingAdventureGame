@@ -75,4 +75,9 @@ public partial class InventoryManager : Singleton<InventoryManager>
             }
         }
     }
+
+    public List<(ItemRes, int)> GetAllItems()
+    {
+        return new List<(ItemRes, int)>(_items);
+    }
 }

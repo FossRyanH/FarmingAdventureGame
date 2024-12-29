@@ -27,3 +27,15 @@ texture = ExtResource("5_2mcuv")
 
 [node name="Carrot" parent="." instance=ExtResource("6_4i33q")]
 position = Vector2(243, 154)
+
+[node name="Carrot2" parent="." instance=ExtResource("6_4i33q")]
+position = Vector2(207, 188)
+
+[node name="Carrot3" parent="." instance=ExtResource("6_4i33q")]
+position = Vector2(185, 144)
+
+[node name="Carrot4" parent="." instance=ExtResource("6_4i33q")]
+position = Vector2(224, 109)
+
+[node name="Carrot5" parent="." instance=ExtResource("6_4i33q")]
+position = Vector2(217, 142)

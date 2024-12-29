@@ -41,5 +41,27 @@ public partial class Player : StateMachine
         InitState(Idle);
 
         InventoryManager.Instance.SetPlayerReference(this);
+
+        InventoryManager.Instance.InventoryUpdated += OnInventoryUpdate;
+    }
+
+    public override void _ExitTree()
+    {
+        base._ExitTree();
+        InventoryManager.Instance.InventoryUpdated -= OnInventoryUpdate;
+       }
+
+    void OnInventoryUpdate()
+    {
+        GD.Print("Inventory Updated:");
+        CheckInventory();
+    }
+
+    void CheckInventory()
+    {
+        foreach (var (item, count) in  InventoryManager.Instance.GetAllItems())
+        {
+            GD.Print($"Item: {item.ItemName} Quantity: {count}");
+        }
     }
 }
