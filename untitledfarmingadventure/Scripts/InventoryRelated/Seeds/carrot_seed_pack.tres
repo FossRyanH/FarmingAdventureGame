@@ -1,0 +1,15 @@
+[gd_resource type="Resource" script_class="ItemRes" load_steps=3 format=3 uid="uid://ba5jefu8tedii"]
+
+[ext_resource type="Script" path="res://Scripts/Resources/ItemRes.cs" id="1_3hpq3"]
+[ext_resource type="Texture2D" uid="uid://ckebugvualmhh" path="res://GameArt/Sprout Lands - Sprites - premium pack/Items/Carrot Seeds.png" id="1_g3655"]
+
+[resource]
+script = ExtResource("1_3hpq3")
+ItemName = "Carrot Seed Package"
+ItemDescription = "a Pack of 5 seeds"
+itemID = 1
+MaxStack = 100
+ItemCategory = 6
+SecondCategory = 7
+ItemIcon = ExtResource("1_g3655")
+ItemCount = 5

@@ -40,7 +40,7 @@ public partial class ItemNode : Area2D
 
         GD.Print($"{player.Name} picked up {ItemData.ItemName}");
 
-        InventoryManager.Instance.AddItem(ItemData, 1);
+        InventoryManager.Instance.AddItem(ItemData, ItemData.ItemCount);
 
         QueueFree();
     }

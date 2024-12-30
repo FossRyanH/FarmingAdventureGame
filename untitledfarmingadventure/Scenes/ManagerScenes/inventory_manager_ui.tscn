@@ -3,7 +3,9 @@
 [ext_resource type="Script" path="res://Scripts/InventoryRelated/InventoryUIManager.cs" id="1_v880k"]
 [ext_resource type="PackedScene" uid="uid://ccscrjs5ojp21" path="res://Scenes/UtilityScenes/inventory_ui.tscn" id="2_ahboy"]
 
-[node name="InventoryManagerUI" type="Node" node_paths=PackedStringArray("InventoryLayer")]
+[node name="InventoryManagerUI" type="Control" node_paths=PackedStringArray("InventoryLayer")]
+layout_mode = 3
+anchors_preset = 0
 script = ExtResource("1_v880k")
 InventoryLayer = NodePath("InventoryLayer")
 

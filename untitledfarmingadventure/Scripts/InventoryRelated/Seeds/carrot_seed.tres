@@ -12,3 +12,4 @@ MaxStack = 100
 ItemCategory = 6
 SecondCategory = 7
 ItemIcon = ExtResource("1_jayml")
+ItemCount = 1
