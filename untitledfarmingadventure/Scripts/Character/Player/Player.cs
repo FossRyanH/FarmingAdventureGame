@@ -41,6 +41,7 @@ public partial class Player : StateMachine
         InitState(Idle);
 
         InventoryManager.Instance.SetPlayerReference(this);
+        InventoryUIManager.Instance.SetPlayerReference(this);
 
         InventoryManager.Instance.InventoryUpdated += OnInventoryUpdate;
     }

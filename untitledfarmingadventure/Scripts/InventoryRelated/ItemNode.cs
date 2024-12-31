@@ -22,7 +22,7 @@ public partial class ItemNode : Area2D
         }
     }
 
-    protected void InitializeItem()
+    protected virtual void InitializeItem()
     {
         if (ItemData != null)
         {
@@ -30,7 +30,7 @@ public partial class ItemNode : Area2D
         }
     }
 
-    protected void PickUp(Player player)
+    protected virtual void PickUp(Player player)
     {
         if (ItemData == null)
         {

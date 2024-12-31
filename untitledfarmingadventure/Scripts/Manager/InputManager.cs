@@ -5,7 +5,7 @@ public partial class InputManager : Singleton<InputManager>
 {
 	#region Input Resources
 	[Export] private PlayerInputs _playerInputs;
-	[Export] public MenuInputs MenuInputs { get; private set; }
+	[Export] public MenuInputs MenuInputs { get; set; }
 	#endregion
 	
 	// Vector for input

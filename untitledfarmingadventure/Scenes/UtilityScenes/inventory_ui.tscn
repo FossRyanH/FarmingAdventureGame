@@ -1,6 +1,259 @@
-[gd_scene load_steps=2 format=3 uid="uid://ccscrjs5ojp21"]
+[gd_scene load_steps=74 format=3 uid="uid://ccscrjs5ojp21"]
 
 [ext_resource type="Script" path="res://Scripts/InventoryRelated/InventoryUi.cs" id="1_bp3yl"]
+[ext_resource type="Texture2D" uid="uid://cgkemq5idcwmh" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/14.png" id="2_mx7lb"]
+[ext_resource type="Texture2D" uid="uid://dq6a5e46fss8n" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/0.png" id="3_f2wh7"]
+[ext_resource type="Texture2D" uid="uid://bjaxjq63xmljy" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/1.png" id="4_1gktb"]
+[ext_resource type="Texture2D" uid="uid://f1ifw13rw0qa" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/2.png" id="5_14a4j"]
+[ext_resource type="Texture2D" uid="uid://qt4v5fr5gaaa" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/3.png" id="6_5ltsg"]
+[ext_resource type="Texture2D" uid="uid://daqmifyuvf7nq" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/4.png" id="7_o0o8p"]
+[ext_resource type="Texture2D" uid="uid://dtyr5xfnm8uf2" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/5.png" id="8_aec0u"]
+[ext_resource type="Texture2D" uid="uid://325h3qay4kb6" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/6.png" id="9_n71g5"]
+[ext_resource type="Texture2D" uid="uid://kih6pxeovifb" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/7.png" id="10_ft1gh"]
+[ext_resource type="Texture2D" uid="uid://bonxiial3m1p2" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/0.png" id="11_3ufly"]
+[ext_resource type="Texture2D" uid="uid://docpicoco6wvb" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/1.png" id="12_474q5"]
+[ext_resource type="Texture2D" uid="uid://ffwsmktf0rpn" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/2.png" id="13_vw2uf"]
+[ext_resource type="Texture2D" uid="uid://ddmqtgmq4sw62" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/3.png" id="14_u6qxr"]
+[ext_resource type="Texture2D" uid="uid://bl20cwtrqveta" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/4.png" id="15_j7loj"]
+[ext_resource type="Texture2D" uid="uid://bq37vwsi4sogc" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/5.png" id="16_xue1r"]
+[ext_resource type="Texture2D" uid="uid://dbhx22bfamsr5" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/6.png" id="17_6y5d2"]
+[ext_resource type="Texture2D" uid="uid://3xo8smk5qajf" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/7.png" id="18_lrnm5"]
+[ext_resource type="Texture2D" uid="uid://buwjw6ehvdjtt" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/8.png" id="19_0os8c"]
+[ext_resource type="Texture2D" uid="uid://oqsltvg6hh71" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/9.png" id="20_anric"]
+[ext_resource type="Texture2D" uid="uid://b31tkac4c8xjo" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/10.png" id="21_35t5l"]
+[ext_resource type="Texture2D" uid="uid://ho0igvyvk1mh" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/11.png" id="22_ex4y6"]
+[ext_resource type="Texture2D" uid="uid://c022kv3u8feos" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/12.png" id="23_cxeiq"]
+[ext_resource type="Texture2D" uid="uid://82ggex1tgkvy" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/13.png" id="24_tyo2d"]
+[ext_resource type="Texture2D" uid="uid://dsolgdfs0ih5r" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/0.png" id="25_12hre"]
+[ext_resource type="Texture2D" uid="uid://bsmeuadt1ecxs" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/1.png" id="26_5mtda"]
+[ext_resource type="Texture2D" uid="uid://cl3r7nfbk6ang" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/2.png" id="27_k4rvb"]
+[ext_resource type="Texture2D" uid="uid://bcpqos21yxfhq" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/3.png" id="28_cau0w"]
+[ext_resource type="Texture2D" uid="uid://ba1j3khmokug4" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/4.png" id="29_xxke7"]
+[ext_resource type="Texture2D" uid="uid://dwxsecfp7ug7t" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/5.png" id="30_wttq5"]
+[ext_resource type="Texture2D" uid="uid://c0cl4vc215c2l" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/6.png" id="31_qh2iy"]
+[ext_resource type="Texture2D" uid="uid://ba3g6qj56l4qi" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/7.png" id="32_2o1mb"]
+[ext_resource type="Texture2D" uid="uid://cb4m8xm8i6r7x" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/8.png" id="33_fx0va"]
+[ext_resource type="Texture2D" uid="uid://wbut4y2oeyqt" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/9.png" id="34_dt1tp"]
+[ext_resource type="Texture2D" uid="uid://da2q4tmpxq1yc" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/10.png" id="35_bimb7"]
+[ext_resource type="Texture2D" uid="uid://0dix0eavebuw" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/11.png" id="36_wsdgu"]
+[ext_resource type="Texture2D" uid="uid://brm36i5rctwg6" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/12.png" id="37_jkjle"]
+[ext_resource type="Texture2D" uid="uid://pguculcay5tb" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/13.png" id="38_8xd31"]
+[ext_resource type="Texture2D" uid="uid://cefqoln5wx4uk" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/close/14.png" id="39_mt35k"]
+[ext_resource type="Texture2D" uid="uid://upt0vbnorxk8" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Close/0.png" id="40_thox4"]
+[ext_resource type="Texture2D" uid="uid://duhgh7comru8l" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Close/1.png" id="41_lnj0p"]
+[ext_resource type="Texture2D" uid="uid://dtrknqvp0yr6" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Close/2.png" id="42_55fib"]
+[ext_resource type="Texture2D" uid="uid://cysraiyvgvgy6" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Close/3.png" id="43_1lqx2"]
+[ext_resource type="Texture2D" uid="uid://bxkgrwl3i43ap" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Close/5.png" id="44_ji17w"]
+[ext_resource type="Texture2D" uid="uid://du87ynpa61ypw" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Close/6.png" id="45_pem02"]
+[ext_resource type="Texture2D" uid="uid://cl701ethrxacn" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Close/7.png" id="46_suxj8"]
+[ext_resource type="Texture2D" uid="uid://buh07od5xyvgj" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/0.png" id="47_ysn7k"]
+[ext_resource type="Texture2D" uid="uid://cnqjicy1oqqp0" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/1.png" id="48_udse5"]
+[ext_resource type="Texture2D" uid="uid://56824t5a8xi7" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/2.png" id="49_1678m"]
+[ext_resource type="Texture2D" uid="uid://cliol0q5hqwqq" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/3.png" id="50_j4c8t"]
+[ext_resource type="Texture2D" uid="uid://bernyrtq2rxg6" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/4.png" id="51_u33en"]
+[ext_resource type="Texture2D" uid="uid://ddkrv50xoaho6" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/5.png" id="52_rfuwx"]
+[ext_resource type="Texture2D" uid="uid://bwth6wwkkvy2y" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/6.png" id="53_h7wgu"]
+[ext_resource type="Texture2D" uid="uid://cfemt122os7pj" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/7.png" id="54_q7sqn"]
+[ext_resource type="Texture2D" uid="uid://ckjc454t4mo8l" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/8.png" id="55_300n3"]
+[ext_resource type="Texture2D" uid="uid://dbnhgfry04qp5" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/9.png" id="56_owpce"]
+[ext_resource type="Texture2D" uid="uid://4gcangu3gvg0" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/18.png" id="57_rv2k1"]
+[ext_resource type="Texture2D" uid="uid://c0gvwswk1nohx" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/27.png" id="58_d3e22"]
+[ext_resource type="Texture2D" uid="uid://dxh8vln5aeej6" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/36.png" id="59_sw0mn"]
+[ext_resource type="Texture2D" uid="uid://d0ymt26u78nkw" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/45.png" id="60_q474m"]
+[ext_resource type="Texture2D" uid="uid://dok406c05ohwm" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Page Flip Animation/With icons/Page Left/54.png" id="61_gh4lr"]
+
+[sub_resource type="Animation" id="Animation_okw77"]
+resource_name = "BookStatic"
+loop_mode = 2
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [ExtResource("2_mx7lb")]
+}
+
+[sub_resource type="Animation" id="Animation_ynyau"]
+resource_name = "ChangePage"
+length = 0.8
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("47_ysn7k"), ExtResource("48_udse5"), ExtResource("49_1678m"), ExtResource("50_j4c8t"), ExtResource("51_u33en"), ExtResource("52_rfuwx"), ExtResource("53_h7wgu"), ExtResource("54_q7sqn"), ExtResource("55_300n3")]
+}
+
+[sub_resource type="Animation" id="Animation_81375"]
+resource_name = "ChangePageInventory"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("47_ysn7k"), ExtResource("48_udse5"), ExtResource("49_1678m"), ExtResource("50_j4c8t"), ExtResource("51_u33en"), ExtResource("52_rfuwx"), ExtResource("53_h7wgu"), ExtResource("54_q7sqn"), ExtResource("55_300n3"), ExtResource("47_ysn7k"), ExtResource("57_rv2k1")]
+}
+
+[sub_resource type="Animation" id="Animation_s1mo3"]
+resource_name = "ChangePageJournal"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("47_ysn7k"), ExtResource("48_udse5"), ExtResource("49_1678m"), ExtResource("50_j4c8t"), ExtResource("51_u33en"), ExtResource("52_rfuwx"), ExtResource("53_h7wgu"), ExtResource("54_q7sqn"), ExtResource("55_300n3"), ExtResource("47_ysn7k"), ExtResource("56_owpce")]
+}
+
+[sub_resource type="Animation" id="Animation_ava0f"]
+resource_name = "ChangePagePlayer"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("47_ysn7k"), ExtResource("48_udse5"), ExtResource("49_1678m"), ExtResource("50_j4c8t"), ExtResource("51_u33en"), ExtResource("52_rfuwx"), ExtResource("53_h7wgu"), ExtResource("54_q7sqn"), ExtResource("55_300n3"), ExtResource("47_ysn7k"), ExtResource("58_d3e22")]
+}
+
+[sub_resource type="Animation" id="Animation_3n88r"]
+resource_name = "ChangePageQuest"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("47_ysn7k"), ExtResource("48_udse5"), ExtResource("49_1678m"), ExtResource("50_j4c8t"), ExtResource("51_u33en"), ExtResource("52_rfuwx"), ExtResource("53_h7wgu"), ExtResource("54_q7sqn"), ExtResource("55_300n3"), ExtResource("47_ysn7k"), ExtResource("59_sw0mn")]
+}
+
+[sub_resource type="Animation" id="Animation_k6j34"]
+resource_name = "ChangePageSave"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("47_ysn7k"), ExtResource("48_udse5"), ExtResource("49_1678m"), ExtResource("50_j4c8t"), ExtResource("51_u33en"), ExtResource("52_rfuwx"), ExtResource("53_h7wgu"), ExtResource("54_q7sqn"), ExtResource("55_300n3"), ExtResource("47_ysn7k"), ExtResource("60_q474m")]
+}
+
+[sub_resource type="Animation" id="Animation_11ldl"]
+resource_name = "ChangePageSettings"
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("47_ysn7k"), ExtResource("48_udse5"), ExtResource("49_1678m"), ExtResource("50_j4c8t"), ExtResource("51_u33en"), ExtResource("52_rfuwx"), ExtResource("53_h7wgu"), ExtResource("54_q7sqn"), ExtResource("55_300n3"), ExtResource("47_ysn7k"), ExtResource("61_gh4lr")]
+}
+
+[sub_resource type="Animation" id="Animation_ynunq"]
+resource_name = "CloseBook"
+length = 2.2
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2, 2.1, 2.2),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("25_12hre"), ExtResource("26_5mtda"), ExtResource("27_k4rvb"), ExtResource("28_cau0w"), ExtResource("29_xxke7"), ExtResource("30_wttq5"), ExtResource("31_qh2iy"), ExtResource("32_2o1mb"), ExtResource("33_fx0va"), ExtResource("34_dt1tp"), ExtResource("35_bimb7"), ExtResource("36_wsdgu"), ExtResource("37_jkjle"), ExtResource("38_8xd31"), ExtResource("39_mt35k"), ExtResource("40_thox4"), ExtResource("41_lnj0p"), ExtResource("42_55fib"), ExtResource("43_1lqx2"), ExtResource("44_ji17w"), ExtResource("45_pem02"), ExtResource("46_suxj8"), null]
+}
+
+[sub_resource type="Animation" id="Animation_12gw1"]
+resource_name = "OpenBook"
+length = 2.2
+step = 0.1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 2, 2.1, 2.2),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [ExtResource("3_f2wh7"), ExtResource("4_1gktb"), ExtResource("5_14a4j"), ExtResource("6_5ltsg"), ExtResource("7_o0o8p"), ExtResource("8_aec0u"), ExtResource("9_n71g5"), ExtResource("10_ft1gh"), ExtResource("11_3ufly"), ExtResource("12_474q5"), ExtResource("13_vw2uf"), ExtResource("14_u6qxr"), ExtResource("15_j7loj"), ExtResource("16_xue1r"), ExtResource("17_6y5d2"), ExtResource("18_lrnm5"), ExtResource("19_0os8c"), ExtResource("20_anric"), ExtResource("21_35t5l"), ExtResource("22_ex4y6"), ExtResource("23_cxeiq"), ExtResource("24_tyo2d"), ExtResource("2_mx7lb")]
+}
+
+[sub_resource type="Animation" id="Animation_aui6d"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("TextureRect:texture")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [ExtResource("2_mx7lb")]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_gx0ie"]
+_data = {
+"BookStatic": SubResource("Animation_okw77"),
+"ChangePage": SubResource("Animation_ynyau"),
+"ChangePageInventory": SubResource("Animation_81375"),
+"ChangePageJournal": SubResource("Animation_s1mo3"),
+"ChangePagePlayer": SubResource("Animation_ava0f"),
+"ChangePageQuest": SubResource("Animation_3n88r"),
+"ChangePageSave": SubResource("Animation_k6j34"),
+"ChangePageSettings": SubResource("Animation_11ldl"),
+"CloseBook": SubResource("Animation_ynunq"),
+"OpenBook": SubResource("Animation_12gw1"),
+"RESET": SubResource("Animation_aui6d")
+}
 
 [node name="InventoryUI" type="Control"]
 layout_direction = 2
@@ -12,11 +265,40 @@ grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_bp3yl")
 
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -87.0
+offset_bottom = 86.3333
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_mx7lb")
+expand_mode = 5
+stretch_mode = 5
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_gx0ie")
+}
+
 [node name="GridContainer" type="GridContainer" parent="."]
 texture_filter = 1
-layout_mode = 0
-offset_left = 60.0
-offset_top = 35.0
-offset_right = 420.0
-offset_bottom = 235.0
-columns = 4
+clip_contents = true
+layout_direction = 2
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.5
+anchor_top = 0.278
+anchor_right = 0.5
+anchor_bottom = 0.764
+offset_left = -175.0
+offset_top = -0.0800095
+offset_right = -10.0
+offset_bottom = 25.96
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/h_separation = 23
+theme_override_constants/v_separation = 24
+columns = 7

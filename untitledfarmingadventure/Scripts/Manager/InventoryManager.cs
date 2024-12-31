@@ -1,10 +1,11 @@
 using Godot;
 using System;
 using System.Collections.Generic;
+using System.Threading;
 
 public partial class InventoryManager : Singleton<InventoryManager>
 {
-    [Export] public int InventorySize = 10;
+    [Export] public int InventorySize = 7;
     
     #region Inventory Events
     public event Action InventoryUpdated;
@@ -12,14 +13,14 @@ public partial class InventoryManager : Singleton<InventoryManager>
 
     public Player Player { get; set; }
 
-    private List<(ItemRes, int)> _items = new List<(ItemRes, int)>();
+    private List<(ItemRes, int, int)> _items = new List<(ItemRes, int, int)>();
 
     public void SetPlayerReference(Player player)
     {
         Player = player;
     }
 
-    public void AddItem(ItemRes item, int count)
+    public void AddItem(ItemRes item, int count, int position = -1)
     {
         if (item == null)
         {
@@ -34,7 +35,7 @@ public partial class InventoryManager : Singleton<InventoryManager>
                 var existingCount = _items[i].Item2;
                 if (existingCount + count <= item.MaxStack)
                 {
-                    _items[i] = (_items[i].Item1, existingCount + count);
+                    _items[i] = (_items[i].Item1, existingCount + count, _items[i].Item3);
                     InventoryUpdated?.Invoke();
                     return;
                 }
@@ -43,7 +44,12 @@ public partial class InventoryManager : Singleton<InventoryManager>
 
         if (_items.Count < InventorySize)
         {
-            _items.Add((item, count));
+            if (position == -1)
+            {
+                position = GetNextAvailablePos();
+            }
+
+            _items.Add((item, count, position));
             InventoryUpdated?.Invoke();
         }
         else
@@ -63,7 +69,7 @@ public partial class InventoryManager : Singleton<InventoryManager>
 
                 if (existingCount > count)
                 {
-                    _items[i] = (_items[i].Item1, existingCount - count);
+                    _items[i] = (_items[i].Item1, existingCount - count, _items[i].Item3);
                 }
                 else
                 {
@@ -76,8 +82,34 @@ public partial class InventoryManager : Singleton<InventoryManager>
         }
     }
 
-    public List<(ItemRes, int)> GetAllItems()
+    public (ItemRes, int)? GetItemByPos(int position)
     {
-        return new List<(ItemRes, int)>(_items);
+        foreach (var (item, count, pos) in _items)
+        {
+            if (pos == position)
+            {
+                return (item, count);
+            }
+        }
+
+        return null;
     }
+
+    int GetNextAvailablePos()
+    {
+        for (int i = 0; i < InventorySize; i++)
+        {
+            if (!_items.Exists(item => item.Item3 == i))
+            {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+
+    // public List<(ItemRes, int)> GetAllItems()
+    // {
+    //     return new List<(ItemRes, int)>(_items);
+    // }
 }

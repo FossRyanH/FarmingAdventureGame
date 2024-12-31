@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://Scripts/Character/Player/Player.cs" id="1_jk56q"]
 [ext_resource type="Resource" uid="uid://cgc2jf54byyi6" path="res://Scripts/Character/Player/PlayerResources/player_inputs.tres" id="2_k8ttq"]
-[ext_resource type="Texture2D" uid="uid://dbip6dqbguxe7" path="res://GameArt/Sprout Lands - Sprites - premium pack/Characters/Premium Charakter Spritesheet.png" id="2_ljseo"]
+[ext_resource type="Texture2D" uid="uid://tvaxm34psc5t" path="res://GameArt/Sprout Lands - Sprites - premium pack/Characters/Premium Charakter Spritesheet.png" id="2_ljseo"]
 [ext_resource type="Resource" uid="uid://dyyvynjs8k6os" path="res://Scripts/Character/Player/PlayerResources/player_variables.tres" id="3_cv7vw"]
 [ext_resource type="Script" path="res://Scripts/Character/Player/CollectionRadius.cs" id="5_1lsqv"]
 

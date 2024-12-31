@@ -1,11 +1,10 @@
-[gd_scene load_steps=7 format=3 uid="uid://dnk4i0qe00bgc"]
+[gd_scene load_steps=6 format=3 uid="uid://dnk4i0qe00bgc"]
 
 [ext_resource type="PackedScene" uid="uid://btdn8k1x24mbi" path="res://Scenes/CharacterScenes/player.tscn" id="1_km0nm"]
 [ext_resource type="Script" path="res://TestingGrounds.cs" id="1_rw14d"]
 [ext_resource type="AudioStream" uid="uid://dow8h0eqnmqmx" path="res://Audio/Music/155 November_snow-33_tape_leveled.mp3" id="2_oxxap"]
 [ext_resource type="Script" path="res://Scripts/Utility/FollowCamera.cs" id="4_pc4mr"]
 [ext_resource type="PackedScene" uid="uid://ccp22ohc0t665" path="res://Scenes/InventoryRelated/Carrot.tscn" id="6_4i33q"]
-[ext_resource type="PackedScene" uid="uid://ctocvh2b651o4" path="res://Scenes/InventoryRelated/carrot_pack.tscn" id="6_qsggn"]
 
 [node name="TestingGrounds" type="Node2D"]
 y_sort_enabled = true
@@ -16,18 +15,10 @@ backgroundMusic01 = ExtResource("2_oxxap")
 position = Vector2(108, 77)
 
 [node name="FollowCamera" type="Camera2D" parent="."]
+zoom = Vector2(2, 2)
 position_smoothing_speed = 10.0
 script = ExtResource("4_pc4mr")
 SmoothSpeed = 10.0
 
 [node name="Carrot" parent="." instance=ExtResource("6_4i33q")]
 position = Vector2(255, 65)
-
-[node name="Carrot2" parent="." instance=ExtResource("6_4i33q")]
-position = Vector2(234, 95)
-
-[node name="CarrotPack" parent="." instance=ExtResource("6_qsggn")]
-position = Vector2(166, 130)
-
-[node name="CarrotPack2" parent="." instance=ExtResource("6_qsggn")]
-position = Vector2(226, 11)
