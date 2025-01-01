@@ -1,10 +1,11 @@
-[gd_scene load_steps=31 format=3 uid="uid://btdn8k1x24mbi"]
+[gd_scene load_steps=32 format=3 uid="uid://btdn8k1x24mbi"]
 
 [ext_resource type="Script" path="res://Scripts/Character/Player/Player.cs" id="1_jk56q"]
 [ext_resource type="Resource" uid="uid://cgc2jf54byyi6" path="res://Scripts/Character/Player/PlayerResources/player_inputs.tres" id="2_k8ttq"]
 [ext_resource type="Texture2D" uid="uid://tvaxm34psc5t" path="res://GameArt/Sprout Lands - Sprites - premium pack/Characters/Premium Charakter Spritesheet.png" id="2_ljseo"]
 [ext_resource type="Resource" uid="uid://dyyvynjs8k6os" path="res://Scripts/Character/Player/PlayerResources/player_variables.tres" id="3_cv7vw"]
 [ext_resource type="Script" path="res://Scripts/Character/Player/CollectionRadius.cs" id="5_1lsqv"]
+[ext_resource type="PackedScene" uid="uid://ccscrjs5ojp21" path="res://Scenes/UtilityScenes/inventory_ui.tscn" id="6_vgxcs"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_jdwam"]
 radius = 4.0
@@ -290,3 +291,7 @@ parameters/MoveTree/blend_position = Vector2(0, 0)
 [node name="RayCast2D" type="RayCast2D" parent="."]
 position = Vector2(0, -2)
 target_position = Vector2(0, 10)
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="InventoryUI" parent="CanvasLayer" instance=ExtResource("6_vgxcs")]

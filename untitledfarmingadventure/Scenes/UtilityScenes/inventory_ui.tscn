@@ -1,6 +1,7 @@
-[gd_scene load_steps=74 format=3 uid="uid://ccscrjs5ojp21"]
+[gd_scene load_steps=75 format=3 uid="uid://ccscrjs5ojp21"]
 
 [ext_resource type="Script" path="res://Scripts/InventoryRelated/InventoryUi.cs" id="1_bp3yl"]
+[ext_resource type="PackedScene" uid="uid://dpbpy7rawukgq" path="res://Scenes/InventoryRelated/inventory_slot.tscn" id="2_bwbo8"]
 [ext_resource type="Texture2D" uid="uid://cgkemq5idcwmh" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Tabs/Tabs Open & Close With Icons/open/14.png" id="2_mx7lb"]
 [ext_resource type="Texture2D" uid="uid://dq6a5e46fss8n" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/0.png" id="3_f2wh7"]
 [ext_resource type="Texture2D" uid="uid://bjaxjq63xmljy" path="res://GameArt/Pocket Inventory Series #3 Pixel Book v1.2/Light Brown/Png/Inventory Book/Book Open/1.png" id="4_1gktb"]
@@ -255,7 +256,7 @@ _data = {
 "RESET": SubResource("Animation_aui6d")
 }
 
-[node name="InventoryUI" type="Control"]
+[node name="InventoryUI" type="Control" node_paths=PackedStringArray("InventoryContainer", "AnimPlayer") groups=["InventoryLayer"]]
 layout_direction = 2
 layout_mode = 3
 anchors_preset = 15
@@ -264,6 +265,9 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_bp3yl")
+InventoryContainer = NodePath("GridContainer")
+AnimPlayer = NodePath("AnimationPlayer")
+_inventorySlot = ExtResource("2_bwbo8")
 
 [node name="TextureRect" type="TextureRect" parent="."]
 layout_mode = 1

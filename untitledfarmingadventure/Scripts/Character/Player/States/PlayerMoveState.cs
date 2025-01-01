@@ -21,7 +21,7 @@ public class PlayerMoveState : PlayerBaseState
         
         if (Player.InputDir == Vector2.Zero)
         {
-            Player.ChangeState(Player.Idle);
+            Player.ChangeState(new PlayerIdleState(Player));
         }
     }
 
