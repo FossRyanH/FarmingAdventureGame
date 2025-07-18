@@ -1,8 +1,0 @@
-[gd_resource type="Resource" script_class="PlayerVariablesRes" load_steps=2 format=3 uid="uid://dyyvynjs8k6os"]
-
-[ext_resource type="Script" path="res://Scripts/Resources/PlayerVariablesRes.cs" id="1_80eed"]
-
-[resource]
-script = ExtResource("1_80eed")
-WalkSpeed = 50.0
-DashSpeed = 300.0

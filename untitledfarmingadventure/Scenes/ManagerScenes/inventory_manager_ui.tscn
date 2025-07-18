@@ -1,8 +1,0 @@
-[gd_scene load_steps=3 format=3 uid="uid://dsdxxp8nks7o3"]
-
-[ext_resource type="Script" path="res://Scripts/InventoryRelated/InventoryUIManager.cs" id="1_v880k"]
-[ext_resource type="PackedScene" uid="uid://ccscrjs5ojp21" path="res://Scenes/UtilityScenes/inventory_ui.tscn" id="2_v50re"]
-
-[node name="InventoryManagerUI" type="Node"]
-script = ExtResource("1_v880k")
-InventoryLayer = ExtResource("2_v50re")
