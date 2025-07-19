@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: de09d3b1b59da28468095a79c418267a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4224650032370867833
+    second: Adult_Cow_right-Sheet_0
+  - first:
+      213: 108585579270326486
+    second: Adult_Cow_right-Sheet_1
+  - first:
+      213: 2769819348172401024
+    second: Adult_Cow_right-Sheet_2
+  - first:
+      213: -6835209096935363617
+    second: Adult_Cow_right-Sheet_3
+  - first:
+      213: 2789321948990970646
+    second: Adult_Cow_right-Sheet_4
+  - first:
+      213: -5670407010343229892
+    second: Adult_Cow_right-Sheet_5
+  - first:
+      213: -479353893057445861
+    second: Adult_Cow_right-Sheet_6
+  - first:
+      213: -3318277451253039206
+    second: Adult_Cow_right-Sheet_7
+  - first:
+      213: 3231275591754505197
+    second: Adult_Cow_right-Sheet_8
+  - first:
+      213: 4749100128375992468
+    second: Adult_Cow_right-Sheet_9
+  - first:
+      213: -2972070625378843696
+    second: Adult_Cow_right-Sheet_10
+  - first:
+      213: -5998042028488066923
+    second: Adult_Cow_right-Sheet_11
+  - first:
+      213: 5172477103600334980
+    second: Adult_Cow_right-Sheet_12
+  - first:
+      213: 7223067179516255385
+    second: Adult_Cow_right-Sheet_13
+  - first:
+      213: -4042761617024191332
+    second: Adult_Cow_right-Sheet_14
+  - first:
+      213: -2924310638357050240
+    second: Adult_Cow_right-Sheet_15
+  - first:
+      213: -3943086397701464902
+    second: Adult_Cow_right-Sheet_16
+  - first:
+      213: -7690764453163265232
+    second: Adult_Cow_right-Sheet_17
+  - first:
+      213: 8252559226680598539
+    second: Adult_Cow_right-Sheet_18
+  - first:
+      213: 6173407324697350160
+    second: Adult_Cow_right-Sheet_19
+  - first:
+      213: 1033843060815029629
+    second: Adult_Cow_right-Sheet_20
+  - first:
+      213: -816172493130417930
+    second: Adult_Cow_right-Sheet_21
+  - first:
+      213: 1411971156118054826
+    second: Adult_Cow_right-Sheet_22
+  - first:
+      213: 5182590593029724250
+    second: Adult_Cow_right-Sheet_23
+  - first:
+      213: 7064825431736677997
+    second: Adult_Cow_right-Sheet_24
+  - first:
+      213: 8054504832459728472
+    second: Adult_Cow_right-Sheet_25
+  - first:
+      213: -8112281436478369592
+    second: Adult_Cow_right-Sheet_26
+  - first:
+      213: -7751069949720917362
+    second: Adult_Cow_right-Sheet_27
+  - first:
+      213: 5905648924871010163
+    second: Adult_Cow_right-Sheet_28
+  - first:
+      213: -6080723582795017517
+    second: Adult_Cow_right-Sheet_29
+  - first:
+      213: 2507926918252300909
+    second: Adult_Cow_right-Sheet_30
+  - first:
+      213: -2797274708881247791
+    second: Adult_Cow_right-Sheet_31
+  - first:
+      213: -4821675258883212447
+    second: Adult_Cow_right-Sheet_32
+  - first:
+      213: -5297350966034619019
+    second: Adult_Cow_right-Sheet_33
+  - first:
+      213: -3419401259722355620
+    second: Adult_Cow_right-Sheet_34
+  - first:
+      213: -3900847898329918750
+    second: Adult_Cow_right-Sheet_35
+  - first:
+      213: 6865759923433831073
+    second: Adult_Cow_right-Sheet_36
+  - first:
+      213: 3488209869628191958
+    second: Adult_Cow_right-Sheet_37
+  - first:
+      213: 8498379277675483934
+    second: Adult_Cow_right-Sheet_38
+  - first:
+      213: -2877362483286574737
+    second: Adult_Cow_right-Sheet_39
+  - first:
+      213: 47485105136765681
+    second: Adult_Cow_right-Sheet_40
+  - first:
+      213: -1698109135126340330
+    second: Adult_Cow_right-Sheet_41
+  - first:
+      213: 5706911232558947721
+    second: Adult_Cow_right-Sheet_42
+  - first:
+      213: -6661705094968852570
+    second: Adult_Cow_right-Sheet_43
+  - first:
+      213: 1709010438059104669
+    second: Adult_Cow_right-Sheet_44
+  - first:
+      213: -2366743461057969679
+    second: Adult_Cow_right-Sheet_45
+  - first:
+      213: 519313238058933524
+    second: Adult_Cow_right-Sheet_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 420
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97edecf32d8f0aa30800000000000000
+      internalID: 4224650032370867833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 420
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d843205206c18100800000000000000
+      internalID: 108585579270326486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 420
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e1d3a500607620800000000000000
+      internalID: 2769819348172401024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 420
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb26a37a857421a0800000000000000
+      internalID: -6835209096935363617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 420
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b9ecdb889a5b620800000000000000
+      internalID: 2789321948990970646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 420
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c366b900edaae41b0800000000000000
+      internalID: -5670407010343229892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 420
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b104c9a8c2ef859f0800000000000000
+      internalID: -479353893057445861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 353
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fbfd33d3c13f1d0800000000000000
+      internalID: -3318277451253039206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 353
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debdae9d70cc7dc20800000000000000
+      internalID: 3231275591754505197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 353
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490fc9aa76138e140800000000000000
+      internalID: 4749100128375992468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 353
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3cbee438511c6d0800000000000000
+      internalID: -2972070625378843696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 353
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598fa18dd8ca2cca0800000000000000
+      internalID: -5998042028488066923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 353
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48870f0558458c740800000000000000
+      internalID: 5172477103600334980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 354
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c59df845d7d3460800000000000000
+      internalID: 7223067179516255385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9470b19ab935e7c0800000000000000
+      internalID: -4042761617024191332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c05d3d7f2ca67d0800000000000000
+      internalID: -2924310638357050240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 286
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc545a00d75749c0800000000000000
+      internalID: -3943086397701464902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 286
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033900e2a7ae44590800000000000000
+      internalID: -7690764453163265232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 286
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b006b2a84eaf68270800000000000000
+      internalID: 8252559226680598539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 286
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0105162f0495ca550800000000000000
+      internalID: 6173407324697350160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 286
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75e16949c2f85e00800000000000000
+      internalID: 1033843060815029629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 219
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f83487117f5ca4f0800000000000000
+      internalID: -816172493130417930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 219
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7a3891944589310800000000000000
+      internalID: 1411971156118054826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 219
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5851d19fa24ce740800000000000000
+      internalID: 5182590593029724250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 219
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d667fc29c4d4b0260800000000000000
+      internalID: 7064825431736677997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 219
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856ed64787957cf60800000000000000
+      internalID: 8054504832459728472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 219
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c016b4a3036b6f80800000000000000
+      internalID: -8112281436478369592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 219
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a0ea992faae6490800000000000000
+      internalID: -7751069949720917362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 152
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377aa1f586415f150800000000000000
+      internalID: 5905648924871010163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 152
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d299265e1eec9ba0800000000000000
+      internalID: -6080723582795017517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 152
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a811d9e32fdc220800000000000000
+      internalID: 2507926918252300909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 152
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1f2fd09751e29d0800000000000000
+      internalID: -2797274708881247791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 152
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bf9fbf5e7f51db0800000000000000
+      internalID: -4821675258883212447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 152
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5752feaec570c76b0800000000000000
+      internalID: -5297350966034619019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 152
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cc9b9cba8db80d0800000000000000
+      internalID: -3419401259722355620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 85
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2573901876dd9c0800000000000000
+      internalID: -3900847898329918750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 85
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaf2652644184f50800000000000000
+      internalID: 6865759923433831073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 85
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d43335256c986030800000000000000
+      internalID: 3488209869628191958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 85
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13536c3dee40f570800000000000000
+      internalID: 8498379277675483934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 85
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69faadf01e8118d0800000000000000
+      internalID: -2877362483286574737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 85
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa8cc79373b8a000800000000000000
+      internalID: 47485105136765681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 85
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dd2f21dba1f68e0800000000000000
+      internalID: -1698109135126340330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ddc5d8785033f40800000000000000
+      internalID: 5706911232558947721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 18
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afb8f7e28edc83a0800000000000000
+      internalID: -6661705094968852570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 18
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9992fd40ff97b710800000000000000
+      internalID: 1709010438059104669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 18
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f149299c53a72fd0800000000000000
+      internalID: -2366743461057969679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cow_right-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 18
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d19a973a8f43700800000000000000
+      internalID: 519313238058933524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Adult_Cow_right-Sheet_0: 4224650032370867833
+      Adult_Cow_right-Sheet_1: 108585579270326486
+      Adult_Cow_right-Sheet_10: -2972070625378843696
+      Adult_Cow_right-Sheet_11: -5998042028488066923
+      Adult_Cow_right-Sheet_12: 5172477103600334980
+      Adult_Cow_right-Sheet_13: 7223067179516255385
+      Adult_Cow_right-Sheet_14: -4042761617024191332
+      Adult_Cow_right-Sheet_15: -2924310638357050240
+      Adult_Cow_right-Sheet_16: -3943086397701464902
+      Adult_Cow_right-Sheet_17: -7690764453163265232
+      Adult_Cow_right-Sheet_18: 8252559226680598539
+      Adult_Cow_right-Sheet_19: 6173407324697350160
+      Adult_Cow_right-Sheet_2: 2769819348172401024
+      Adult_Cow_right-Sheet_20: 1033843060815029629
+      Adult_Cow_right-Sheet_21: -816172493130417930
+      Adult_Cow_right-Sheet_22: 1411971156118054826
+      Adult_Cow_right-Sheet_23: 5182590593029724250
+      Adult_Cow_right-Sheet_24: 7064825431736677997
+      Adult_Cow_right-Sheet_25: 8054504832459728472
+      Adult_Cow_right-Sheet_26: -8112281436478369592
+      Adult_Cow_right-Sheet_27: -7751069949720917362
+      Adult_Cow_right-Sheet_28: 5905648924871010163
+      Adult_Cow_right-Sheet_29: -6080723582795017517
+      Adult_Cow_right-Sheet_3: -6835209096935363617
+      Adult_Cow_right-Sheet_30: 2507926918252300909
+      Adult_Cow_right-Sheet_31: -2797274708881247791
+      Adult_Cow_right-Sheet_32: -4821675258883212447
+      Adult_Cow_right-Sheet_33: -5297350966034619019
+      Adult_Cow_right-Sheet_34: -3419401259722355620
+      Adult_Cow_right-Sheet_35: -3900847898329918750
+      Adult_Cow_right-Sheet_36: 6865759923433831073
+      Adult_Cow_right-Sheet_37: 3488209869628191958
+      Adult_Cow_right-Sheet_38: 8498379277675483934
+      Adult_Cow_right-Sheet_39: -2877362483286574737
+      Adult_Cow_right-Sheet_4: 2789321948990970646
+      Adult_Cow_right-Sheet_40: 47485105136765681
+      Adult_Cow_right-Sheet_41: -1698109135126340330
+      Adult_Cow_right-Sheet_42: 5706911232558947721
+      Adult_Cow_right-Sheet_43: -6661705094968852570
+      Adult_Cow_right-Sheet_44: 1709010438059104669
+      Adult_Cow_right-Sheet_45: -2366743461057969679
+      Adult_Cow_right-Sheet_46: 519313238058933524
+      Adult_Cow_right-Sheet_5: -5670407010343229892
+      Adult_Cow_right-Sheet_6: -479353893057445861
+      Adult_Cow_right-Sheet_7: -3318277451253039206
+      Adult_Cow_right-Sheet_8: 3231275591754505197
+      Adult_Cow_right-Sheet_9: 4749100128375992468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

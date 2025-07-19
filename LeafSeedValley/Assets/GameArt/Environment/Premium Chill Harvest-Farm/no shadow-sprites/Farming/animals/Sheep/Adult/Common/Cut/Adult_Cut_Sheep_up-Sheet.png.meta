@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 161a7660b1234714a89fa3b8fd4543f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7325292009955228621
+    second: Adult_Cut_Sheep_up-Sheet_0
+  - first:
+      213: 3551405378401639217
+    second: Adult_Cut_Sheep_up-Sheet_1
+  - first:
+      213: -350475932184279097
+    second: Adult_Cut_Sheep_up-Sheet_2
+  - first:
+      213: 5399428784847175176
+    second: Adult_Cut_Sheep_up-Sheet_3
+  - first:
+      213: 6837609623584104558
+    second: Adult_Cut_Sheep_up-Sheet_4
+  - first:
+      213: -3257608434251755236
+    second: Adult_Cut_Sheep_up-Sheet_5
+  - first:
+      213: 5527415407094600179
+    second: Adult_Cut_Sheep_up-Sheet_6
+  - first:
+      213: 9030737128411389645
+    second: Adult_Cut_Sheep_up-Sheet_7
+  - first:
+      213: 1602165243838672408
+    second: Adult_Cut_Sheep_up-Sheet_8
+  - first:
+      213: 7029994461917772401
+    second: Adult_Cut_Sheep_up-Sheet_9
+  - first:
+      213: -8391925276421655878
+    second: Adult_Cut_Sheep_up-Sheet_10
+  - first:
+      213: -4602790537558668408
+    second: Adult_Cut_Sheep_up-Sheet_11
+  - first:
+      213: 3380829281582226231
+    second: Adult_Cut_Sheep_up-Sheet_12
+  - first:
+      213: -1485789982275161988
+    second: Adult_Cut_Sheep_up-Sheet_13
+  - first:
+      213: -2918954631009098763
+    second: Adult_Cut_Sheep_up-Sheet_14
+  - first:
+      213: 1430831607283737667
+    second: Adult_Cut_Sheep_up-Sheet_15
+  - first:
+      213: -2780563919954706152
+    second: Adult_Cut_Sheep_up-Sheet_16
+  - first:
+      213: 7303166474449558026
+    second: Adult_Cut_Sheep_up-Sheet_17
+  - first:
+      213: -2528283156963690367
+    second: Adult_Cut_Sheep_up-Sheet_18
+  - first:
+      213: -2824450873062104945
+    second: Adult_Cut_Sheep_up-Sheet_19
+  - first:
+      213: 3299431359401676471
+    second: Adult_Cut_Sheep_up-Sheet_20
+  - first:
+      213: -3289587271276518857
+    second: Adult_Cut_Sheep_up-Sheet_21
+  - first:
+      213: 111384142524756293
+    second: Adult_Cut_Sheep_up-Sheet_22
+  - first:
+      213: -5045355344903355175
+    second: Adult_Cut_Sheep_up-Sheet_23
+  - first:
+      213: 8149434438022203870
+    second: Adult_Cut_Sheep_up-Sheet_24
+  - first:
+      213: 7192395148834160600
+    second: Adult_Cut_Sheep_up-Sheet_25
+  - first:
+      213: -5407651453376840115
+    second: Adult_Cut_Sheep_up-Sheet_26
+  - first:
+      213: 7659790139273130937
+    second: Adult_Cut_Sheep_up-Sheet_27
+  - first:
+      213: 4489246029397561886
+    second: Adult_Cut_Sheep_up-Sheet_28
+  - first:
+      213: -2518410369550210799
+    second: Adult_Cut_Sheep_up-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 291
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb7361a54aa8a560800000000000000
+      internalID: 7325292009955228621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 291
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b9a012060294130800000000000000
+      internalID: 3551405378401639217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 291
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c705df1ffbd22bf0800000000000000
+      internalID: -350475932184279097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 291
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eb5d65fdf9eea40800000000000000
+      internalID: 5399428784847175176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 291
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60e586b9b114ee50800000000000000
+      internalID: 6837609623584104558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 291
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c119b1b7366aac2d0800000000000000
+      internalID: -3257608434251755236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 222
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f115e9f60355bc40800000000000000
+      internalID: 5527415407094600179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 222
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce54e6429f935d70800000000000000
+      internalID: 9030737128411389645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 223
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e2b76fcc80c3610800000000000000
+      internalID: 1602165243838672408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 226
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a729377be8f8160800000000000000
+      internalID: 7029994461917772401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 224
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2f3456c64e98b80800000000000000
+      internalID: -8391925276421655878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 222
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b4949846a9f10c0800000000000000
+      internalID: -4602790537558668408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 153
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b92f6b15e1bee20800000000000000
+      internalID: 3380829281582226231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 157
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b7a712e9616be0800000000000000
+      internalID: -1485789982275161988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 153
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3a8377a3acd77d0800000000000000
+      internalID: -2918954631009098763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 153
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3446c8514c55bd310800000000000000
+      internalID: 1430831607283737667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 153
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81105dbc8d37969d0800000000000000
+      internalID: -2780563919954706152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 153
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9b15f63f0a5560800000000000000
+      internalID: 7303166474449558026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 84
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18873993ddbb9ecd0800000000000000
+      internalID: -2528283156963690367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 84
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80679145e88dc8d0800000000000000
+      internalID: -2824450873062104945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 84
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7becbe9175fe9cd20800000000000000
+      internalID: 3299431359401676471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 84
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732aae54ec90952d0800000000000000
+      internalID: -3289587271276518857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 84
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541bcc89947bb8100800000000000000
+      internalID: 111384142524756293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 84
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4ca659b0c4bf9b0800000000000000
+      internalID: -5045355344903355175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed906ae917b981170800000000000000
+      internalID: 8149434438022203870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 15
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfb08ae74580d360800000000000000
+      internalID: 7192395148834160600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 15
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e395477a924f4b0800000000000000
+      internalID: -5407651453376840115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b33a616c8a0d4a60800000000000000
+      internalID: 7659790139273130937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 15
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12139b8a710d4e30800000000000000
+      internalID: 4489246029397561886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Cut_Sheep_up-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ac4cac1fcc0dd0800000000000000
+      internalID: -2518410369550210799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Adult_Cut_Sheep_up-Sheet_0: 7325292009955228621
+      Adult_Cut_Sheep_up-Sheet_1: 3551405378401639217
+      Adult_Cut_Sheep_up-Sheet_10: -8391925276421655878
+      Adult_Cut_Sheep_up-Sheet_11: -4602790537558668408
+      Adult_Cut_Sheep_up-Sheet_12: 3380829281582226231
+      Adult_Cut_Sheep_up-Sheet_13: -1485789982275161988
+      Adult_Cut_Sheep_up-Sheet_14: -2918954631009098763
+      Adult_Cut_Sheep_up-Sheet_15: 1430831607283737667
+      Adult_Cut_Sheep_up-Sheet_16: -2780563919954706152
+      Adult_Cut_Sheep_up-Sheet_17: 7303166474449558026
+      Adult_Cut_Sheep_up-Sheet_18: -2528283156963690367
+      Adult_Cut_Sheep_up-Sheet_19: -2824450873062104945
+      Adult_Cut_Sheep_up-Sheet_2: -350475932184279097
+      Adult_Cut_Sheep_up-Sheet_20: 3299431359401676471
+      Adult_Cut_Sheep_up-Sheet_21: -3289587271276518857
+      Adult_Cut_Sheep_up-Sheet_22: 111384142524756293
+      Adult_Cut_Sheep_up-Sheet_23: -5045355344903355175
+      Adult_Cut_Sheep_up-Sheet_24: 8149434438022203870
+      Adult_Cut_Sheep_up-Sheet_25: 7192395148834160600
+      Adult_Cut_Sheep_up-Sheet_26: -5407651453376840115
+      Adult_Cut_Sheep_up-Sheet_27: 7659790139273130937
+      Adult_Cut_Sheep_up-Sheet_28: 4489246029397561886
+      Adult_Cut_Sheep_up-Sheet_29: -2518410369550210799
+      Adult_Cut_Sheep_up-Sheet_3: 5399428784847175176
+      Adult_Cut_Sheep_up-Sheet_4: 6837609623584104558
+      Adult_Cut_Sheep_up-Sheet_5: -3257608434251755236
+      Adult_Cut_Sheep_up-Sheet_6: 5527415407094600179
+      Adult_Cut_Sheep_up-Sheet_7: 9030737128411389645
+      Adult_Cut_Sheep_up-Sheet_8: 1602165243838672408
+      Adult_Cut_Sheep_up-Sheet_9: 7029994461917772401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 51ae582df8c5ac746a992cc3282f05f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4403195550917991102
+    second: Pretzel_BG-Sheet_0
+  - first:
+      213: 4693704037121068610
+    second: Pretzel_BG-Sheet_1
+  - first:
+      213: 8200752352770263697
+    second: Pretzel_BG-Sheet_2
+  - first:
+      213: -7833894061886554992
+    second: Pretzel_BG-Sheet_3
+  - first:
+      213: -4784716650351498799
+    second: Pretzel_BG-Sheet_4
+  - first:
+      213: 4456845735637947371
+    second: Pretzel_BG-Sheet_5
+  - first:
+      213: -3186079515447717977
+    second: Pretzel_BG-Sheet_6
+  - first:
+      213: 1293437099378135371
+    second: Pretzel_BG-Sheet_7
+  - first:
+      213: -9038504294377001008
+    second: Pretzel_BG-Sheet_8
+  - first:
+      213: 5946524676747843902
+    second: Pretzel_BG-Sheet_9
+  - first:
+      213: -3869541837702836979
+    second: Pretzel_BG-Sheet_10
+  - first:
+      213: -8997148701530448705
+    second: Pretzel_BG-Sheet_11
+  - first:
+      213: 2011415303137664436
+    second: Pretzel_BG-Sheet_12
+  - first:
+      213: -5836617597011067898
+    second: Pretzel_BG-Sheet_13
+  - first:
+      213: 2646066617019370051
+    second: Pretzel_BG-Sheet_14
+  - first:
+      213: -8831283488447408347
+    second: Pretzel_BG-Sheet_15
+  - first:
+      213: 3837234310126482329
+    second: Pretzel_BG-Sheet_16
+  - first:
+      213: -4857844920418385195
+    second: Pretzel_BG-Sheet_17
+  - first:
+      213: -801354668003078413
+    second: Pretzel_BG-Sheet_18
+  - first:
+      213: 7291104716697695229
+    second: Pretzel_BG-Sheet_19
+  - first:
+      213: 3682516534071294197
+    second: Pretzel_BG-Sheet_20
+  - first:
+      213: -7622062396462190304
+    second: Pretzel_BG-Sheet_21
+  - first:
+      213: 5419318945272130486
+    second: Pretzel_BG-Sheet_22
+  - first:
+      213: 662340167438871296
+    second: Pretzel_BG-Sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e3feb9f4b4e2c0800000000000000
+      internalID: -4403195550917991102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e0b6514f2632140800000000000000
+      internalID: 4693704037121068610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a02ddb0dceec170800000000000000
+      internalID: 8200752352770263697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cb5314bda684390800000000000000
+      internalID: -7833894061886554992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9e6e89e85499db0800000000000000
+      internalID: -4784716650351498799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be31a6b4595e9dd30800000000000000
+      internalID: 4456845735637947371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af079faf85c8c3d0800000000000000
+      internalID: -3186079515447717977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41debf503633f110800000000000000
+      internalID: 1293437099378135371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfe0d87b38c09280800000000000000
+      internalID: -9038504294377001008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3956adffac468250800000000000000
+      internalID: 5946524676747843902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dc5384330ac4ac0800000000000000
+      internalID: -3869541837702836979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc19e5cce4b32380800000000000000
+      internalID: -8997148701530448705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 20
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd1e4faf8bf9eb10800000000000000
+      internalID: 2011415303137664436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c7c50283b200fa0800000000000000
+      internalID: -5836617597011067898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a85779197b8b420800000000000000
+      internalID: 2646066617019370051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527d158157af07580800000000000000
+      internalID: -8831283488447408347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993b7074648904530800000000000000
+      internalID: 3837234310126482329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2c68868c7759cb0800000000000000
+      internalID: -4857844920418385195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe439adc2401e4f0800000000000000
+      internalID: -801354668003078413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3f0f22c153f2560800000000000000
+      internalID: 7291104716697695229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f872d4e64dea1330800000000000000
+      internalID: 3682516534071294197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021320342aef83690800000000000000
+      internalID: -7622062396462190304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 19
+        width: 79
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb6d713ed9453b40800000000000000
+      internalID: 5419318945272130486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pretzel_BG-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 19
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00baaa08fda113900800000000000000
+      internalID: 662340167438871296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pretzel_BG-Sheet_0: -4403195550917991102
+      Pretzel_BG-Sheet_1: 4693704037121068610
+      Pretzel_BG-Sheet_10: -3869541837702836979
+      Pretzel_BG-Sheet_11: -8997148701530448705
+      Pretzel_BG-Sheet_12: 2011415303137664436
+      Pretzel_BG-Sheet_13: -5836617597011067898
+      Pretzel_BG-Sheet_14: 2646066617019370051
+      Pretzel_BG-Sheet_15: -8831283488447408347
+      Pretzel_BG-Sheet_16: 3837234310126482329
+      Pretzel_BG-Sheet_17: -4857844920418385195
+      Pretzel_BG-Sheet_18: -801354668003078413
+      Pretzel_BG-Sheet_19: 7291104716697695229
+      Pretzel_BG-Sheet_2: 8200752352770263697
+      Pretzel_BG-Sheet_20: 3682516534071294197
+      Pretzel_BG-Sheet_21: -7622062396462190304
+      Pretzel_BG-Sheet_22: 5419318945272130486
+      Pretzel_BG-Sheet_23: 662340167438871296
+      Pretzel_BG-Sheet_3: -7833894061886554992
+      Pretzel_BG-Sheet_4: -4784716650351498799
+      Pretzel_BG-Sheet_5: 4456845735637947371
+      Pretzel_BG-Sheet_6: -3186079515447717977
+      Pretzel_BG-Sheet_7: 1293437099378135371
+      Pretzel_BG-Sheet_8: -9038504294377001008
+      Pretzel_BG-Sheet_9: 5946524676747843902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: bc6846ad278832e4da983ed7c3bb4d9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7171611442370123637
+    second: mayo_maker-Sheet_0
+  - first:
+      213: 4642403079018027405
+    second: mayo_maker-Sheet_1
+  - first:
+      213: -1489454307052977822
+    second: mayo_maker-Sheet_2
+  - first:
+      213: 8217797523387770434
+    second: mayo_maker-Sheet_3
+  - first:
+      213: -4459304942155889142
+    second: mayo_maker-Sheet_4
+  - first:
+      213: -5900614157297283973
+    second: mayo_maker-Sheet_5
+  - first:
+      213: 1436155591812771966
+    second: mayo_maker-Sheet_6
+  - first:
+      213: -3285324082998864159
+    second: mayo_maker-Sheet_7
+  - first:
+      213: 8410076915876929028
+    second: mayo_maker-Sheet_8
+  - first:
+      213: 4889102492583006993
+    second: mayo_maker-Sheet_9
+  - first:
+      213: 3761135598842278967
+    second: mayo_maker-Sheet_10
+  - first:
+      213: 7559568757305807334
+    second: mayo_maker-Sheet_11
+  - first:
+      213: 1229131238719341431
+    second: mayo_maker-Sheet_12
+  - first:
+      213: -4619469036717936169
+    second: mayo_maker-Sheet_13
+  - first:
+      213: 3222327626833966472
+    second: mayo_maker-Sheet_14
+  - first:
+      213: -2589578822627479431
+    second: mayo_maker-Sheet_15
+  - first:
+      213: -1189336060746526096
+    second: mayo_maker-Sheet_16
+  - first:
+      213: 629370109390939414
+    second: mayo_maker-Sheet_17
+  - first:
+      213: 8047105464549130495
+    second: mayo_maker-Sheet_18
+  - first:
+      213: -2136208034953863585
+    second: mayo_maker-Sheet_19
+  - first:
+      213: -5628166039982155340
+    second: mayo_maker-Sheet_20
+  - first:
+      213: -817448387526914814
+    second: mayo_maker-Sheet_21
+  - first:
+      213: -7766599757454294313
+    second: mayo_maker-Sheet_22
+  - first:
+      213: -5094014833360961192
+    second: mayo_maker-Sheet_23
+  - first:
+      213: 2578531254985128278
+    second: mayo_maker-Sheet_24
+  - first:
+      213: 2383577711614718961
+    second: mayo_maker-Sheet_25
+  - first:
+      213: 7173803672052172601
+    second: mayo_maker-Sheet_26
+  - first:
+      213: 1233278377325094797
+    second: mayo_maker-Sheet_27
+  - first:
+      213: -6303782230445722612
+    second: mayo_maker-Sheet_28
+  - first:
+      213: -3886763977152722505
+    second: mayo_maker-Sheet_29
+  - first:
+      213: 5454498599525280125
+    second: mayo_maker-Sheet_30
+  - first:
+      213: -2228881835113977928
+    second: mayo_maker-Sheet_31
+  - first:
+      213: -7096723133938215350
+    second: mayo_maker-Sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e666d361597c90800000000000000
+      internalID: -7171611442370123637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899c0df0012d6040800000000000000
+      internalID: 4642403079018027405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618eeef235645be0800000000000000
+      internalID: -1489454307052977822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246ec99ce4b7b0270800000000000000
+      internalID: 8217797523387770434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0687a118cd5d12c0800000000000000
+      internalID: -4459304942155889142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c87adcfaecc1ea0800000000000000
+      internalID: -5900614157297283973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70f034d6ef3ee310800000000000000
+      internalID: 1436155591812771966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e611d4272f2862d0800000000000000
+      internalID: -3285324082998864159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e9e80856896b470800000000000000
+      internalID: 8410076915876929028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11313ec30d499d340800000000000000
+      internalID: 4889102492583006993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734f11956ec323430800000000000000
+      internalID: 3761135598842278967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e19a528bbbf8e860800000000000000
+      internalID: 7559568757305807334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c3327950ce0110800000000000000
+      internalID: 1229131238719341431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1f287d26954efb0800000000000000
+      internalID: -4619469036717936169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885bd5b67e108bc20800000000000000
+      internalID: 3222327626833966472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9703a6fe7c7ff0cd0800000000000000
+      internalID: -2589578822627479431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07214a47721ae7fe0800000000000000
+      internalID: -1189336060746526096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615ee7aa7c8fbb800800000000000000
+      internalID: 629370109390939414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff04e8cd8cf0daf60800000000000000
+      internalID: 8047105464549130495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5d3e3c1aaa52e0800000000000000
+      internalID: -2136208034953863585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b952f15eccb4e1b0800000000000000
+      internalID: -5628166039982155340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d0e37c507d7a4f0800000000000000
+      internalID: -817448387526914814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d24d487bae773490800000000000000
+      internalID: -7766599757454294313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 6
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85103f09f7c6e49b0800000000000000
+      internalID: -5094014833360961192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65971a7c388c8c320800000000000000
+      internalID: 2578531254985128278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 6
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3755bcc4b241120800000000000000
+      internalID: 2383577711614718961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93700196e687e8360800000000000000
+      internalID: 7173803672052172601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 6
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87e1a5662c7d1110800000000000000
+      internalID: 1233278377325094797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04fcd4d5777488a0800000000000000
+      internalID: -6303782230445722612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 6
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9070871c07f0ac0800000000000000
+      internalID: -3886763977152722505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 6
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79e19cb39542bb40800000000000000
+      internalID: 5454498599525280125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 6
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7e5b3b7cb6111e0800000000000000
+      internalID: -2228881835113977928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayo_maker-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 6
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46d054e8ef538d90800000000000000
+      internalID: -7096723133938215350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mayo_maker-Sheet_0: -7171611442370123637
+      mayo_maker-Sheet_1: 4642403079018027405
+      mayo_maker-Sheet_10: 3761135598842278967
+      mayo_maker-Sheet_11: 7559568757305807334
+      mayo_maker-Sheet_12: 1229131238719341431
+      mayo_maker-Sheet_13: -4619469036717936169
+      mayo_maker-Sheet_14: 3222327626833966472
+      mayo_maker-Sheet_15: -2589578822627479431
+      mayo_maker-Sheet_16: -1189336060746526096
+      mayo_maker-Sheet_17: 629370109390939414
+      mayo_maker-Sheet_18: 8047105464549130495
+      mayo_maker-Sheet_19: -2136208034953863585
+      mayo_maker-Sheet_2: -1489454307052977822
+      mayo_maker-Sheet_20: -5628166039982155340
+      mayo_maker-Sheet_21: -817448387526914814
+      mayo_maker-Sheet_22: -7766599757454294313
+      mayo_maker-Sheet_23: -5094014833360961192
+      mayo_maker-Sheet_24: 2578531254985128278
+      mayo_maker-Sheet_25: 2383577711614718961
+      mayo_maker-Sheet_26: 7173803672052172601
+      mayo_maker-Sheet_27: 1233278377325094797
+      mayo_maker-Sheet_28: -6303782230445722612
+      mayo_maker-Sheet_29: -3886763977152722505
+      mayo_maker-Sheet_3: 8217797523387770434
+      mayo_maker-Sheet_30: 5454498599525280125
+      mayo_maker-Sheet_31: -2228881835113977928
+      mayo_maker-Sheet_32: -7096723133938215350
+      mayo_maker-Sheet_4: -4459304942155889142
+      mayo_maker-Sheet_5: -5900614157297283973
+      mayo_maker-Sheet_6: 1436155591812771966
+      mayo_maker-Sheet_7: -3285324082998864159
+      mayo_maker-Sheet_8: 8410076915876929028
+      mayo_maker-Sheet_9: 4889102492583006993
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 8916758eac55827419a776feed63c994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4612837062315084964
+    second: Adult_Chicken_right-Sheet_0
+  - first:
+      213: 6878968662508703435
+    second: Adult_Chicken_right-Sheet_1
+  - first:
+      213: 708072157202102526
+    second: Adult_Chicken_right-Sheet_2
+  - first:
+      213: -3739965521269519292
+    second: Adult_Chicken_right-Sheet_3
+  - first:
+      213: -135054321066087920
+    second: Adult_Chicken_right-Sheet_4
+  - first:
+      213: 1523944183096951798
+    second: Adult_Chicken_right-Sheet_5
+  - first:
+      213: 5476618362246612368
+    second: Adult_Chicken_right-Sheet_6
+  - first:
+      213: 2806173657433373239
+    second: Adult_Chicken_right-Sheet_7
+  - first:
+      213: -6592720087992025882
+    second: Adult_Chicken_right-Sheet_8
+  - first:
+      213: -7418057439032992887
+    second: Adult_Chicken_right-Sheet_9
+  - first:
+      213: 562645502366148001
+    second: Adult_Chicken_right-Sheet_10
+  - first:
+      213: -4035446204501397044
+    second: Adult_Chicken_right-Sheet_11
+  - first:
+      213: 715904441817803801
+    second: Adult_Chicken_right-Sheet_12
+  - first:
+      213: 3209255325403133459
+    second: Adult_Chicken_right-Sheet_13
+  - first:
+      213: -8845769004165129397
+    second: Adult_Chicken_right-Sheet_14
+  - first:
+      213: -2374568679211919488
+    second: Adult_Chicken_right-Sheet_15
+  - first:
+      213: 3147417330425774578
+    second: Adult_Chicken_right-Sheet_16
+  - first:
+      213: -1967205870959615992
+    second: Adult_Chicken_right-Sheet_17
+  - first:
+      213: -1000183278566793410
+    second: Adult_Chicken_right-Sheet_18
+  - first:
+      213: -1319028058044157806
+    second: Adult_Chicken_right-Sheet_19
+  - first:
+      213: -1431843588325806309
+    second: Adult_Chicken_right-Sheet_20
+  - first:
+      213: 485265802601209970
+    second: Adult_Chicken_right-Sheet_21
+  - first:
+      213: 2098357775894777527
+    second: Adult_Chicken_right-Sheet_22
+  - first:
+      213: -7741605707730394864
+    second: Adult_Chicken_right-Sheet_23
+  - first:
+      213: -2063857124273195388
+    second: Adult_Chicken_right-Sheet_24
+  - first:
+      213: 3904869719077041830
+    second: Adult_Chicken_right-Sheet_25
+  - first:
+      213: 1858018237325062895
+    second: Adult_Chicken_right-Sheet_26
+  - first:
+      213: 2383089530862091605
+    second: Adult_Chicken_right-Sheet_27
+  - first:
+      213: 3869422767296080290
+    second: Adult_Chicken_right-Sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 204
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0c0a4ed6140040800000000000000
+      internalID: 4612837062315084964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 204
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce00ed5d81077f50800000000000000
+      internalID: 6878968662508703435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 204
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8306d10e393d900800000000000000
+      internalID: 708072157202102526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 204
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c85807c29f81cc0800000000000000
+      internalID: -3739965521269519292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 204
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a697f7fc0302ef0800000000000000
+      internalID: -135054321066087920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3440b0923262510800000000000000
+      internalID: 1523944183096951798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 156
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954714526bd00c40800000000000000
+      internalID: 5476618362246612368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 156
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aff5dd21881f620800000000000000
+      internalID: 2806173657433373239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 156
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec37ab7204f184a0800000000000000
+      internalID: -6592720087992025882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9efecf04cd0990800000000000000
+      internalID: -7418057439032992887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 156
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a561077a1beec700800000000000000
+      internalID: 562645502366148001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 156
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1fe76ce073ff7c0800000000000000
+      internalID: -4035446204501397044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 108
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cacabfb476fe900800000000000000
+      internalID: 715904441817803801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 108
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3163f2017b0998c20800000000000000
+      internalID: 3209255325403133459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 108
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b939525f38d3580800000000000000
+      internalID: -8845769004165129397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 108
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0871ec40e56db0fd0800000000000000
+      internalID: -2374568679211919488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1cfe3e26fddab20800000000000000
+      internalID: 3147417330425774578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 108
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a36ddea413b4e0800000000000000
+      internalID: -1967205870959615992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f9dba7b92ae12f0800000000000000
+      internalID: -1000183278566793410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290318f38fed1bde0800000000000000
+      internalID: -1319028058044157806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 60
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f6be7b7d1112ce0800000000000000
+      internalID: -1431843588325806309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 60
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270a0b92da20cb600800000000000000
+      internalID: 485265802601209970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 60
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be03e3974dde1d10800000000000000
+      internalID: 2098357775894777527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 60
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e79720aa409490800000000000000
+      internalID: -7741605707730394864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486798851e4bb53e0800000000000000
+      internalID: -2063857124273195388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a634c31252e03630800000000000000
+      internalID: 3904869719077041830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe235fd1eb109c910800000000000000
+      internalID: 1858018237325062895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 12
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dbcfa5d4f621120800000000000000
+      internalID: 2383089530862091605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Chicken_right-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 12
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9ed7a7183f2b530800000000000000
+      internalID: 3869422767296080290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Adult_Chicken_right-Sheet_0: 4612837062315084964
+      Adult_Chicken_right-Sheet_1: 6878968662508703435
+      Adult_Chicken_right-Sheet_10: 562645502366148001
+      Adult_Chicken_right-Sheet_11: -4035446204501397044
+      Adult_Chicken_right-Sheet_12: 715904441817803801
+      Adult_Chicken_right-Sheet_13: 3209255325403133459
+      Adult_Chicken_right-Sheet_14: -8845769004165129397
+      Adult_Chicken_right-Sheet_15: -2374568679211919488
+      Adult_Chicken_right-Sheet_16: 3147417330425774578
+      Adult_Chicken_right-Sheet_17: -1967205870959615992
+      Adult_Chicken_right-Sheet_18: -1000183278566793410
+      Adult_Chicken_right-Sheet_19: -1319028058044157806
+      Adult_Chicken_right-Sheet_2: 708072157202102526
+      Adult_Chicken_right-Sheet_20: -1431843588325806309
+      Adult_Chicken_right-Sheet_21: 485265802601209970
+      Adult_Chicken_right-Sheet_22: 2098357775894777527
+      Adult_Chicken_right-Sheet_23: -7741605707730394864
+      Adult_Chicken_right-Sheet_24: -2063857124273195388
+      Adult_Chicken_right-Sheet_25: 3904869719077041830
+      Adult_Chicken_right-Sheet_26: 1858018237325062895
+      Adult_Chicken_right-Sheet_27: 2383089530862091605
+      Adult_Chicken_right-Sheet_28: 3869422767296080290
+      Adult_Chicken_right-Sheet_3: -3739965521269519292
+      Adult_Chicken_right-Sheet_4: -135054321066087920
+      Adult_Chicken_right-Sheet_5: 1523944183096951798
+      Adult_Chicken_right-Sheet_6: 5476618362246612368
+      Adult_Chicken_right-Sheet_7: 2806173657433373239
+      Adult_Chicken_right-Sheet_8: -6592720087992025882
+      Adult_Chicken_right-Sheet_9: -7418057439032992887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

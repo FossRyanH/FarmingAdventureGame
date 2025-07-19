@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 16210fed3e51a184d9031d14ed906c50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8859835011140075856
+    second: tilemap_spring_0
+  - first:
+      213: -14088278525784610
+    second: tilemap_spring_1
+  - first:
+      213: -4383548110571226911
+    second: tilemap_spring_2
+  - first:
+      213: -2562734783790299832
+    second: tilemap_spring_3
+  - first:
+      213: 3869887720945313842
+    second: tilemap_spring_4
+  - first:
+      213: 5997673307711640401
+    second: tilemap_spring_5
+  - first:
+      213: -1131525686861922304
+    second: tilemap_spring_6
+  - first:
+      213: 5682238780659354110
+    second: tilemap_spring_7
+  - first:
+      213: 3461115356698101022
+    second: tilemap_spring_8
+  - first:
+      213: -2054522186609077561
+    second: tilemap_spring_9
+  - first:
+      213: 1053570229114736607
+    second: tilemap_spring_10
+  - first:
+      213: -3032107242960479982
+    second: tilemap_spring_11
+  - first:
+      213: 5426843651652157168
+    second: tilemap_spring_12
+  - first:
+      213: 3827856805212942027
+    second: tilemap_spring_13
+  - first:
+      213: 128816167826117462
+    second: tilemap_spring_14
+  - first:
+      213: -8568540497932428687
+    second: tilemap_spring_15
+  - first:
+      213: 4453395058155123373
+    second: tilemap_spring_16
+  - first:
+      213: -4443369928971161027
+    second: tilemap_spring_17
+  - first:
+      213: -2173809443362253745
+    second: tilemap_spring_18
+  - first:
+      213: -4062360692349360232
+    second: tilemap_spring_19
+  - first:
+      213: 3186290874401183618
+    second: tilemap_spring_20
+  - first:
+      213: 6472681821458278209
+    second: tilemap_spring_21
+  - first:
+      213: 4052062805226462727
+    second: tilemap_spring_22
+  - first:
+      213: -6214330434335286298
+    second: tilemap_spring_23
+  - first:
+      213: -6708182822173996038
+    second: tilemap_spring_24
+  - first:
+      213: -8872288571449861793
+    second: tilemap_spring_25
+  - first:
+      213: 4021696786387039164
+    second: tilemap_spring_26
+  - first:
+      213: 8037163895890646288
+    second: tilemap_spring_27
+  - first:
+      213: -865074626911279017
+    second: tilemap_spring_28
+  - first:
+      213: 6692160748072080424
+    second: tilemap_spring_29
+  - first:
+      213: -501250288532581378
+    second: tilemap_spring_30
+  - first:
+      213: 3875917393028314365
+    second: tilemap_spring_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap_spring_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 289
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be3d60bffa8b0580800000000000000
+      internalID: -8859835011140075856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd49fa09c2fdcff0800000000000000
+      internalID: -14088278525784610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8319de7328a23c0800000000000000
+      internalID: -4383548110571226911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84544a6ca465f6cd0800000000000000
+      internalID: -2562734783790299832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238679fe06a94b530800000000000000
+      internalID: 3869887720945313842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1539ef8a8140c3350800000000000000
+      internalID: 5997673307711640401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0008d5402630c40f0800000000000000
+      internalID: -1131525686861922304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 93
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef94622b01e5bde40800000000000000
+      internalID: 5682238780659354110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 126
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c3a2441a580030800000000000000
+      internalID: 3461115356698101022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2d104e4fedc73e0800000000000000
+      internalID: -2054522186609077561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 109
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf8f449a880f9e00800000000000000
+      internalID: 1053570229114736607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219937ef68acbe5d0800000000000000
+      internalID: -3032107242960479982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 110
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe7f4c6c85005b40800000000000000
+      internalID: 5426843651652157168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce67c5cb774f1530800000000000000
+      internalID: 3827856805212942027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6535a944f95a9c100800000000000000
+      internalID: 128816167826117462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a5031b0dd661980800000000000000
+      internalID: -8568540497932428687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f0d5d533adcd30800000000000000
+      internalID: 4453395058155123373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d327502779af552c0800000000000000
+      internalID: -4443369928971161027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44d00f14d315d1e0800000000000000
+      internalID: -2173809443362253745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897a10f39789f97c0800000000000000
+      internalID: -4062360692349360232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28750c72baaf73c20800000000000000
+      internalID: 3186290874401183618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1472628a2d593d950800000000000000
+      internalID: 6472681821458278209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e981117a1db3830800000000000000
+      internalID: 4052062805226462727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebdb88156342c9a0800000000000000
+      internalID: -6214330434335286298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb01f3c34fb7e2a0800000000000000
+      internalID: -6708182822173996038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5919f93d8c4fd480800000000000000
+      internalID: -8872288571449861793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 13
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3fdea5befefc730800000000000000
+      internalID: 4021696786387039164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 61
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01518280bfdb98f60800000000000000
+      internalID: 8037163895890646288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 61
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758efbec533aef3f0800000000000000
+      internalID: -865074626911279017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82416a86eb45fdc50800000000000000
+      internalID: 6692160748072080424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 61
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef31470b4833b09f0800000000000000
+      internalID: -501250288532581378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_spring_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4f53e55560ac530800000000000000
+      internalID: 3875917393028314365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tilemap_spring_0: -8859835011140075856
+      tilemap_spring_1: -14088278525784610
+      tilemap_spring_10: 1053570229114736607
+      tilemap_spring_11: -3032107242960479982
+      tilemap_spring_12: 5426843651652157168
+      tilemap_spring_13: 3827856805212942027
+      tilemap_spring_14: 128816167826117462
+      tilemap_spring_15: -8568540497932428687
+      tilemap_spring_16: 4453395058155123373
+      tilemap_spring_17: -4443369928971161027
+      tilemap_spring_18: -2173809443362253745
+      tilemap_spring_19: -4062360692349360232
+      tilemap_spring_2: -4383548110571226911
+      tilemap_spring_20: 3186290874401183618
+      tilemap_spring_21: 6472681821458278209
+      tilemap_spring_22: 4052062805226462727
+      tilemap_spring_23: -6214330434335286298
+      tilemap_spring_24: -6708182822173996038
+      tilemap_spring_25: -8872288571449861793
+      tilemap_spring_26: 4021696786387039164
+      tilemap_spring_27: 8037163895890646288
+      tilemap_spring_28: -865074626911279017
+      tilemap_spring_29: 6692160748072080424
+      tilemap_spring_3: -2562734783790299832
+      tilemap_spring_30: -501250288532581378
+      tilemap_spring_31: 3875917393028314365
+      tilemap_spring_4: 3869887720945313842
+      tilemap_spring_5: 5997673307711640401
+      tilemap_spring_6: -1131525686861922304
+      tilemap_spring_7: 5682238780659354110
+      tilemap_spring_8: 3461115356698101022
+      tilemap_spring_9: -2054522186609077561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

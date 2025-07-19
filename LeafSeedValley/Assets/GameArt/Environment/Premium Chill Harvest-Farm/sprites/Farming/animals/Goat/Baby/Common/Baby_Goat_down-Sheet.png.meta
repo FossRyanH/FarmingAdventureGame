@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 133a81e413b1c6748bd2c4512cd22da6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2613718233236860490
+    second: Baby_Goat_down-Sheet_0
+  - first:
+      213: -8102541930225371699
+    second: Baby_Goat_down-Sheet_1
+  - first:
+      213: 6661993054684293418
+    second: Baby_Goat_down-Sheet_2
+  - first:
+      213: -5396264803780895907
+    second: Baby_Goat_down-Sheet_3
+  - first:
+      213: 3584416488627924485
+    second: Baby_Goat_down-Sheet_4
+  - first:
+      213: 2924667480669864902
+    second: Baby_Goat_down-Sheet_5
+  - first:
+      213: -4671391931731810985
+    second: Baby_Goat_down-Sheet_6
+  - first:
+      213: 1870709516770853847
+    second: Baby_Goat_down-Sheet_7
+  - first:
+      213: -6819345490138820200
+    second: Baby_Goat_down-Sheet_8
+  - first:
+      213: 331862460994004445
+    second: Baby_Goat_down-Sheet_9
+  - first:
+      213: 8050630775052291163
+    second: Baby_Goat_down-Sheet_10
+  - first:
+      213: 7776367225069100119
+    second: Baby_Goat_down-Sheet_11
+  - first:
+      213: 1951711148172264169
+    second: Baby_Goat_down-Sheet_12
+  - first:
+      213: 6214716472252617082
+    second: Baby_Goat_down-Sheet_13
+  - first:
+      213: 5532436590236502357
+    second: Baby_Goat_down-Sheet_14
+  - first:
+      213: 5273391795323918599
+    second: Baby_Goat_down-Sheet_15
+  - first:
+      213: -5863029939717617953
+    second: Baby_Goat_down-Sheet_16
+  - first:
+      213: 3293049505774258656
+    second: Baby_Goat_down-Sheet_17
+  - first:
+      213: -7513033707011397609
+    second: Baby_Goat_down-Sheet_18
+  - first:
+      213: 5946112482042784879
+    second: Baby_Goat_down-Sheet_19
+  - first:
+      213: 3725588823083474016
+    second: Baby_Goat_down-Sheet_20
+  - first:
+      213: -364075758281867050
+    second: Baby_Goat_down-Sheet_21
+  - first:
+      213: 3066366860941753229
+    second: Baby_Goat_down-Sheet_22
+  - first:
+      213: 8147997343731187004
+    second: Baby_Goat_down-Sheet_23
+  - first:
+      213: -3368097166570885586
+    second: Baby_Goat_down-Sheet_24
+  - first:
+      213: -1574967284528271523
+    second: Baby_Goat_down-Sheet_25
+  - first:
+      213: -8406018593464794212
+    second: Baby_Goat_down-Sheet_26
+  - first:
+      213: 9102669684357189799
+    second: Baby_Goat_down-Sheet_27
+  - first:
+      213: -439241303050908000
+    second: Baby_Goat_down-Sheet_28
+  - first:
+      213: -7006554365032165424
+    second: Baby_Goat_down-Sheet_29
+  - first:
+      213: -2312380239768543829
+    second: Baby_Goat_down-Sheet_30
+  - first:
+      213: -6327022952970216244
+    second: Baby_Goat_down-Sheet_31
+  - first:
+      213: 3651178166335728892
+    second: Baby_Goat_down-Sheet_32
+  - first:
+      213: 9135101575233496263
+    second: Baby_Goat_down-Sheet_33
+  - first:
+      213: -4656433628371246302
+    second: Baby_Goat_down-Sheet_34
+  - first:
+      213: 6837275962801335136
+    second: Baby_Goat_down-Sheet_35
+  - first:
+      213: -8199644334668011450
+    second: Baby_Goat_down-Sheet_36
+  - first:
+      213: -7551514106735909376
+    second: Baby_Goat_down-Sheet_37
+  - first:
+      213: -8206475546778753525
+    second: Baby_Goat_down-Sheet_38
+  - first:
+      213: -781098395226966559
+    second: Baby_Goat_down-Sheet_39
+  - first:
+      213: 682228365887236552
+    second: Baby_Goat_down-Sheet_40
+  - first:
+      213: 618888615243388455
+    second: Baby_Goat_down-Sheet_41
+  - first:
+      213: -2488505934715733494
+    second: Baby_Goat_down-Sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 363
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e6b0392eac54420800000000000000
+      internalID: 2613718233236860490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 363
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc575372b0dfd8f80800000000000000
+      internalID: -8102541930225371699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 363
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29a390f267247c50800000000000000
+      internalID: 6661993054684293418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 363
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b52b860cd9c15b0800000000000000
+      internalID: -5396264803780895907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 363
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e68bb2ec76eb130800000000000000
+      internalID: 3584416488627924485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 363
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c67ff391869820800000000000000
+      internalID: 2924667480669864902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 363
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ef76c9c1eb2fb0800000000000000
+      internalID: -4671391931731810985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 305
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3c111e46816f910800000000000000
+      internalID: 1870709516770853847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 305
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8911d9b3861dc51a0800000000000000
+      internalID: -6819345490138820200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 305
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5a5d566230b9400800000000000000
+      internalID: 331862460994004445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 305
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cc1dc290699bf60800000000000000
+      internalID: 8050630775052291163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 305
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cdb3d4ac43beb60800000000000000
+      internalID: 7776367225069100119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 305
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24afad2fed51b10800000000000000
+      internalID: 1951711148172264169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 305
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d26c54bb1f3650800000000000000
+      internalID: 6214716472252617082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 247
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5598b6744c927cc40800000000000000
+      internalID: 5532436590236502357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 247
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ddb1f5e9de2940800000000000000
+      internalID: 5273391795323918599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 247
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6c6af555552aea0800000000000000
+      internalID: -5863029939717617953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 247
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e94373041343bd20800000000000000
+      internalID: 3293049505774258656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 247
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ac0436a75cb790800000000000000
+      internalID: -7513033707011397609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 247
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2dae6cc5d48250800000000000000
+      internalID: 5946112482042784879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 247
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5e0bab43f3b330800000000000000
+      internalID: 3725588823083474016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 189
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0474cd60b82faf0800000000000000
+      internalID: -364075758281867050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 189
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b7679e96ced8a20800000000000000
+      internalID: 3066366860941753229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 189
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d7ce70a60831170800000000000000
+      internalID: 8147997343731187004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 189
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eea81d87d1241d0800000000000000
+      internalID: -3368097166570885586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 189
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fa4d86997942ae0800000000000000
+      internalID: -1574967284528271523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 189
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93c33150a2d75b80800000000000000
+      internalID: -8406018593464794212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 189
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0d3d399dd235e70800000000000000
+      internalID: 9102669684357189799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 131
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae88f0bc5087e9f0800000000000000
+      internalID: -439241303050908000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 131
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df8bc46de7b3ce90800000000000000
+      internalID: -7006554365032165424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 131
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad96f66c66c8efd0800000000000000
+      internalID: -2312380239768543829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 131
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc97727526e138a0800000000000000
+      internalID: -6327022952970216244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 131
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc6a1092379ba230800000000000000
+      internalID: 3651178166335728892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 131
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c467ea9b7666ce70800000000000000
+      internalID: 9135101575233496263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 131
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223afbc2946016fb0800000000000000
+      internalID: -4656433628371246302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b27124342e2ee50800000000000000
+      internalID: 6837275962801335136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 73
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648a193dbe2053e80800000000000000
+      internalID: -8199644334668011450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 73
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006a7a7fde1a33790800000000000000
+      internalID: -7551514106735909376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 73
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06a25058fdbc1e80800000000000000
+      internalID: -8206475546778753525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 73
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e57ed1e52bf825f0800000000000000
+      internalID: -781098395226966559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 73
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9676c8513c77900800000000000000
+      internalID: 682228365887236552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 73
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7269d13aaebb69800800000000000000
+      internalID: 618888615243388455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Goat_down-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a31db790d077dd0800000000000000
+      internalID: -2488505934715733494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Baby_Goat_down-Sheet_0: 2613718233236860490
+      Baby_Goat_down-Sheet_1: -8102541930225371699
+      Baby_Goat_down-Sheet_10: 8050630775052291163
+      Baby_Goat_down-Sheet_11: 7776367225069100119
+      Baby_Goat_down-Sheet_12: 1951711148172264169
+      Baby_Goat_down-Sheet_13: 6214716472252617082
+      Baby_Goat_down-Sheet_14: 5532436590236502357
+      Baby_Goat_down-Sheet_15: 5273391795323918599
+      Baby_Goat_down-Sheet_16: -5863029939717617953
+      Baby_Goat_down-Sheet_17: 3293049505774258656
+      Baby_Goat_down-Sheet_18: -7513033707011397609
+      Baby_Goat_down-Sheet_19: 5946112482042784879
+      Baby_Goat_down-Sheet_2: 6661993054684293418
+      Baby_Goat_down-Sheet_20: 3725588823083474016
+      Baby_Goat_down-Sheet_21: -364075758281867050
+      Baby_Goat_down-Sheet_22: 3066366860941753229
+      Baby_Goat_down-Sheet_23: 8147997343731187004
+      Baby_Goat_down-Sheet_24: -3368097166570885586
+      Baby_Goat_down-Sheet_25: -1574967284528271523
+      Baby_Goat_down-Sheet_26: -8406018593464794212
+      Baby_Goat_down-Sheet_27: 9102669684357189799
+      Baby_Goat_down-Sheet_28: -439241303050908000
+      Baby_Goat_down-Sheet_29: -7006554365032165424
+      Baby_Goat_down-Sheet_3: -5396264803780895907
+      Baby_Goat_down-Sheet_30: -2312380239768543829
+      Baby_Goat_down-Sheet_31: -6327022952970216244
+      Baby_Goat_down-Sheet_32: 3651178166335728892
+      Baby_Goat_down-Sheet_33: 9135101575233496263
+      Baby_Goat_down-Sheet_34: -4656433628371246302
+      Baby_Goat_down-Sheet_35: 6837275962801335136
+      Baby_Goat_down-Sheet_36: -8199644334668011450
+      Baby_Goat_down-Sheet_37: -7551514106735909376
+      Baby_Goat_down-Sheet_38: -8206475546778753525
+      Baby_Goat_down-Sheet_39: -781098395226966559
+      Baby_Goat_down-Sheet_4: 3584416488627924485
+      Baby_Goat_down-Sheet_40: 682228365887236552
+      Baby_Goat_down-Sheet_41: 618888615243388455
+      Baby_Goat_down-Sheet_42: -2488505934715733494
+      Baby_Goat_down-Sheet_5: 2924667480669864902
+      Baby_Goat_down-Sheet_6: -4671391931731810985
+      Baby_Goat_down-Sheet_7: 1870709516770853847
+      Baby_Goat_down-Sheet_8: -6819345490138820200
+      Baby_Goat_down-Sheet_9: 331862460994004445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

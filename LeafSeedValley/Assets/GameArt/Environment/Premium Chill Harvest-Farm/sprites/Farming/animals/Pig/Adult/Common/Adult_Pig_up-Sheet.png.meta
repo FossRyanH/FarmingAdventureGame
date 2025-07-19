@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 82294950c4d6b464d9cdc0701f6592d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7703453772776627643
+    second: Adult_Pig_up-Sheet_0
+  - first:
+      213: 5616602746909769784
+    second: Adult_Pig_up-Sheet_1
+  - first:
+      213: -3281302537621466303
+    second: Adult_Pig_up-Sheet_2
+  - first:
+      213: 1800681829112893195
+    second: Adult_Pig_up-Sheet_3
+  - first:
+      213: 8363828762557476531
+    second: Adult_Pig_up-Sheet_4
+  - first:
+      213: 4346552351568383346
+    second: Adult_Pig_up-Sheet_5
+  - first:
+      213: 6543626305294801773
+    second: Adult_Pig_up-Sheet_6
+  - first:
+      213: 140696357365555295
+    second: Adult_Pig_up-Sheet_7
+  - first:
+      213: -9175722573131164624
+    second: Adult_Pig_up-Sheet_8
+  - first:
+      213: 1964475301509237131
+    second: Adult_Pig_up-Sheet_9
+  - first:
+      213: -4383122826741019782
+    second: Adult_Pig_up-Sheet_10
+  - first:
+      213: -3816204302212618928
+    second: Adult_Pig_up-Sheet_11
+  - first:
+      213: 5249599576259352776
+    second: Adult_Pig_up-Sheet_12
+  - first:
+      213: 4165215129323043859
+    second: Adult_Pig_up-Sheet_13
+  - first:
+      213: 5915924809227329540
+    second: Adult_Pig_up-Sheet_14
+  - first:
+      213: -1076327722211133266
+    second: Adult_Pig_up-Sheet_15
+  - first:
+      213: 8132194041185966261
+    second: Adult_Pig_up-Sheet_16
+  - first:
+      213: 7953656923881506544
+    second: Adult_Pig_up-Sheet_17
+  - first:
+      213: 1512350077913847109
+    second: Adult_Pig_up-Sheet_18
+  - first:
+      213: -3207118438191409321
+    second: Adult_Pig_up-Sheet_19
+  - first:
+      213: -6670716717159754764
+    second: Adult_Pig_up-Sheet_20
+  - first:
+      213: 3407365868059409420
+    second: Adult_Pig_up-Sheet_21
+  - first:
+      213: 905284514099474875
+    second: Adult_Pig_up-Sheet_22
+  - first:
+      213: 4730318311779017589
+    second: Adult_Pig_up-Sheet_23
+  - first:
+      213: -3155521775246560032
+    second: Adult_Pig_up-Sheet_24
+  - first:
+      213: 6128881164825995704
+    second: Adult_Pig_up-Sheet_25
+  - first:
+      213: 4488860924192880268
+    second: Adult_Pig_up-Sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 323
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542a10abb95d71590800000000000000
+      internalID: -7703453772776627643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 323
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304a06b07e22fd40800000000000000
+      internalID: 5616602746909769784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 323
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431c742ab87672d0800000000000000
+      internalID: -3281302537621466303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 323
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f46c9459e4df810800000000000000
+      internalID: 1800681829112893195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 323
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beee6232f9421470800000000000000
+      internalID: 8363828762557476531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 323
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d4fd0b55e025c30800000000000000
+      internalID: 4346552351568383346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 247
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9ffd7471afca50800000000000000
+      internalID: 6543626305294801773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 247
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5027f1779ad3f100800000000000000
+      internalID: 140696357365555295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 247
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034dbfe4fe849a080800000000000000
+      internalID: -9175722573131164624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 247
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898c74e0e7334b10800000000000000
+      internalID: 1964475301509237131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 247
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b023903050c23c0800000000000000
+      internalID: -4383122826741019782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 247
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ac40086e1a0bc0800000000000000
+      internalID: -3816204302212618928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 171
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8daf340035ad840800000000000000
+      internalID: 5249599576259352776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 171
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf1648711ddc930800000000000000
+      internalID: 4165215129323043859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 171
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006ae32546991250800000000000000
+      internalID: 5915924809227329540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 171
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea833b7a3ad1011f0800000000000000
+      internalID: -1076327722211133266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 171
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8107de46b5bd070800000000000000
+      internalID: 8132194041185966261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 171
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6884df4d0116e60800000000000000
+      internalID: 7953656923881506544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 95
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545d6121262fcf410800000000000000
+      internalID: 1512350077913847109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 95
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757def2c5c60e73d0800000000000000
+      internalID: -3207118438191409321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 95
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3de6c1d7adc63a0800000000000000
+      internalID: -6670716717159754764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 95
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cb8793435694f20800000000000000
+      internalID: 3407365868059409420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 95
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1bf8b1877309c00800000000000000
+      internalID: 905284514099474875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 95
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5732d18317775a140800000000000000
+      internalID: 4730318311779017589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e43b610aa55534d0800000000000000
+      internalID: -3155521775246560032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 19
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9290c72f82e0550800000000000000
+      internalID: 6128881164825995704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Pig_up-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 19
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86f5a04a33ab4e30800000000000000
+      internalID: 4488860924192880268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Adult_Pig_up-Sheet_0: -7703453772776627643
+      Adult_Pig_up-Sheet_1: 5616602746909769784
+      Adult_Pig_up-Sheet_10: -4383122826741019782
+      Adult_Pig_up-Sheet_11: -3816204302212618928
+      Adult_Pig_up-Sheet_12: 5249599576259352776
+      Adult_Pig_up-Sheet_13: 4165215129323043859
+      Adult_Pig_up-Sheet_14: 5915924809227329540
+      Adult_Pig_up-Sheet_15: -1076327722211133266
+      Adult_Pig_up-Sheet_16: 8132194041185966261
+      Adult_Pig_up-Sheet_17: 7953656923881506544
+      Adult_Pig_up-Sheet_18: 1512350077913847109
+      Adult_Pig_up-Sheet_19: -3207118438191409321
+      Adult_Pig_up-Sheet_2: -3281302537621466303
+      Adult_Pig_up-Sheet_20: -6670716717159754764
+      Adult_Pig_up-Sheet_21: 3407365868059409420
+      Adult_Pig_up-Sheet_22: 905284514099474875
+      Adult_Pig_up-Sheet_23: 4730318311779017589
+      Adult_Pig_up-Sheet_24: -3155521775246560032
+      Adult_Pig_up-Sheet_25: 6128881164825995704
+      Adult_Pig_up-Sheet_26: 4488860924192880268
+      Adult_Pig_up-Sheet_3: 1800681829112893195
+      Adult_Pig_up-Sheet_4: 8363828762557476531
+      Adult_Pig_up-Sheet_5: 4346552351568383346
+      Adult_Pig_up-Sheet_6: 6543626305294801773
+      Adult_Pig_up-Sheet_7: 140696357365555295
+      Adult_Pig_up-Sheet_8: -9175722573131164624
+      Adult_Pig_up-Sheet_9: 1964475301509237131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

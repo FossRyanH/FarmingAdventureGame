@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 38a29c9f516f92e439f4d5135475fb48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6063036045214542888
+    second: tileset_winter_enviorement_0
+  - first:
+      213: 1849641566277814873
+    second: tileset_winter_enviorement_1
+  - first:
+      213: 5226429520365773252
+    second: tileset_winter_enviorement_2
+  - first:
+      213: 8004386519603677339
+    second: tileset_winter_enviorement_3
+  - first:
+      213: 8637546106518854485
+    second: tileset_winter_enviorement_4
+  - first:
+      213: 8192196019103695460
+    second: tileset_winter_enviorement_5
+  - first:
+      213: 882569856730500542
+    second: tileset_winter_enviorement_6
+  - first:
+      213: -5958375485643303056
+    second: tileset_winter_enviorement_7
+  - first:
+      213: -1509518034824309234
+    second: tileset_winter_enviorement_8
+  - first:
+      213: 2296558121986477761
+    second: tileset_winter_enviorement_9
+  - first:
+      213: 6425512341789514134
+    second: tileset_winter_enviorement_10
+  - first:
+      213: -2582552499424541502
+    second: tileset_winter_enviorement_11
+  - first:
+      213: -3560906745972047045
+    second: tileset_winter_enviorement_12
+  - first:
+      213: 3131303534277717688
+    second: tileset_winter_enviorement_13
+  - first:
+      213: 6159550130248091180
+    second: tileset_winter_enviorement_14
+  - first:
+      213: -8065778008254272208
+    second: tileset_winter_enviorement_15
+  - first:
+      213: 8480246109983544855
+    second: tileset_winter_enviorement_16
+  - first:
+      213: 4258989476407915724
+    second: tileset_winter_enviorement_17
+  - first:
+      213: 371897500503466832
+    second: tileset_winter_enviorement_18
+  - first:
+      213: -2778328895663020444
+    second: tileset_winter_enviorement_19
+  - first:
+      213: 3793139100122382382
+    second: tileset_winter_enviorement_20
+  - first:
+      213: 7015299373687420075
+    second: tileset_winter_enviorement_21
+  - first:
+      213: -5429261442516118509
+    second: tileset_winter_enviorement_22
+  - first:
+      213: -7495801748505718584
+    second: tileset_winter_enviorement_23
+  - first:
+      213: -5664334239911915149
+    second: tileset_winter_enviorement_24
+  - first:
+      213: 9121746701988832870
+    second: tileset_winter_enviorement_25
+  - first:
+      213: 7671523730072439299
+    second: tileset_winter_enviorement_26
+  - first:
+      213: 1456508292823199223
+    second: tileset_winter_enviorement_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 399
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ce667e82b342450800000000000000
+      internalID: 6063036045214542888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 399
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a49c7643f3ba910800000000000000
+      internalID: 1849641566277814873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 408
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1640d35f1088840800000000000000
+      internalID: 5226429520365773252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 409
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9807e9612b451f60800000000000000
+      internalID: 8004386519603677339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 395
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b5d129b6abed770800000000000000
+      internalID: 8637546106518854485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 395
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4628b0110e680b170800000000000000
+      internalID: 8192196019103695460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 393
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd83efcb948f3c00800000000000000
+      internalID: 882569856730500542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 335
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077d5db80199f4da0800000000000000
+      internalID: -5958375485643303056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 335
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e065048585d1d0be0800000000000000
+      internalID: -1509518034824309234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 344
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceca0bb1730fdf10800000000000000
+      internalID: 2296558121986477761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 345
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69990485e610c2950800000000000000
+      internalID: 6425512341789514134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 331
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4c00a4f2ee82cd0800000000000000
+      internalID: -2582552499424541502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 331
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334b085e2e159ec0800000000000000
+      internalID: -3560906745972047045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 329
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be6c8c59ff947b20800000000000000
+      internalID: 3131303534277717688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2606a1753e1b7550800000000000000
+      internalID: 6159550130248091180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_15
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03da8d4c2a9901090800000000000000
+      internalID: -8065778008254272208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 280
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716157128e2efa570800000000000000
+      internalID: 8480246109983544855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 281
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4bb6b1d58fa1b30800000000000000
+      internalID: 4258989476407915724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 267
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0536d5a6ece392500800000000000000
+      internalID: 371897500503466832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 261
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4666dc0f6946179d0800000000000000
+      internalID: -2778328895663020444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 265
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2080762aefe3a430800000000000000
+      internalID: 3793139100122382382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 273
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4b8a99c995b5160800000000000000
+      internalID: 7015299373687420075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 142
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3141a16cb7367a4b0800000000000000
+      internalID: -5429261442516118509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 137
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c09091360099f790800000000000000
+      internalID: -7495801748505718584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 137
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371d7fc050e3461b0800000000000000
+      internalID: -5664334239911915149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 67
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666a22fdb44f69e70800000000000000
+      internalID: 9121746701988832870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a82f0ef2ab67a60800000000000000
+      internalID: 7671523730072439299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_winter_enviorement_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 65
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd232e439e863410800000000000000
+      internalID: 1456508292823199223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tileset_winter_enviorement_0: 6063036045214542888
+      tileset_winter_enviorement_1: 1849641566277814873
+      tileset_winter_enviorement_10: 6425512341789514134
+      tileset_winter_enviorement_11: -2582552499424541502
+      tileset_winter_enviorement_12: -3560906745972047045
+      tileset_winter_enviorement_13: 3131303534277717688
+      tileset_winter_enviorement_14: 6159550130248091180
+      tileset_winter_enviorement_15: -8065778008254272208
+      tileset_winter_enviorement_16: 8480246109983544855
+      tileset_winter_enviorement_17: 4258989476407915724
+      tileset_winter_enviorement_18: 371897500503466832
+      tileset_winter_enviorement_19: -2778328895663020444
+      tileset_winter_enviorement_2: 5226429520365773252
+      tileset_winter_enviorement_20: 3793139100122382382
+      tileset_winter_enviorement_21: 7015299373687420075
+      tileset_winter_enviorement_22: -5429261442516118509
+      tileset_winter_enviorement_23: -7495801748505718584
+      tileset_winter_enviorement_24: -5664334239911915149
+      tileset_winter_enviorement_25: 9121746701988832870
+      tileset_winter_enviorement_26: 7671523730072439299
+      tileset_winter_enviorement_27: 1456508292823199223
+      tileset_winter_enviorement_3: 8004386519603677339
+      tileset_winter_enviorement_4: 8637546106518854485
+      tileset_winter_enviorement_5: 8192196019103695460
+      tileset_winter_enviorement_6: 882569856730500542
+      tileset_winter_enviorement_7: -5958375485643303056
+      tileset_winter_enviorement_8: -1509518034824309234
+      tileset_winter_enviorement_9: 2296558121986477761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 21268984034151a4fbc823ee8666a66b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4392095517525255819
+    second: Baby_Cow_down-Sheet_0
+  - first:
+      213: -1498770483832886043
+    second: Baby_Cow_down-Sheet_1
+  - first:
+      213: -1934378996735146938
+    second: Baby_Cow_down-Sheet_2
+  - first:
+      213: 1226694193889159401
+    second: Baby_Cow_down-Sheet_3
+  - first:
+      213: -2024857823220535558
+    second: Baby_Cow_down-Sheet_4
+  - first:
+      213: 2616779370151914090
+    second: Baby_Cow_down-Sheet_5
+  - first:
+      213: 2655907537860232570
+    second: Baby_Cow_down-Sheet_6
+  - first:
+      213: -919600030577228935
+    second: Baby_Cow_down-Sheet_7
+  - first:
+      213: 4524062533879083258
+    second: Baby_Cow_down-Sheet_8
+  - first:
+      213: -4823682092759191458
+    second: Baby_Cow_down-Sheet_9
+  - first:
+      213: -3266908641406763573
+    second: Baby_Cow_down-Sheet_10
+  - first:
+      213: -3406374183714571179
+    second: Baby_Cow_down-Sheet_11
+  - first:
+      213: -3992436217574304664
+    second: Baby_Cow_down-Sheet_12
+  - first:
+      213: -9042238803820880932
+    second: Baby_Cow_down-Sheet_13
+  - first:
+      213: 9215116440695507245
+    second: Baby_Cow_down-Sheet_14
+  - first:
+      213: -7163100195648669713
+    second: Baby_Cow_down-Sheet_15
+  - first:
+      213: 7466691602893307230
+    second: Baby_Cow_down-Sheet_16
+  - first:
+      213: 3200741069477767359
+    second: Baby_Cow_down-Sheet_17
+  - first:
+      213: 9088468769799363287
+    second: Baby_Cow_down-Sheet_18
+  - first:
+      213: -2304313095115406603
+    second: Baby_Cow_down-Sheet_19
+  - first:
+      213: -8239256894525098694
+    second: Baby_Cow_down-Sheet_20
+  - first:
+      213: 3843207040792888777
+    second: Baby_Cow_down-Sheet_21
+  - first:
+      213: -2016028694288501398
+    second: Baby_Cow_down-Sheet_22
+  - first:
+      213: 2238604658749403834
+    second: Baby_Cow_down-Sheet_23
+  - first:
+      213: -7370792636733644912
+    second: Baby_Cow_down-Sheet_24
+  - first:
+      213: 6519550054153649119
+    second: Baby_Cow_down-Sheet_25
+  - first:
+      213: 3772386692646508769
+    second: Baby_Cow_down-Sheet_26
+  - first:
+      213: -4426273849676145757
+    second: Baby_Cow_down-Sheet_27
+  - first:
+      213: -8882187113898462545
+    second: Baby_Cow_down-Sheet_28
+  - first:
+      213: -1829031729571009388
+    second: Baby_Cow_down-Sheet_29
+  - first:
+      213: 1109443767970859671
+    second: Baby_Cow_down-Sheet_30
+  - first:
+      213: -3787780232498840070
+    second: Baby_Cow_down-Sheet_31
+  - first:
+      213: 151267873650938420
+    second: Baby_Cow_down-Sheet_32
+  - first:
+      213: 8531429186807764888
+    second: Baby_Cow_down-Sheet_33
+  - first:
+      213: -6841269600414215708
+    second: Baby_Cow_down-Sheet_34
+  - first:
+      213: 412014734427419245
+    second: Baby_Cow_down-Sheet_35
+  - first:
+      213: -6924288078995691018
+    second: Baby_Cow_down-Sheet_36
+  - first:
+      213: 696140187768291043
+    second: Baby_Cow_down-Sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 318
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579525aa5642c03c0800000000000000
+      internalID: -4392095517525255819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 318
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecec4f8f2c433be0800000000000000
+      internalID: -1498770483832886043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 318
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64400ae1d84b725e0800000000000000
+      internalID: -1934378996735146938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 318
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82ccabed7160110800000000000000
+      internalID: 1226694193889159401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 318
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee446b98246e3e0800000000000000
+      internalID: -2024857823220535558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 318
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aa97d09faa05420800000000000000
+      internalID: 2616779370151914090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 318
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75017685ddabd420800000000000000
+      internalID: 2655907537860232570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 257
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973810af4acec33f0800000000000000
+      internalID: -919600030577228935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 257
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03481b7e2b8ce30800000000000000
+      internalID: 4524062533879083258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 257
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50fcaf81b6de0db0800000000000000
+      internalID: -4823682092759191458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 257
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdbb4346eb99a2d0800000000000000
+      internalID: -3266908641406763573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 257
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb1a74ab02ab0d0800000000000000
+      internalID: -3406374183714571179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 257
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8645417b9640898c0800000000000000
+      internalID: -3992436217574304664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 257
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd00c37b3838280800000000000000
+      internalID: -9042238803820880932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29848b349ba2ef70800000000000000
+      internalID: 9215116440695507245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 196
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe774d3e25e879c90800000000000000
+      internalID: -7163100195648669713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 196
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5df8ddd3740f9760800000000000000
+      internalID: 7466691602893307230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 196
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8e9306b015b6c20800000000000000
+      internalID: 3200741069477767359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 196
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da5f10813ab02e70800000000000000
+      internalID: 9088468769799363287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 196
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f28d52e27f6500e0800000000000000
+      internalID: -2304313095115406603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 196
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35b4a4028748ad80800000000000000
+      internalID: -8239256894525098694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c58db00170d55530800000000000000
+      internalID: 3843207040792888777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 135
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6570fb7590a504e0800000000000000
+      internalID: -2016028694288501398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 135
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2fa45931f111f10800000000000000
+      internalID: 2238604658749403834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 135
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f1d66262fa5b990800000000000000
+      internalID: -7370792636733644912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 135
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbf4317b381a7a50800000000000000
+      internalID: 6519550054153649119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 135
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e81b92c5b53a5430800000000000000
+      internalID: 3772386692646508769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 135
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abd3779267b292c0800000000000000
+      internalID: -4426273849676145757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2b78731e12cb480800000000000000
+      internalID: -8882187113898462545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 74
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c60042559fd96e0800000000000000
+      internalID: -1829031729571009388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 74
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a8c289a39856f00800000000000000
+      internalID: 1109443767970859671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 74
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf8a272f91f6bc0800000000000000
+      internalID: -3787780232498840070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 74
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43294e26459691200800000000000000
+      internalID: 151267873650938420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 74
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897931ad4a9b56670800000000000000
+      internalID: 8531429186807764888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 74
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d1a68b8dee01a0800000000000000
+      internalID: -6841269600414215708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62f5cfc735c7b500800000000000000
+      internalID: 412014734427419245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 13
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f96df8bdacf7ef90800000000000000
+      internalID: -6924288078995691018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Cow_down-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 13
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee7dcdffcf29a900800000000000000
+      internalID: 696140187768291043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Baby_Cow_down-Sheet_0: -4392095517525255819
+      Baby_Cow_down-Sheet_1: -1498770483832886043
+      Baby_Cow_down-Sheet_10: -3266908641406763573
+      Baby_Cow_down-Sheet_11: -3406374183714571179
+      Baby_Cow_down-Sheet_12: -3992436217574304664
+      Baby_Cow_down-Sheet_13: -9042238803820880932
+      Baby_Cow_down-Sheet_14: 9215116440695507245
+      Baby_Cow_down-Sheet_15: -7163100195648669713
+      Baby_Cow_down-Sheet_16: 7466691602893307230
+      Baby_Cow_down-Sheet_17: 3200741069477767359
+      Baby_Cow_down-Sheet_18: 9088468769799363287
+      Baby_Cow_down-Sheet_19: -2304313095115406603
+      Baby_Cow_down-Sheet_2: -1934378996735146938
+      Baby_Cow_down-Sheet_20: -8239256894525098694
+      Baby_Cow_down-Sheet_21: 3843207040792888777
+      Baby_Cow_down-Sheet_22: -2016028694288501398
+      Baby_Cow_down-Sheet_23: 2238604658749403834
+      Baby_Cow_down-Sheet_24: -7370792636733644912
+      Baby_Cow_down-Sheet_25: 6519550054153649119
+      Baby_Cow_down-Sheet_26: 3772386692646508769
+      Baby_Cow_down-Sheet_27: -4426273849676145757
+      Baby_Cow_down-Sheet_28: -8882187113898462545
+      Baby_Cow_down-Sheet_29: -1829031729571009388
+      Baby_Cow_down-Sheet_3: 1226694193889159401
+      Baby_Cow_down-Sheet_30: 1109443767970859671
+      Baby_Cow_down-Sheet_31: -3787780232498840070
+      Baby_Cow_down-Sheet_32: 151267873650938420
+      Baby_Cow_down-Sheet_33: 8531429186807764888
+      Baby_Cow_down-Sheet_34: -6841269600414215708
+      Baby_Cow_down-Sheet_35: 412014734427419245
+      Baby_Cow_down-Sheet_36: -6924288078995691018
+      Baby_Cow_down-Sheet_37: 696140187768291043
+      Baby_Cow_down-Sheet_4: -2024857823220535558
+      Baby_Cow_down-Sheet_5: 2616779370151914090
+      Baby_Cow_down-Sheet_6: 2655907537860232570
+      Baby_Cow_down-Sheet_7: -919600030577228935
+      Baby_Cow_down-Sheet_8: 4524062533879083258
+      Baby_Cow_down-Sheet_9: -4823682092759191458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

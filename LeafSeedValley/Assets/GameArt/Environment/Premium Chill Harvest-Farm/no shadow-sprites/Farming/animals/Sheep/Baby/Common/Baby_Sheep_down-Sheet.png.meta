@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 2014bb466dfb7504493e34b845a18dbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8069958242192404243
+    second: Baby_Sheep_down-Sheet_0
+  - first:
+      213: -5385840976925746820
+    second: Baby_Sheep_down-Sheet_1
+  - first:
+      213: -3866089228336128248
+    second: Baby_Sheep_down-Sheet_2
+  - first:
+      213: 1896179523401856403
+    second: Baby_Sheep_down-Sheet_3
+  - first:
+      213: -1473920169961121333
+    second: Baby_Sheep_down-Sheet_4
+  - first:
+      213: 3072530691815238107
+    second: Baby_Sheep_down-Sheet_5
+  - first:
+      213: 5358813671056261712
+    second: Baby_Sheep_down-Sheet_6
+  - first:
+      213: 4310783805925108042
+    second: Baby_Sheep_down-Sheet_7
+  - first:
+      213: 1317064457368302708
+    second: Baby_Sheep_down-Sheet_8
+  - first:
+      213: -7601953462708540922
+    second: Baby_Sheep_down-Sheet_9
+  - first:
+      213: -598741876618193528
+    second: Baby_Sheep_down-Sheet_10
+  - first:
+      213: -6881108783575263307
+    second: Baby_Sheep_down-Sheet_11
+  - first:
+      213: 6009911536326369582
+    second: Baby_Sheep_down-Sheet_12
+  - first:
+      213: 2250549377420396673
+    second: Baby_Sheep_down-Sheet_13
+  - first:
+      213: -8362223481082569310
+    second: Baby_Sheep_down-Sheet_14
+  - first:
+      213: -1851593128696888947
+    second: Baby_Sheep_down-Sheet_15
+  - first:
+      213: -318626250967022066
+    second: Baby_Sheep_down-Sheet_16
+  - first:
+      213: 603090903966570404
+    second: Baby_Sheep_down-Sheet_17
+  - first:
+      213: 4157922988382253500
+    second: Baby_Sheep_down-Sheet_18
+  - first:
+      213: 4081482659288087010
+    second: Baby_Sheep_down-Sheet_19
+  - first:
+      213: 1776815588212451961
+    second: Baby_Sheep_down-Sheet_20
+  - first:
+      213: -3417598488557913809
+    second: Baby_Sheep_down-Sheet_21
+  - first:
+      213: -5940688692974543344
+    second: Baby_Sheep_down-Sheet_22
+  - first:
+      213: 7839122738510919566
+    second: Baby_Sheep_down-Sheet_23
+  - first:
+      213: 7869676136919327643
+    second: Baby_Sheep_down-Sheet_24
+  - first:
+      213: -2526556397457311179
+    second: Baby_Sheep_down-Sheet_25
+  - first:
+      213: -2299937225527949997
+    second: Baby_Sheep_down-Sheet_26
+  - first:
+      213: -3309061932749957197
+    second: Baby_Sheep_down-Sheet_27
+  - first:
+      213: -7549763796230707593
+    second: Baby_Sheep_down-Sheet_28
+  - first:
+      213: -4810658961510502253
+    second: Baby_Sheep_down-Sheet_29
+  - first:
+      213: -8274465061597306859
+    second: Baby_Sheep_down-Sheet_30
+  - first:
+      213: 8575896216497276476
+    second: Baby_Sheep_down-Sheet_31
+  - first:
+      213: 6705595322573695632
+    second: Baby_Sheep_down-Sheet_32
+  - first:
+      213: 1654883887596001125
+    second: Baby_Sheep_down-Sheet_33
+  - first:
+      213: 713866306343167984
+    second: Baby_Sheep_down-Sheet_34
+  - first:
+      213: 3678460295002856559
+    second: Baby_Sheep_down-Sheet_35
+  - first:
+      213: -4101383854943484576
+    second: Baby_Sheep_down-Sheet_36
+  - first:
+      213: 8503301055937853162
+    second: Baby_Sheep_down-Sheet_37
+  - first:
+      213: -3237433311640899913
+    second: Baby_Sheep_down-Sheet_38
+  - first:
+      213: 4862361001764865288
+    second: Baby_Sheep_down-Sheet_39
+  - first:
+      213: 17741291688776698
+    second: Baby_Sheep_down-Sheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 249
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f2d1ac3404eff60800000000000000
+      internalID: 8069958242192404243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 249
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791999ba26a145b0800000000000000
+      internalID: -5385840976925746820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 249
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f9f0b8454e85ac0800000000000000
+      internalID: -3866089228336128248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 249
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395bcbaea35905a10800000000000000
+      internalID: 1896179523401856403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc91f222a659b8be0800000000000000
+      internalID: -1473920169961121333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 249
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9e12f9262d3aa20800000000000000
+      internalID: 3072530691815238107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 249
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052c0d044a45e5a40800000000000000
+      internalID: 5358813671056261712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a492caf280bf2db30800000000000000
+      internalID: 4310783805925108042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 201
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474fab75527274210800000000000000
+      internalID: 1317064457368302708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ae4304a9f608690800000000000000
+      internalID: -7601953462708540922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 202
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885950c7f67d0b7f0800000000000000
+      internalID: -598741876618193528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 202
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b71d2ed4046180a0800000000000000
+      internalID: -6881108783575263307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 201
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21614e43be776350800000000000000
+      internalID: 6009911536326369582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 201
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1888e9e1cbe8b3f10800000000000000
+      internalID: 2250549377420396673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad94a58c0a63fb80800000000000000
+      internalID: -8362223481082569310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 153
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81c77f0cd1dd46e0800000000000000
+      internalID: -1851593128696888947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 153
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e060ff6ec13049bf0800000000000000
+      internalID: -318626250967022066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 153
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7523a5bfb9e5800800000000000000
+      internalID: 603090903966570404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 153
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb174f5ade8e3b930800000000000000
+      internalID: 4157922988382253500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e978cf9ad654a830800000000000000
+      internalID: 4081482659288087010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 153
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa7ce0d5488a810800000000000000
+      internalID: 1776815588212451961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 105
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f79828404290d0800000000000000
+      internalID: -3417598488557913809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 105
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e921edb1f6e8da0800000000000000
+      internalID: -5940688692974543344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8771a3e8982acc60800000000000000
+      internalID: 7839122738510919566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 105
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93e17e40c4b63d60800000000000000
+      internalID: 7869676136919327643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 105
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af090c75edfecd0800000000000000
+      internalID: -2526556397457311179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 105
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35585ba674bf410e0800000000000000
+      internalID: -2299937225527949997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 105
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7dbae44b9d312d0800000000000000
+      internalID: -3309061932749957197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 57
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7766093e3d9d93790800000000000000
+      internalID: -7549763796230707593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 57
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390fd97992b1d3db0800000000000000
+      internalID: -4810658961510502253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510ac11ddd13b2d80800000000000000
+      internalID: -8274465061597306859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 57
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36cfeefb24b30770800000000000000
+      internalID: 8575896216497276476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 57
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aa6890b6f0f0d50800000000000000
+      internalID: 6705595322573695632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 57
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5675da8b02457f610800000000000000
+      internalID: 1654883887596001125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 57
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f764b69f9928e900800000000000000
+      internalID: 713866306343167984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c160426248c0330800000000000000
+      internalID: 3678460295002856559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065429e2d15f417c0800000000000000
+      internalID: -4101383854943484576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae63169024bc10670800000000000000
+      internalID: 8503301055937853162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea0a34e835213d0800000000000000
+      internalID: -3237433311640899913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80548e7b1939a7340800000000000000
+      internalID: 4862361001764865288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Sheep_down-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 9
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af357fc5c970f3000800000000000000
+      internalID: 17741291688776698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Baby_Sheep_down-Sheet_0: 8069958242192404243
+      Baby_Sheep_down-Sheet_1: -5385840976925746820
+      Baby_Sheep_down-Sheet_10: -598741876618193528
+      Baby_Sheep_down-Sheet_11: -6881108783575263307
+      Baby_Sheep_down-Sheet_12: 6009911536326369582
+      Baby_Sheep_down-Sheet_13: 2250549377420396673
+      Baby_Sheep_down-Sheet_14: -8362223481082569310
+      Baby_Sheep_down-Sheet_15: -1851593128696888947
+      Baby_Sheep_down-Sheet_16: -318626250967022066
+      Baby_Sheep_down-Sheet_17: 603090903966570404
+      Baby_Sheep_down-Sheet_18: 4157922988382253500
+      Baby_Sheep_down-Sheet_19: 4081482659288087010
+      Baby_Sheep_down-Sheet_2: -3866089228336128248
+      Baby_Sheep_down-Sheet_20: 1776815588212451961
+      Baby_Sheep_down-Sheet_21: -3417598488557913809
+      Baby_Sheep_down-Sheet_22: -5940688692974543344
+      Baby_Sheep_down-Sheet_23: 7839122738510919566
+      Baby_Sheep_down-Sheet_24: 7869676136919327643
+      Baby_Sheep_down-Sheet_25: -2526556397457311179
+      Baby_Sheep_down-Sheet_26: -2299937225527949997
+      Baby_Sheep_down-Sheet_27: -3309061932749957197
+      Baby_Sheep_down-Sheet_28: -7549763796230707593
+      Baby_Sheep_down-Sheet_29: -4810658961510502253
+      Baby_Sheep_down-Sheet_3: 1896179523401856403
+      Baby_Sheep_down-Sheet_30: -8274465061597306859
+      Baby_Sheep_down-Sheet_31: 8575896216497276476
+      Baby_Sheep_down-Sheet_32: 6705595322573695632
+      Baby_Sheep_down-Sheet_33: 1654883887596001125
+      Baby_Sheep_down-Sheet_34: 713866306343167984
+      Baby_Sheep_down-Sheet_35: 3678460295002856559
+      Baby_Sheep_down-Sheet_36: -4101383854943484576
+      Baby_Sheep_down-Sheet_37: 8503301055937853162
+      Baby_Sheep_down-Sheet_38: -3237433311640899913
+      Baby_Sheep_down-Sheet_39: 4862361001764865288
+      Baby_Sheep_down-Sheet_4: -1473920169961121333
+      Baby_Sheep_down-Sheet_40: 17741291688776698
+      Baby_Sheep_down-Sheet_5: 3072530691815238107
+      Baby_Sheep_down-Sheet_6: 5358813671056261712
+      Baby_Sheep_down-Sheet_7: 4310783805925108042
+      Baby_Sheep_down-Sheet_8: 1317064457368302708
+      Baby_Sheep_down-Sheet_9: -7601953462708540922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

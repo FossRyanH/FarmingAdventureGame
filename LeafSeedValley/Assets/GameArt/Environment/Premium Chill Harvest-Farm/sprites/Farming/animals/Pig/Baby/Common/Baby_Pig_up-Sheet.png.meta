@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: fd1563189e69c974980fcba29a15139a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3043155841833843770
+    second: Baby_Pig_up-Sheet_0
+  - first:
+      213: 7061969702294439403
+    second: Baby_Pig_up-Sheet_1
+  - first:
+      213: -528277964201576077
+    second: Baby_Pig_up-Sheet_2
+  - first:
+      213: 7350144414629748332
+    second: Baby_Pig_up-Sheet_3
+  - first:
+      213: -1231196813286398231
+    second: Baby_Pig_up-Sheet_4
+  - first:
+      213: 3213555215225684996
+    second: Baby_Pig_up-Sheet_5
+  - first:
+      213: 1162776580403233877
+    second: Baby_Pig_up-Sheet_6
+  - first:
+      213: 2444212521052829243
+    second: Baby_Pig_up-Sheet_7
+  - first:
+      213: 6837369076556922562
+    second: Baby_Pig_up-Sheet_8
+  - first:
+      213: 2739996149385047107
+    second: Baby_Pig_up-Sheet_9
+  - first:
+      213: 1281646461959239455
+    second: Baby_Pig_up-Sheet_10
+  - first:
+      213: -895397799596889442
+    second: Baby_Pig_up-Sheet_11
+  - first:
+      213: -6691621413523762672
+    second: Baby_Pig_up-Sheet_12
+  - first:
+      213: -3218255235497455322
+    second: Baby_Pig_up-Sheet_13
+  - first:
+      213: 1506508632799878428
+    second: Baby_Pig_up-Sheet_14
+  - first:
+      213: -7911972750615302923
+    second: Baby_Pig_up-Sheet_15
+  - first:
+      213: -7938162998573149526
+    second: Baby_Pig_up-Sheet_16
+  - first:
+      213: 672261150889360489
+    second: Baby_Pig_up-Sheet_17
+  - first:
+      213: 1972910414328171753
+    second: Baby_Pig_up-Sheet_18
+  - first:
+      213: -5808973002655106730
+    second: Baby_Pig_up-Sheet_19
+  - first:
+      213: 5416460631315383438
+    second: Baby_Pig_up-Sheet_20
+  - first:
+      213: 3669178908160359160
+    second: Baby_Pig_up-Sheet_21
+  - first:
+      213: 166939433135029819
+    second: Baby_Pig_up-Sheet_22
+  - first:
+      213: 5111969402142355331
+    second: Baby_Pig_up-Sheet_23
+  - first:
+      213: -3656192885627738200
+    second: Baby_Pig_up-Sheet_24
+  - first:
+      213: -2680217605676317317
+    second: Baby_Pig_up-Sheet_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 272
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c39a46d167b3a20800000000000000
+      internalID: 3043155841833843770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 272
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5c4df3708210260800000000000000
+      internalID: 7061969702294439403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 272
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37939119dfd2ba8f0800000000000000
+      internalID: -528277964201576077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 272
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ed3d10765f00660800000000000000
+      internalID: 7350144414629748332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 272
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6a87f7509e9eee0800000000000000
+      internalID: -1231196813286398231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 272
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40481ad2177d89c20800000000000000
+      internalID: 3213555215225684996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 208
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5540414a323032010800000000000000
+      internalID: 1162776580403233877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 208
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b367ae086569be120800000000000000
+      internalID: 2444212521052829243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 208
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce7a6ef2f633ee50800000000000000
+      internalID: 6837369076556922562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 208
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ca8021bfb660620800000000000000
+      internalID: 2739996149385047107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 208
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1777bcaaa259c110800000000000000
+      internalID: 1281646461959239455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 208
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a6c5ef178e293f0800000000000000
+      internalID: -895397799596889442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 144
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012d48337c59223a0800000000000000
+      internalID: -6691621413523762672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 144
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62112a31ae57653d0800000000000000
+      internalID: -3218255235497455322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d9815ae9138e410800000000000000
+      internalID: 1506508632799878428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 144
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc2107e3b6033290800000000000000
+      internalID: -7911972750615302923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2d5ec9fcaf5d190800000000000000
+      internalID: -7938162998573149526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 144
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c3e0774f9545900800000000000000
+      internalID: 672261150889360489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 80
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec03b3a19f216b10800000000000000
+      internalID: 1972910414328171753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 80
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65978e2d4d1626fa0800000000000000
+      internalID: -5808973002655106730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 80
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84017d1f322b2b40800000000000000
+      internalID: 5416460631315383438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 80
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faf04ed6ca8be230800000000000000
+      internalID: 3669178908160359160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 80
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eb40ba786115200800000000000000
+      internalID: 166939433135029819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 80
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f6c5d361d51f640800000000000000
+      internalID: 5111969402142355331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 16
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a729dd11f7924dc0800000000000000
+      internalID: -3656192885627738200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Pig_up-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 16
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b754aecb944fdcad0800000000000000
+      internalID: -2680217605676317317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Baby_Pig_up-Sheet_0: 3043155841833843770
+      Baby_Pig_up-Sheet_1: 7061969702294439403
+      Baby_Pig_up-Sheet_10: 1281646461959239455
+      Baby_Pig_up-Sheet_11: -895397799596889442
+      Baby_Pig_up-Sheet_12: -6691621413523762672
+      Baby_Pig_up-Sheet_13: -3218255235497455322
+      Baby_Pig_up-Sheet_14: 1506508632799878428
+      Baby_Pig_up-Sheet_15: -7911972750615302923
+      Baby_Pig_up-Sheet_16: -7938162998573149526
+      Baby_Pig_up-Sheet_17: 672261150889360489
+      Baby_Pig_up-Sheet_18: 1972910414328171753
+      Baby_Pig_up-Sheet_19: -5808973002655106730
+      Baby_Pig_up-Sheet_2: -528277964201576077
+      Baby_Pig_up-Sheet_20: 5416460631315383438
+      Baby_Pig_up-Sheet_21: 3669178908160359160
+      Baby_Pig_up-Sheet_22: 166939433135029819
+      Baby_Pig_up-Sheet_23: 5111969402142355331
+      Baby_Pig_up-Sheet_24: -3656192885627738200
+      Baby_Pig_up-Sheet_25: -2680217605676317317
+      Baby_Pig_up-Sheet_3: 7350144414629748332
+      Baby_Pig_up-Sheet_4: -1231196813286398231
+      Baby_Pig_up-Sheet_5: 3213555215225684996
+      Baby_Pig_up-Sheet_6: 1162776580403233877
+      Baby_Pig_up-Sheet_7: 2444212521052829243
+      Baby_Pig_up-Sheet_8: 6837369076556922562
+      Baby_Pig_up-Sheet_9: 2739996149385047107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

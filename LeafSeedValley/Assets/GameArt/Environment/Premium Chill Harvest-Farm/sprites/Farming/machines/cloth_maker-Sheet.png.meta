@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 7df3331ced2703d4eb5fb4eaf35b01f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4465076247317267257
+    second: cloth_maker-Sheet_0
+  - first:
+      213: -4336706745925062750
+    second: cloth_maker-Sheet_1
+  - first:
+      213: -5622616620502560448
+    second: cloth_maker-Sheet_2
+  - first:
+      213: 7442513425896472517
+    second: cloth_maker-Sheet_3
+  - first:
+      213: 9179534049198317608
+    second: cloth_maker-Sheet_4
+  - first:
+      213: -256633884198764138
+    second: cloth_maker-Sheet_5
+  - first:
+      213: -7809143034900930883
+    second: cloth_maker-Sheet_6
+  - first:
+      213: 5594308273026292514
+    second: cloth_maker-Sheet_7
+  - first:
+      213: -328040359396823969
+    second: cloth_maker-Sheet_8
+  - first:
+      213: -8293781817900964337
+    second: cloth_maker-Sheet_9
+  - first:
+      213: -8033681502351401391
+    second: cloth_maker-Sheet_10
+  - first:
+      213: -8615499360893265730
+    second: cloth_maker-Sheet_11
+  - first:
+      213: 2116315097923373571
+    second: cloth_maker-Sheet_12
+  - first:
+      213: -2855021476047984637
+    second: cloth_maker-Sheet_13
+  - first:
+      213: 2898341523329331918
+    second: cloth_maker-Sheet_14
+  - first:
+      213: -904008396325904605
+    second: cloth_maker-Sheet_15
+  - first:
+      213: -6049105490510805762
+    second: cloth_maker-Sheet_16
+  - first:
+      213: 2431634241936869957
+    second: cloth_maker-Sheet_17
+  - first:
+      213: 227802726671893094
+    second: cloth_maker-Sheet_18
+  - first:
+      213: 2287352267839654431
+    second: cloth_maker-Sheet_19
+  - first:
+      213: 2014759716395541870
+    second: cloth_maker-Sheet_20
+  - first:
+      213: -8294160489664018974
+    second: cloth_maker-Sheet_21
+  - first:
+      213: -7943273699729799540
+    second: cloth_maker-Sheet_22
+  - first:
+      213: 4864854360805282271
+    second: cloth_maker-Sheet_23
+  - first:
+      213: 5070014000555577744
+    second: cloth_maker-Sheet_24
+  - first:
+      213: 4854744332809733777
+    second: cloth_maker-Sheet_25
+  - first:
+      213: 8977400364324554527
+    second: cloth_maker-Sheet_26
+  - first:
+      213: -2070949264267958123
+    second: cloth_maker-Sheet_27
+  - first:
+      213: 5955319494623608603
+    second: cloth_maker-Sheet_28
+  - first:
+      213: -1196305792592415631
+    second: cloth_maker-Sheet_29
+  - first:
+      213: 909513460102938694
+    second: cloth_maker-Sheet_30
+  - first:
+      213: 1747042950161523972
+    second: cloth_maker-Sheet_31
+  - first:
+      213: -2377084617372137759
+    second: cloth_maker-Sheet_32
+  - first:
+      213: -4581192836357679747
+    second: cloth_maker-Sheet_33
+  - first:
+      213: 567953858701299976
+    second: cloth_maker-Sheet_34
+  - first:
+      213: -836955196160003986
+    second: cloth_maker-Sheet_35
+  - first:
+      213: 6683427430272719554
+    second: cloth_maker-Sheet_36
+  - first:
+      213: 6931112795554689174
+    second: cloth_maker-Sheet_37
+  - first:
+      213: -4420815484825850206
+    second: cloth_maker-Sheet_38
+  - first:
+      213: -1748548103224372306
+    second: cloth_maker-Sheet_39
+  - first:
+      213: 2117981571124564460
+    second: cloth_maker-Sheet_40
+  - first:
+      213: 3445270600203893133
+    second: cloth_maker-Sheet_41
+  - first:
+      213: 1215809251996704348
+    second: cloth_maker-Sheet_42
+  - first:
+      213: 2165755635084878716
+    second: cloth_maker-Sheet_43
+  - first:
+      213: -963354061509233927
+    second: cloth_maker-Sheet_44
+  - first:
+      213: 4282999959885756926
+    second: cloth_maker-Sheet_45
+  - first:
+      213: 8385962603769462856
+    second: cloth_maker-Sheet_46
+  - first:
+      213: -3012969496130611226
+    second: cloth_maker-Sheet_47
+  - first:
+      213: -2254306835808183448
+    second: cloth_maker-Sheet_48
+  - first:
+      213: -1525857967839126308
+    second: cloth_maker-Sheet_49
+  - first:
+      213: 6779590202829514773
+    second: cloth_maker-Sheet_50
+  - first:
+      213: -8233512184405064303
+    second: cloth_maker-Sheet_51
+  - first:
+      213: -2703755415977982331
+    second: cloth_maker-Sheet_52
+  - first:
+      213: -3468337495027245309
+    second: cloth_maker-Sheet_53
+  - first:
+      213: 8512242280536934639
+    second: cloth_maker-Sheet_54
+  - first:
+      213: 5033589196237012279
+    second: cloth_maker-Sheet_55
+  - first:
+      213: -3717441595122463869
+    second: cloth_maker-Sheet_56
+  - first:
+      213: 1523239108368797842
+    second: cloth_maker-Sheet_57
+  - first:
+      213: -7905959080725418179
+    second: cloth_maker-Sheet_58
+  - first:
+      213: 2468418898309128978
+    second: cloth_maker-Sheet_59
+  - first:
+      213: 186531210966202569
+    second: cloth_maker-Sheet_60
+  - first:
+      213: -2609302686010341085
+    second: cloth_maker-Sheet_61
+  - first:
+      213: -8981626020942394816
+    second: cloth_maker-Sheet_62
+  - first:
+      213: 6283994580904105529
+    second: cloth_maker-Sheet_63
+  - first:
+      213: 1391892208625891167
+    second: cloth_maker-Sheet_64
+  - first:
+      213: -6504896094376119889
+    second: cloth_maker-Sheet_65
+  - first:
+      213: -8175553573369977602
+    second: cloth_maker-Sheet_66
+  - first:
+      213: 2630763874063740425
+    second: cloth_maker-Sheet_67
+  - first:
+      213: -6034481539319897270
+    second: cloth_maker-Sheet_68
+  - first:
+      213: -4779329336777851699
+    second: cloth_maker-Sheet_69
+  - first:
+      213: -6280635593173017859
+    second: cloth_maker-Sheet_70
+  - first:
+      213: 929607146595861949
+    second: cloth_maker-Sheet_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9334160a03327fd30800000000000000
+      internalID: 4465076247317267257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afa812013ce0d3c0800000000000000
+      internalID: -4336706745925062750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041dcba39f378f1b0800000000000000
+      internalID: -5622616620502560448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf72aa578e194760800000000000000
+      internalID: 7442513425896472517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820a11e1591446f70800000000000000
+      internalID: 9179534049198317608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691010f87d0407cf0800000000000000
+      internalID: -256633884198764138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe938cc8c950a390800000000000000
+      internalID: -7809143034900930883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd2c10cb9f2ad40800000000000000
+      internalID: 5594308273026292514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c292af701927bf0800000000000000
+      internalID: -328040359396823969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f066b63016196ec80800000000000000
+      internalID: -8293781817900964337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ed7b5ec31a28090800000000000000
+      internalID: -8033681502351401391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb81a576af89f6880800000000000000
+      internalID: -8615499360893265730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ac48c6e59ae5d10800000000000000
+      internalID: 2116315097923373571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3086c06181de068d0800000000000000
+      internalID: -2855021476047984637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec23fc7624af83820800000000000000
+      internalID: 2898341523329331918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f160737215473f0800000000000000
+      internalID: -904008396325904605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef40d3d1b924d0ca0800000000000000
+      internalID: -6049105490510805762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ac25ea576eeb120800000000000000
+      internalID: 2431634241936869957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662c42a7f51592300800000000000000
+      internalID: 227802726671893094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a44c8c4ce4ebf10800000000000000
+      internalID: 2287352267839654431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65e583994dd5fb10800000000000000
+      internalID: 2014759716395541870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e50f7f9af835ec80800000000000000
+      internalID: -8294160489664018974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8607e5c7a2d3c190800000000000000
+      internalID: -7943273699729799540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd11fcb144f638340800000000000000
+      internalID: 4864854360805282271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0915f551fde4c5640800000000000000
+      internalID: 5070014000555577744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1960778cf348f5340800000000000000
+      internalID: 4854744332809733777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17070a2112269c70800000000000000
+      internalID: 8977400364324554527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598a373dd928243e0800000000000000
+      internalID: -2070949264267958123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fbff8178b85a250800000000000000
+      internalID: 5955319494623608603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17479cd483ed56fe0800000000000000
+      internalID: -1196305792592415631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6404fd35cad3f9c00800000000000000
+      internalID: 909513460102938694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4056ab39e4ebe3810800000000000000
+      internalID: 1747042950161523972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e60d748226e20fd0800000000000000
+      internalID: -2377084617372137759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75165533655c60c0800000000000000
+      internalID: -4581192836357679747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80114bc7607c1e700800000000000000
+      internalID: 567953858701299976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6037f7fea98264f0800000000000000
+      internalID: -836955196160003986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cad18766dd40cc50800000000000000
+      internalID: 6683427430272719554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b33d6d52403060800000000000000
+      internalID: 6931112795554689174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea8613dbb16a2c0800000000000000
+      internalID: -4420815484825850206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d0aaa3c8ebb7e0800000000000000
+      internalID: -1748548103224372306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce114b37405946d10800000000000000
+      internalID: 2117981571124564460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89ff386b5f00df20800000000000000
+      internalID: 3445270600203893133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e95e3b21c6fd010800000000000000
+      internalID: 1215809251996704348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73e883864f4e0e10800000000000000
+      internalID: 2165755635084878716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2ffcac59a71a2f0800000000000000
+      internalID: -963354061509233927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b00e65c5407b30800000000000000
+      internalID: 4282999959885756926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8408361be8ce06470800000000000000
+      internalID: 8385962603769462856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e71c08e438cf26d0800000000000000
+      internalID: -3012969496130611226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b1bec60e717b0e0800000000000000
+      internalID: -2254306835808183448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcdf39334013dae0800000000000000
+      internalID: -1525857967839126308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5182f52ae51f51e50800000000000000
+      internalID: 6779590202829514773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1958fa29a40bcbd80800000000000000
+      internalID: -8233512184405064303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586081736c45a7ad0800000000000000
+      internalID: -2703755415977982331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f9bbf9c6dfddfc0800000000000000
+      internalID: -3468337495027245309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8077d114f812670800000000000000
+      internalID: 8512242280536934639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d73f274b6ead540800000000000000
+      internalID: 5033589196237012279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc679a09ef86cc0800000000000000
+      internalID: -3717441595122463869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2901e4a06e1a32510800000000000000
+      internalID: 1523239108368797842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f66988a14684290800000000000000
+      internalID: -7905959080725418179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213a396e8e5914220800000000000000
+      internalID: 2468418898309128978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8f929e521b69200800000000000000
+      internalID: 186531210966202569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32981e02805e9cbd0800000000000000
+      internalID: -2609302686010341085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ac25c78bada5380800000000000000
+      internalID: -8981626020942394816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936d44df6cb353750800000000000000
+      internalID: 6283994580904105529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57b7c4d69ef05310800000000000000
+      internalID: 1391892208625891167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1b2e17777f9b5a0800000000000000
+      internalID: -6504896094376119889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef46b1947599a8e80800000000000000
+      internalID: -8175553573369977602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eef791ec9528420800000000000000
+      internalID: 2630763874063740425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a436f251307314ca0800000000000000
+      internalID: -6034481539319897270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccb0c84a496cadb0800000000000000
+      internalID: -4779329336777851699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5f394433b6d8a0800000000000000
+      internalID: -6280635593173017859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloth_maker-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5c28946c0a6ec00800000000000000
+      internalID: 929607146595861949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cloth_maker-Sheet_0: 4465076247317267257
+      cloth_maker-Sheet_1: -4336706745925062750
+      cloth_maker-Sheet_10: -8033681502351401391
+      cloth_maker-Sheet_11: -8615499360893265730
+      cloth_maker-Sheet_12: 2116315097923373571
+      cloth_maker-Sheet_13: -2855021476047984637
+      cloth_maker-Sheet_14: 2898341523329331918
+      cloth_maker-Sheet_15: -904008396325904605
+      cloth_maker-Sheet_16: -6049105490510805762
+      cloth_maker-Sheet_17: 2431634241936869957
+      cloth_maker-Sheet_18: 227802726671893094
+      cloth_maker-Sheet_19: 2287352267839654431
+      cloth_maker-Sheet_2: -5622616620502560448
+      cloth_maker-Sheet_20: 2014759716395541870
+      cloth_maker-Sheet_21: -8294160489664018974
+      cloth_maker-Sheet_22: -7943273699729799540
+      cloth_maker-Sheet_23: 4864854360805282271
+      cloth_maker-Sheet_24: 5070014000555577744
+      cloth_maker-Sheet_25: 4854744332809733777
+      cloth_maker-Sheet_26: 8977400364324554527
+      cloth_maker-Sheet_27: -2070949264267958123
+      cloth_maker-Sheet_28: 5955319494623608603
+      cloth_maker-Sheet_29: -1196305792592415631
+      cloth_maker-Sheet_3: 7442513425896472517
+      cloth_maker-Sheet_30: 909513460102938694
+      cloth_maker-Sheet_31: 1747042950161523972
+      cloth_maker-Sheet_32: -2377084617372137759
+      cloth_maker-Sheet_33: -4581192836357679747
+      cloth_maker-Sheet_34: 567953858701299976
+      cloth_maker-Sheet_35: -836955196160003986
+      cloth_maker-Sheet_36: 6683427430272719554
+      cloth_maker-Sheet_37: 6931112795554689174
+      cloth_maker-Sheet_38: -4420815484825850206
+      cloth_maker-Sheet_39: -1748548103224372306
+      cloth_maker-Sheet_4: 9179534049198317608
+      cloth_maker-Sheet_40: 2117981571124564460
+      cloth_maker-Sheet_41: 3445270600203893133
+      cloth_maker-Sheet_42: 1215809251996704348
+      cloth_maker-Sheet_43: 2165755635084878716
+      cloth_maker-Sheet_44: -963354061509233927
+      cloth_maker-Sheet_45: 4282999959885756926
+      cloth_maker-Sheet_46: 8385962603769462856
+      cloth_maker-Sheet_47: -3012969496130611226
+      cloth_maker-Sheet_48: -2254306835808183448
+      cloth_maker-Sheet_49: -1525857967839126308
+      cloth_maker-Sheet_5: -256633884198764138
+      cloth_maker-Sheet_50: 6779590202829514773
+      cloth_maker-Sheet_51: -8233512184405064303
+      cloth_maker-Sheet_52: -2703755415977982331
+      cloth_maker-Sheet_53: -3468337495027245309
+      cloth_maker-Sheet_54: 8512242280536934639
+      cloth_maker-Sheet_55: 5033589196237012279
+      cloth_maker-Sheet_56: -3717441595122463869
+      cloth_maker-Sheet_57: 1523239108368797842
+      cloth_maker-Sheet_58: -7905959080725418179
+      cloth_maker-Sheet_59: 2468418898309128978
+      cloth_maker-Sheet_6: -7809143034900930883
+      cloth_maker-Sheet_60: 186531210966202569
+      cloth_maker-Sheet_61: -2609302686010341085
+      cloth_maker-Sheet_62: -8981626020942394816
+      cloth_maker-Sheet_63: 6283994580904105529
+      cloth_maker-Sheet_64: 1391892208625891167
+      cloth_maker-Sheet_65: -6504896094376119889
+      cloth_maker-Sheet_66: -8175553573369977602
+      cloth_maker-Sheet_67: 2630763874063740425
+      cloth_maker-Sheet_68: -6034481539319897270
+      cloth_maker-Sheet_69: -4779329336777851699
+      cloth_maker-Sheet_7: 5594308273026292514
+      cloth_maker-Sheet_70: -6280635593173017859
+      cloth_maker-Sheet_71: 929607146595861949
+      cloth_maker-Sheet_8: -328040359396823969
+      cloth_maker-Sheet_9: -8293781817900964337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

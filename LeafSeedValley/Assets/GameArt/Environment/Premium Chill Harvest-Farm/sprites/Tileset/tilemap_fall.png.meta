@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: f807000130a82c941bf2cf80d9893a64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6586402978497139135
+    second: tilemap_fall_0
+  - first:
+      213: -6089874677364427057
+    second: tilemap_fall_1
+  - first:
+      213: -4760360260429334767
+    second: tilemap_fall_2
+  - first:
+      213: 6180092231219384393
+    second: tilemap_fall_3
+  - first:
+      213: 7312658946875021511
+    second: tilemap_fall_4
+  - first:
+      213: 8738988749230201874
+    second: tilemap_fall_5
+  - first:
+      213: 746088214080683075
+    second: tilemap_fall_6
+  - first:
+      213: 6043187459966454679
+    second: tilemap_fall_7
+  - first:
+      213: -3819031742346170745
+    second: tilemap_fall_8
+  - first:
+      213: 5198809461367004580
+    second: tilemap_fall_9
+  - first:
+      213: -6684378001772062165
+    second: tilemap_fall_10
+  - first:
+      213: 1704086740465929780
+    second: tilemap_fall_11
+  - first:
+      213: -7962511765365830719
+    second: tilemap_fall_12
+  - first:
+      213: 3237449599965239030
+    second: tilemap_fall_13
+  - first:
+      213: 2843506634925518804
+    second: tilemap_fall_14
+  - first:
+      213: 5925464236527370873
+    second: tilemap_fall_15
+  - first:
+      213: -7529961763740495553
+    second: tilemap_fall_16
+  - first:
+      213: -8434890253357174139
+    second: tilemap_fall_17
+  - first:
+      213: 6759100086267494837
+    second: tilemap_fall_18
+  - first:
+      213: 2457395243293076853
+    second: tilemap_fall_19
+  - first:
+      213: 5152715591346737971
+    second: tilemap_fall_20
+  - first:
+      213: -116952257065489367
+    second: tilemap_fall_21
+  - first:
+      213: -1558133786535589489
+    second: tilemap_fall_22
+  - first:
+      213: -7259524972404887172
+    second: tilemap_fall_23
+  - first:
+      213: 4403838016470642856
+    second: tilemap_fall_24
+  - first:
+      213: -3249407988309064583
+    second: tilemap_fall_25
+  - first:
+      213: -1023805671307374162
+    second: tilemap_fall_26
+  - first:
+      213: 6221787780576423950
+    second: tilemap_fall_27
+  - first:
+      213: -5684901165165232995
+    second: tilemap_fall_28
+  - first:
+      213: 2925791083184792116
+    second: tilemap_fall_29
+  - first:
+      213: 7055217783966598041
+    second: tilemap_fall_30
+  - first:
+      213: -3376758460053646070
+    second: tilemap_fall_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap_fall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 289
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb195e8dc9a976b50800000000000000
+      internalID: 6586402978497139135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6fb091f3b6c7ba0800000000000000
+      internalID: -6089874677364427057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117393a809dcfedb0800000000000000
+      internalID: -4760360260429334767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9409bf8042914c550800000000000000
+      internalID: 6180092231219384393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8511c6198cb7560800000000000000
+      internalID: 7312658946875021511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c500e57ff174970800000000000000
+      internalID: 8738988749230201874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c726b1743aa5a00800000000000000
+      internalID: 746088214080683075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 93
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b45660af6bdd350800000000000000
+      internalID: 6043187459966454679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 126
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee38b4dd2100bc0800000000000000
+      internalID: -3819031742346170745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad58bf19a1e52840800000000000000
+      internalID: 5198809461367004580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 109
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad0fb6f915c33a0800000000000000
+      internalID: -6684378001772062165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eccef9cd126a710800000000000000
+      internalID: 1704086740465929780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 110
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb40819cb97f7190800000000000000
+      internalID: -7962511765365830719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f69828224bbdec20800000000000000
+      internalID: 3237449599965239030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfa33b083a267720800000000000000
+      internalID: 2843506634925518804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ce73245a7b3250800000000000000
+      internalID: 5925464236527370873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3159fbdba3308790800000000000000
+      internalID: -7529961763740495553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_17
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 110
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582bd39210041fa80800000000000000
+      internalID: -8434890253357174139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1494b97b52dcd50800000000000000
+      internalID: 6759100086267494837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57de73534fb6a1220800000000000000
+      internalID: 2457395243293076853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333d6d2b78f128740800000000000000
+      internalID: 5152715591346737971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c6ee5ba80806ef0800000000000000
+      internalID: -116952257065489367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8903059395606ae0800000000000000
+      internalID: -1558133786535589489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71babd008cf04b90800000000000000
+      internalID: -7259524972404887172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0f71ce7539d1d30800000000000000
+      internalID: 4403838016470642856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974858696a8c7e2d0800000000000000
+      internalID: -3249407988309064583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 13
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea191b29a26bac1f0800000000000000
+      internalID: -1023805671307374162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 61
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00bf11a50b385650800000000000000
+      internalID: 6221787780576423950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 61
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c3f1b928c2b11b0800000000000000
+      internalID: -5684901165165232995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4322c381d7f7a9820800000000000000
+      internalID: 2925791083184792116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 61
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9930952c13b29e160800000000000000
+      internalID: 7055217783966598041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap_fall_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05153842185321d0800000000000000
+      internalID: -3376758460053646070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tilemap_fall_0: 6586402978497139135
+      tilemap_fall_1: -6089874677364427057
+      tilemap_fall_10: -6684378001772062165
+      tilemap_fall_11: 1704086740465929780
+      tilemap_fall_12: -7962511765365830719
+      tilemap_fall_13: 3237449599965239030
+      tilemap_fall_14: 2843506634925518804
+      tilemap_fall_15: 5925464236527370873
+      tilemap_fall_16: -7529961763740495553
+      tilemap_fall_17: -8434890253357174139
+      tilemap_fall_18: 6759100086267494837
+      tilemap_fall_19: 2457395243293076853
+      tilemap_fall_2: -4760360260429334767
+      tilemap_fall_20: 5152715591346737971
+      tilemap_fall_21: -116952257065489367
+      tilemap_fall_22: -1558133786535589489
+      tilemap_fall_23: -7259524972404887172
+      tilemap_fall_24: 4403838016470642856
+      tilemap_fall_25: -3249407988309064583
+      tilemap_fall_26: -1023805671307374162
+      tilemap_fall_27: 6221787780576423950
+      tilemap_fall_28: -5684901165165232995
+      tilemap_fall_29: 2925791083184792116
+      tilemap_fall_3: 6180092231219384393
+      tilemap_fall_30: 7055217783966598041
+      tilemap_fall_31: -3376758460053646070
+      tilemap_fall_4: 7312658946875021511
+      tilemap_fall_5: 8738988749230201874
+      tilemap_fall_6: 746088214080683075
+      tilemap_fall_7: 6043187459966454679
+      tilemap_fall_8: -3819031742346170745
+      tilemap_fall_9: 5198809461367004580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

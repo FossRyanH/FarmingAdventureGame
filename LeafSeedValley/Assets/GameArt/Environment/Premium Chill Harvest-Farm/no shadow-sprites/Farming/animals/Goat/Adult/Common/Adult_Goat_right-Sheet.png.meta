@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: a33287d9c75db354faaec2b9fe426923
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1022646121049454083
+    second: Adult_Goat_right-Sheet_0
+  - first:
+      213: -4697659321430260746
+    second: Adult_Goat_right-Sheet_1
+  - first:
+      213: -2502390193076774364
+    second: Adult_Goat_right-Sheet_2
+  - first:
+      213: 5235494710192601171
+    second: Adult_Goat_right-Sheet_3
+  - first:
+      213: 3018232713788398953
+    second: Adult_Goat_right-Sheet_4
+  - first:
+      213: 3260057271722089796
+    second: Adult_Goat_right-Sheet_5
+  - first:
+      213: 426762901678786562
+    second: Adult_Goat_right-Sheet_6
+  - first:
+      213: 3926524480544576693
+    second: Adult_Goat_right-Sheet_7
+  - first:
+      213: -4399056897368304609
+    second: Adult_Goat_right-Sheet_8
+  - first:
+      213: 2726995156954085759
+    second: Adult_Goat_right-Sheet_9
+  - first:
+      213: 9122568194669164189
+    second: Adult_Goat_right-Sheet_10
+  - first:
+      213: 8642535372116122957
+    second: Adult_Goat_right-Sheet_11
+  - first:
+      213: -6690500314941773269
+    second: Adult_Goat_right-Sheet_12
+  - first:
+      213: 6711748988779149632
+    second: Adult_Goat_right-Sheet_13
+  - first:
+      213: 395325563001413666
+    second: Adult_Goat_right-Sheet_14
+  - first:
+      213: -2606582482367831301
+    second: Adult_Goat_right-Sheet_15
+  - first:
+      213: 4834024984038636523
+    second: Adult_Goat_right-Sheet_16
+  - first:
+      213: -5513831341782759465
+    second: Adult_Goat_right-Sheet_17
+  - first:
+      213: 7785636008674916458
+    second: Adult_Goat_right-Sheet_18
+  - first:
+      213: -4905202867117307213
+    second: Adult_Goat_right-Sheet_19
+  - first:
+      213: 7776330569622532642
+    second: Adult_Goat_right-Sheet_20
+  - first:
+      213: -896864800299646355
+    second: Adult_Goat_right-Sheet_21
+  - first:
+      213: 2466348998845192201
+    second: Adult_Goat_right-Sheet_22
+  - first:
+      213: 633563220104414730
+    second: Adult_Goat_right-Sheet_23
+  - first:
+      213: 2170988024303633465
+    second: Adult_Goat_right-Sheet_24
+  - first:
+      213: -3306385993873981012
+    second: Adult_Goat_right-Sheet_25
+  - first:
+      213: 8952702179364067877
+    second: Adult_Goat_right-Sheet_26
+  - first:
+      213: -819338334397669756
+    second: Adult_Goat_right-Sheet_27
+  - first:
+      213: 1235392070129066746
+    second: Adult_Goat_right-Sheet_28
+  - first:
+      213: -2286952542897716725
+    second: Adult_Goat_right-Sheet_29
+  - first:
+      213: -7003254324285780203
+    second: Adult_Goat_right-Sheet_30
+  - first:
+      213: -7347149667891682767
+    second: Adult_Goat_right-Sheet_31
+  - first:
+      213: -9130855413040985230
+    second: Adult_Goat_right-Sheet_32
+  - first:
+      213: 3079016547663607728
+    second: Adult_Goat_right-Sheet_33
+  - first:
+      213: -3957185406960368301
+    second: Adult_Goat_right-Sheet_34
+  - first:
+      213: -6616911004080465775
+    second: Adult_Goat_right-Sheet_35
+  - first:
+      213: 332599164599454839
+    second: Adult_Goat_right-Sheet_36
+  - first:
+      213: -7406666265130372216
+    second: Adult_Goat_right-Sheet_37
+  - first:
+      213: -2432406967265207631
+    second: Adult_Goat_right-Sheet_38
+  - first:
+      213: -2131714421688732478
+    second: Adult_Goat_right-Sheet_39
+  - first:
+      213: 6735604509041585414
+    second: Adult_Goat_right-Sheet_40
+  - first:
+      213: -9064684863207291335
+    second: Adult_Goat_right-Sheet_41
+  - first:
+      213: 5476532392612716297
+    second: Adult_Goat_right-Sheet_42
+  - first:
+      213: 5535801005157189956
+    second: Adult_Goat_right-Sheet_43
+  - first:
+      213: -8724143484108419991
+    second: Adult_Goat_right-Sheet_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 399
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30675189a3b213e00800000000000000
+      internalID: 1022646121049454083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 399
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3c8568cbf8eceb0800000000000000
+      internalID: -4697659321430260746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 399
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42adc3ca069b54dd0800000000000000
+      internalID: -2502390193076774364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 399
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358777833b638a840800000000000000
+      internalID: 5235494710192601171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 399
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d12d279aae2e920800000000000000
+      internalID: 3018232713788398953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 399
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d9c6ce0dc0e3d20800000000000000
+      internalID: 3260057271722089796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 399
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20801e5199a2ce500800000000000000
+      internalID: 426762901678786562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 335
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b41cb02631dd7630800000000000000
+      internalID: 3926524480544576693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 335
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1451ad1f0963f2c0800000000000000
+      internalID: -4399056897368304609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 335
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797572a5ab38d520800000000000000
+      internalID: 2726995156954085759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 335
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96388a807fd99e70800000000000000
+      internalID: 9122568194669164189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 335
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ddabd712470f770800000000000000
+      internalID: 8642535372116122957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 335
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa14e49619623a0800000000000000
+      internalID: -6690500314941773269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 336
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049b4c9152ce42d50800000000000000
+      internalID: 6711748988779149632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 272
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220a459418a7c7500800000000000000
+      internalID: 395325563001413666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 272
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2a5b4ea0f83dbd0800000000000000
+      internalID: -2606582482367831301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 271
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb7cf87c18e51340800000000000000
+      internalID: 4834024984038636523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 271
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d78f91bb9fea73b0800000000000000
+      internalID: -5513831341782759465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 271
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68fe8723b22c0c60800000000000000
+      internalID: 7785636008674916458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 271
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bace323bf73debb0800000000000000
+      internalID: -4905202867117307213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 271
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222bc5ac3731beb60800000000000000
+      internalID: 7776330569622532642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 207
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6286964732bd83f0800000000000000
+      internalID: -896864800299646355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 207
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908de40e85b3a3220800000000000000
+      internalID: 2466348998845192201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 207
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a068315546edac800800000000000000
+      internalID: 633563220104414730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 207
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934ce301b16e02e10800000000000000
+      internalID: 2170988024303633465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 207
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca180d0e47b5d12d0800000000000000
+      internalID: -3306385993873981012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 207
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a5cdcd2336e3c70800000000000000
+      internalID: 8952702179364067877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 207
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48edd5b302021a4f0800000000000000
+      internalID: -819338334397669756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 143
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a06ada8ef42110800000000000000
+      internalID: 1235392070129066746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02c76e67cc1340e0800000000000000
+      internalID: -2286952542897716725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4a310c417fce90800000000000000
+      internalID: -7003254324285780203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 143
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132efadcd4ea90a90800000000000000
+      internalID: -7347149667891682767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 143
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b4d32116fa84180800000000000000
+      internalID: -9130855413040985230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 143
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7f90d9c3ddaba20800000000000000
+      internalID: 3079016547663607728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 143
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35584c3a6d04519c0800000000000000
+      internalID: -3957185406960368301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198196bef720c24a0800000000000000
+      internalID: -6616911004080465775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 79
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cca829d21ad9400800000000000000
+      internalID: 332599164599454839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 79
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883f809264c363990800000000000000
+      internalID: -7406666265130372216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad8fe20ca5e3ed0800000000000000
+      internalID: -2432406967265207631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c47aac1701aa62e0800000000000000
+      internalID: -2131714421688732478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 79
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d61fc3d9ca97d50800000000000000
+      internalID: 6735604509041585414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 79
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9364ba7c425c33280800000000000000
+      internalID: -9064684863207291335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 15
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fd996f13d800c40800000000000000
+      internalID: 5476532392612716297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 15
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44905ab2fad13dc40800000000000000
+      internalID: 5535801005157189956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adult_Goat_right-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 15
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ccd2449bd9de680800000000000000
+      internalID: -8724143484108419991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Adult_Goat_right-Sheet_0: 1022646121049454083
+      Adult_Goat_right-Sheet_1: -4697659321430260746
+      Adult_Goat_right-Sheet_10: 9122568194669164189
+      Adult_Goat_right-Sheet_11: 8642535372116122957
+      Adult_Goat_right-Sheet_12: -6690500314941773269
+      Adult_Goat_right-Sheet_13: 6711748988779149632
+      Adult_Goat_right-Sheet_14: 395325563001413666
+      Adult_Goat_right-Sheet_15: -2606582482367831301
+      Adult_Goat_right-Sheet_16: 4834024984038636523
+      Adult_Goat_right-Sheet_17: -5513831341782759465
+      Adult_Goat_right-Sheet_18: 7785636008674916458
+      Adult_Goat_right-Sheet_19: -4905202867117307213
+      Adult_Goat_right-Sheet_2: -2502390193076774364
+      Adult_Goat_right-Sheet_20: 7776330569622532642
+      Adult_Goat_right-Sheet_21: -896864800299646355
+      Adult_Goat_right-Sheet_22: 2466348998845192201
+      Adult_Goat_right-Sheet_23: 633563220104414730
+      Adult_Goat_right-Sheet_24: 2170988024303633465
+      Adult_Goat_right-Sheet_25: -3306385993873981012
+      Adult_Goat_right-Sheet_26: 8952702179364067877
+      Adult_Goat_right-Sheet_27: -819338334397669756
+      Adult_Goat_right-Sheet_28: 1235392070129066746
+      Adult_Goat_right-Sheet_29: -2286952542897716725
+      Adult_Goat_right-Sheet_3: 5235494710192601171
+      Adult_Goat_right-Sheet_30: -7003254324285780203
+      Adult_Goat_right-Sheet_31: -7347149667891682767
+      Adult_Goat_right-Sheet_32: -9130855413040985230
+      Adult_Goat_right-Sheet_33: 3079016547663607728
+      Adult_Goat_right-Sheet_34: -3957185406960368301
+      Adult_Goat_right-Sheet_35: -6616911004080465775
+      Adult_Goat_right-Sheet_36: 332599164599454839
+      Adult_Goat_right-Sheet_37: -7406666265130372216
+      Adult_Goat_right-Sheet_38: -2432406967265207631
+      Adult_Goat_right-Sheet_39: -2131714421688732478
+      Adult_Goat_right-Sheet_4: 3018232713788398953
+      Adult_Goat_right-Sheet_40: 6735604509041585414
+      Adult_Goat_right-Sheet_41: -9064684863207291335
+      Adult_Goat_right-Sheet_42: 5476532392612716297
+      Adult_Goat_right-Sheet_43: 5535801005157189956
+      Adult_Goat_right-Sheet_44: -8724143484108419991
+      Adult_Goat_right-Sheet_5: 3260057271722089796
+      Adult_Goat_right-Sheet_6: 426762901678786562
+      Adult_Goat_right-Sheet_7: 3926524480544576693
+      Adult_Goat_right-Sheet_8: -4399056897368304609
+      Adult_Goat_right-Sheet_9: 2726995156954085759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

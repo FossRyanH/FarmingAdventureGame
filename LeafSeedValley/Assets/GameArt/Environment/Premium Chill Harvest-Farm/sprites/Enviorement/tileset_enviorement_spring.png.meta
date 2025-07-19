@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 568f6f305e766464cb3fcc97da33973b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7604434039221028171
+    second: tileset_enviorement_spring_0
+  - first:
+      213: -5977566223378559963
+    second: tileset_enviorement_spring_1
+  - first:
+      213: 5824495464228209673
+    second: tileset_enviorement_spring_2
+  - first:
+      213: 2252344440661477985
+    second: tileset_enviorement_spring_3
+  - first:
+      213: 8518610154427488951
+    second: tileset_enviorement_spring_4
+  - first:
+      213: 2174566801800505411
+    second: tileset_enviorement_spring_5
+  - first:
+      213: 5901106047768187200
+    second: tileset_enviorement_spring_6
+  - first:
+      213: 4060014300681666005
+    second: tileset_enviorement_spring_7
+  - first:
+      213: -6639888205199707790
+    second: tileset_enviorement_spring_8
+  - first:
+      213: -3735301802362541640
+    second: tileset_enviorement_spring_9
+  - first:
+      213: 8248881036593724822
+    second: tileset_enviorement_spring_10
+  - first:
+      213: 8197379875320389435
+    second: tileset_enviorement_spring_11
+  - first:
+      213: -2262425223454650878
+    second: tileset_enviorement_spring_12
+  - first:
+      213: -8199814181641405217
+    second: tileset_enviorement_spring_13
+  - first:
+      213: -6642163682540649250
+    second: tileset_enviorement_spring_14
+  - first:
+      213: -2287157441405166614
+    second: tileset_enviorement_spring_15
+  - first:
+      213: -4392591673866699385
+    second: tileset_enviorement_spring_16
+  - first:
+      213: -6563682944813253605
+    second: tileset_enviorement_spring_17
+  - first:
+      213: 2603378825814913791
+    second: tileset_enviorement_spring_18
+  - first:
+      213: 6788423112854967827
+    second: tileset_enviorement_spring_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba7756088f977690800000000000000
+      internalID: -7604434039221028171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc52ab03b6b0da0800000000000000
+      internalID: -5977566223378559963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 294
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9044235e3c3c4d050800000000000000
+      internalID: 5824495464228209673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 294
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a0479d55fe14f10800000000000000
+      internalID: 2252344440661477985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 278
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba9faa4dce283670800000000000000
+      internalID: 8518610154427488951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 277
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3482da12cfc9d2e10800000000000000
+      internalID: 2174566801800505411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 271
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d12f5fa0f4e150800000000000000
+      internalID: 5901106047768187200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 288
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddf22fde71185830800000000000000
+      internalID: 4060014300681666005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 240
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f3c46bd06ad3a0800000000000000
+      internalID: -6639888205199707790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 241
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9ed4d1dca892cc0800000000000000
+      internalID: -3735301802362541640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 227
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dff9c2999e97270800000000000000
+      internalID: 8248881036593724822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 226
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f5865a091f2c170800000000000000
+      internalID: 8197379875320389435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 216
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0a110f304a90e0800000000000000
+      internalID: -2262425223454650878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 217
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcbd0f3278643e80800000000000000
+      internalID: -8199814181641405217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed40a2a825b42d3a0800000000000000
+      internalID: -6642163682540649250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb57a7cc626240e0800000000000000
+      internalID: -2287157441405166614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 63
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d36d345216a03c0800000000000000
+      internalID: -4392591673866699385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cbd18332d19e4a0800000000000000
+      internalID: -6563682944813253605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2b870bf3f012420800000000000000
+      internalID: 2603378825814913791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_spring_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 15
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31695c2cad2553e50800000000000000
+      internalID: 6788423112854967827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tileset_enviorement_spring_0: -7604434039221028171
+      tileset_enviorement_spring_1: -5977566223378559963
+      tileset_enviorement_spring_10: 8248881036593724822
+      tileset_enviorement_spring_11: 8197379875320389435
+      tileset_enviorement_spring_12: -2262425223454650878
+      tileset_enviorement_spring_13: -8199814181641405217
+      tileset_enviorement_spring_14: -6642163682540649250
+      tileset_enviorement_spring_15: -2287157441405166614
+      tileset_enviorement_spring_16: -4392591673866699385
+      tileset_enviorement_spring_17: -6563682944813253605
+      tileset_enviorement_spring_18: 2603378825814913791
+      tileset_enviorement_spring_19: 6788423112854967827
+      tileset_enviorement_spring_2: 5824495464228209673
+      tileset_enviorement_spring_3: 2252344440661477985
+      tileset_enviorement_spring_4: 8518610154427488951
+      tileset_enviorement_spring_5: 2174566801800505411
+      tileset_enviorement_spring_6: 5901106047768187200
+      tileset_enviorement_spring_7: 4060014300681666005
+      tileset_enviorement_spring_8: -6639888205199707790
+      tileset_enviorement_spring_9: -3735301802362541640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

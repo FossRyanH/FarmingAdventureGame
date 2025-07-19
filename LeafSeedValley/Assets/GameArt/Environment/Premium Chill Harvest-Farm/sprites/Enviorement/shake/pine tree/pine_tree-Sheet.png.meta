@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 611baccadc588a54d88d89578242707d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3793348332288948163
+    second: pine_tree-Sheet_0
+  - first:
+      213: -7749725952360350528
+    second: pine_tree-Sheet_1
+  - first:
+      213: 9143587289263894982
+    second: pine_tree-Sheet_2
+  - first:
+      213: -1754558047289529490
+    second: pine_tree-Sheet_3
+  - first:
+      213: 5605139659238548842
+    second: pine_tree-Sheet_4
+  - first:
+      213: 7449814255449488875
+    second: pine_tree-Sheet_5
+  - first:
+      213: -208866618127334532
+    second: pine_tree-Sheet_6
+  - first:
+      213: -3396085094213579342
+    second: pine_tree-Sheet_7
+  - first:
+      213: -3691404549264569339
+    second: pine_tree-Sheet_8
+  - first:
+      213: 2238097385061783187
+    second: pine_tree-Sheet_9
+  - first:
+      213: -6212599505346667045
+    second: pine_tree-Sheet_10
+  - first:
+      213: 8489004611593963821
+    second: pine_tree-Sheet_11
+  - first:
+      213: 281533377704769934
+    second: pine_tree-Sheet_12
+  - first:
+      213: 6125927903391255236
+    second: pine_tree-Sheet_13
+  - first:
+      213: 2775657662203683428
+    second: pine_tree-Sheet_14
+  - first:
+      213: 3044159013825791773
+    second: pine_tree-Sheet_15
+  - first:
+      213: 312100416400068952
+    second: pine_tree-Sheet_16
+  - first:
+      213: 4891579087087803910
+    second: pine_tree-Sheet_17
+  - first:
+      213: -4798256417947222317
+    second: pine_tree-Sheet_18
+  - first:
+      213: 2327514960853962864
+    second: pine_tree-Sheet_19
+  - first:
+      213: 3442777541903457107
+    second: pine_tree-Sheet_20
+  - first:
+      213: 2014835828842521213
+    second: pine_tree-Sheet_21
+  - first:
+      213: 4735539459865520145
+    second: pine_tree-Sheet_22
+  - first:
+      213: 3203983049658577245
+    second: pine_tree-Sheet_23
+  - first:
+      213: -5479718293483109731
+    second: pine_tree-Sheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pine_tree-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c8903ac15b5bc0800000000000000
+      internalID: -3793348332288948163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 15
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc7fee5e41737490800000000000000
+      internalID: -7749725952360350528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 46
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1f95dd13c84ee70800000000000000
+      internalID: 9143587289263894982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b218580ce86a7e0800000000000000
+      internalID: -1754558047289529490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a652e51a2d479cd40800000000000000
+      internalID: 5605139659238548842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed35b2389e036760800000000000000
+      internalID: 7449814255449488875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 15
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73451ddae4f91df0800000000000000
+      internalID: -208866618127334532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 15
+        width: 46
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd866c999eaed0d0800000000000000
+      internalID: -3396085094213579342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c03dece1f75ccc0800000000000000
+      internalID: -3691404549264569339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3969659b6b15f0f10800000000000000
+      internalID: 2238097385061783187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd5b086aa968c9a0800000000000000
+      internalID: -6212599505346667045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 15
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2906b2b7b00fc570800000000000000
+      internalID: 8489004611593963821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 15
+        width: 46
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89328a8d1538e300800000000000000
+      internalID: 281533377704769934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca0a49b8faa30550800000000000000
+      internalID: 6125927903391255236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462edbd00fd158620800000000000000
+      internalID: 2775657662203683428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17c3e29e760f3a20800000000000000
+      internalID: 3044159013825791773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 15
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85117c5dcadc45400800000000000000
+      internalID: 312100416400068952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 15
+        width: 46
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e1994534162e340800000000000000
+      internalID: 4891579087087803910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de740bc53b296db0800000000000000
+      internalID: -4798256417947222317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709b13768efc4020800000000000000
+      internalID: 2327514960853962864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b19d90fe337cf20800000000000000
+      internalID: 3442777541903457107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 15
+        width: 48
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7263e2e28226fb10800000000000000
+      internalID: 2014835828842521213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 15
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118212d7c0408b140800000000000000
+      internalID: 4735539459865520145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 15
+        width: 48
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51b545bb95d67c20800000000000000
+      internalID: 3203983049658577245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pine_tree-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 15
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92cabfae3124f3b0800000000000000
+      internalID: -5479718293483109731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pine_tree-Sheet_0: -3793348332288948163
+      pine_tree-Sheet_1: -7749725952360350528
+      pine_tree-Sheet_10: -6212599505346667045
+      pine_tree-Sheet_11: 8489004611593963821
+      pine_tree-Sheet_12: 281533377704769934
+      pine_tree-Sheet_13: 6125927903391255236
+      pine_tree-Sheet_14: 2775657662203683428
+      pine_tree-Sheet_15: 3044159013825791773
+      pine_tree-Sheet_16: 312100416400068952
+      pine_tree-Sheet_17: 4891579087087803910
+      pine_tree-Sheet_18: -4798256417947222317
+      pine_tree-Sheet_19: 2327514960853962864
+      pine_tree-Sheet_2: 9143587289263894982
+      pine_tree-Sheet_20: 3442777541903457107
+      pine_tree-Sheet_21: 2014835828842521213
+      pine_tree-Sheet_22: 4735539459865520145
+      pine_tree-Sheet_23: 3203983049658577245
+      pine_tree-Sheet_24: -5479718293483109731
+      pine_tree-Sheet_3: -1754558047289529490
+      pine_tree-Sheet_4: 5605139659238548842
+      pine_tree-Sheet_5: 7449814255449488875
+      pine_tree-Sheet_6: -208866618127334532
+      pine_tree-Sheet_7: -3396085094213579342
+      pine_tree-Sheet_8: -3691404549264569339
+      pine_tree-Sheet_9: 2238097385061783187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0804febf3fd64624b9b407df5b7717fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -154991533229832207
+    second: Hot_Dog_BG-Sheet_0
+  - first:
+      213: -7800758582236212955
+    second: Hot_Dog_BG-Sheet_1
+  - first:
+      213: 3602582085443124805
+    second: Hot_Dog_BG-Sheet_2
+  - first:
+      213: 5731455318640764485
+    second: Hot_Dog_BG-Sheet_3
+  - first:
+      213: 3149458753568324226
+    second: Hot_Dog_BG-Sheet_4
+  - first:
+      213: -3614159130738903095
+    second: Hot_Dog_BG-Sheet_5
+  - first:
+      213: 5437041156765596112
+    second: Hot_Dog_BG-Sheet_6
+  - first:
+      213: 8994633222474838100
+    second: Hot_Dog_BG-Sheet_7
+  - first:
+      213: 5611386956728173598
+    second: Hot_Dog_BG-Sheet_8
+  - first:
+      213: -1503012388987975934
+    second: Hot_Dog_BG-Sheet_9
+  - first:
+      213: 5974222260240639917
+    second: Hot_Dog_BG-Sheet_10
+  - first:
+      213: -8529081339510730856
+    second: Hot_Dog_BG-Sheet_11
+  - first:
+      213: 8051376855200449616
+    second: Hot_Dog_BG-Sheet_12
+  - first:
+      213: 897553683607534130
+    second: Hot_Dog_BG-Sheet_13
+  - first:
+      213: -3375750157891002941
+    second: Hot_Dog_BG-Sheet_14
+  - first:
+      213: 5480501569512958327
+    second: Hot_Dog_BG-Sheet_15
+  - first:
+      213: -6637605598535479126
+    second: Hot_Dog_BG-Sheet_16
+  - first:
+      213: 3407896451541842616
+    second: Hot_Dog_BG-Sheet_17
+  - first:
+      213: -2600914269806537147
+    second: Hot_Dog_BG-Sheet_18
+  - first:
+      213: -7709247470669246314
+    second: Hot_Dog_BG-Sheet_19
+  - first:
+      213: 661324450404600149
+    second: Hot_Dog_BG-Sheet_20
+  - first:
+      213: -1221792291211907008
+    second: Hot_Dog_BG-Sheet_21
+  - first:
+      213: 2542732091384065581
+    second: Hot_Dog_BG-Sheet_22
+  - first:
+      213: -7684908019288465190
+    second: Hot_Dog_BG-Sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f784ae850c59ddf0800000000000000
+      internalID: -154991533229832207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5211b3f46632eb390800000000000000
+      internalID: -7800758582236212955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ef505c151fef130800000000000000
+      internalID: 3602582085443124805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5462b99ee383a8f40800000000000000
+      internalID: 5731455318640764485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a3f21cc0025bb20800000000000000
+      internalID: 3149458753568324226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7b2925b6de7ddc0800000000000000
+      internalID: -3614159130738903095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9313a1020447b40800000000000000
+      internalID: 5437041156765596112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4503a8e924b53dc70800000000000000
+      internalID: 8994633222474838100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e140b0de4b6afdd40800000000000000
+      internalID: 5611386956728173598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2074c5d023a342be0800000000000000
+      internalID: -1503012388987975934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7efde2e73b8e250800000000000000
+      internalID: 5974222260240639917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fcc02f5bd92a980800000000000000
+      internalID: -8529081339510730856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054460f779c3cbf60800000000000000
+      internalID: 8051376855200449616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a354ed150c47c00800000000000000
+      internalID: 897553683607534130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd107ced1de621d0800000000000000
+      internalID: -3375750157891002941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7796ac9f327ae0c40800000000000000
+      internalID: 5480501569512958327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0162c20ec72e3a0800000000000000
+      internalID: -6637605598535479126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba377154c74b4f20800000000000000
+      internalID: 3407896451541842616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546dfe87042b7ebd0800000000000000
+      internalID: -2600914269806537147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6905e215540430590800000000000000
+      internalID: -7709247470669246314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55985a3751f7d2900800000000000000
+      internalID: 661324450404600149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040f00d62625b0fe0800000000000000
+      internalID: -1221792291211907008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eeee97d59994320800000000000000
+      internalID: 2542732091384065581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hot_Dog_BG-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 15
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a2c27fd8b95590800000000000000
+      internalID: -7684908019288465190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hot_Dog_BG-Sheet_0: -154991533229832207
+      Hot_Dog_BG-Sheet_1: -7800758582236212955
+      Hot_Dog_BG-Sheet_10: 5974222260240639917
+      Hot_Dog_BG-Sheet_11: -8529081339510730856
+      Hot_Dog_BG-Sheet_12: 8051376855200449616
+      Hot_Dog_BG-Sheet_13: 897553683607534130
+      Hot_Dog_BG-Sheet_14: -3375750157891002941
+      Hot_Dog_BG-Sheet_15: 5480501569512958327
+      Hot_Dog_BG-Sheet_16: -6637605598535479126
+      Hot_Dog_BG-Sheet_17: 3407896451541842616
+      Hot_Dog_BG-Sheet_18: -2600914269806537147
+      Hot_Dog_BG-Sheet_19: -7709247470669246314
+      Hot_Dog_BG-Sheet_2: 3602582085443124805
+      Hot_Dog_BG-Sheet_20: 661324450404600149
+      Hot_Dog_BG-Sheet_21: -1221792291211907008
+      Hot_Dog_BG-Sheet_22: 2542732091384065581
+      Hot_Dog_BG-Sheet_23: -7684908019288465190
+      Hot_Dog_BG-Sheet_3: 5731455318640764485
+      Hot_Dog_BG-Sheet_4: 3149458753568324226
+      Hot_Dog_BG-Sheet_5: -3614159130738903095
+      Hot_Dog_BG-Sheet_6: 5437041156765596112
+      Hot_Dog_BG-Sheet_7: 8994633222474838100
+      Hot_Dog_BG-Sheet_8: 5611386956728173598
+      Hot_Dog_BG-Sheet_9: -1503012388987975934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

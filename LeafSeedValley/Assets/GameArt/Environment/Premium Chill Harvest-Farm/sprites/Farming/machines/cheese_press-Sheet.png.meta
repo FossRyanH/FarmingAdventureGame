@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: a2e0a1dc8d4ce6449b847b6dda395000
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8820713518019227091
+    second: cheese_press-Sheet_0
+  - first:
+      213: -4236186433040495273
+    second: cheese_press-Sheet_1
+  - first:
+      213: -4577028726703432459
+    second: cheese_press-Sheet_2
+  - first:
+      213: -1646798708098933754
+    second: cheese_press-Sheet_3
+  - first:
+      213: -3066267018234733891
+    second: cheese_press-Sheet_4
+  - first:
+      213: 1959222648336613987
+    second: cheese_press-Sheet_5
+  - first:
+      213: -3445550546312697476
+    second: cheese_press-Sheet_6
+  - first:
+      213: 6311995840485246890
+    second: cheese_press-Sheet_7
+  - first:
+      213: 2374429732507550606
+    second: cheese_press-Sheet_8
+  - first:
+      213: 3422995042623667740
+    second: cheese_press-Sheet_9
+  - first:
+      213: -2882406765828677843
+    second: cheese_press-Sheet_10
+  - first:
+      213: 228925991441498357
+    second: cheese_press-Sheet_11
+  - first:
+      213: 1950989903213899257
+    second: cheese_press-Sheet_12
+  - first:
+      213: -7216824664700466973
+    second: cheese_press-Sheet_13
+  - first:
+      213: 8401785652011106291
+    second: cheese_press-Sheet_14
+  - first:
+      213: 7180288016515893711
+    second: cheese_press-Sheet_15
+  - first:
+      213: 1028920204859361167
+    second: cheese_press-Sheet_16
+  - first:
+      213: -7808085121792855463
+    second: cheese_press-Sheet_17
+  - first:
+      213: 1929179559076689532
+    second: cheese_press-Sheet_18
+  - first:
+      213: 8100984822425751357
+    second: cheese_press-Sheet_19
+  - first:
+      213: -505437027295720315
+    second: cheese_press-Sheet_20
+  - first:
+      213: 4404654907771935301
+    second: cheese_press-Sheet_21
+  - first:
+      213: -5374718855938280007
+    second: cheese_press-Sheet_22
+  - first:
+      213: -2924111599893551078
+    second: cheese_press-Sheet_23
+  - first:
+      213: 5848561093715785462
+    second: cheese_press-Sheet_24
+  - first:
+      213: -3988092559928074484
+    second: cheese_press-Sheet_25
+  - first:
+      213: -6268568287966301825
+    second: cheese_press-Sheet_26
+  - first:
+      213: 1674011230337142960
+    second: cheese_press-Sheet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cheese_press-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d225afc1ac7869580800000000000000
+      internalID: -8820713518019227091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dca4822ea0635c0800000000000000
+      internalID: -4236186433040495273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc551a8f902b70c0800000000000000
+      internalID: -4577028726703432459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cd033dc456529e0800000000000000
+      internalID: -1646798708098933754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba5f97846e6275d0800000000000000
+      internalID: -3066267018234733891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36201064e9e803b10800000000000000
+      internalID: 1959222648336613987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79e06f8802fe20d0800000000000000
+      internalID: -3445550546312697476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7cdd746c6b89750800000000000000
+      internalID: 6311995840485246890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e830d3ee24ba3f020800000000000000
+      internalID: 2374429732507550606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eb18ffadbe08f20800000000000000
+      internalID: 3422995042623667740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f59907152aff7d0800000000000000
+      internalID: -2882406765828677843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f089bfe9fe4d2300800000000000000
+      internalID: 228925991441498357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd207deafe431b10800000000000000
+      internalID: 1950989903213899257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8404e2430b8db90800000000000000
+      internalID: -7216824664700466973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff78133983299470800000000000000
+      internalID: 8401785652011106291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98c6188e185a360800000000000000
+      internalID: 7180288016515893711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f874dd09975774e00800000000000000
+      internalID: 1028920204859361167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952368363fb14a390800000000000000
+      internalID: -7808085121792855463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76f5b67692d5ca10800000000000000
+      internalID: 1929179559076689532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f848f66ca7c6070800000000000000
+      internalID: 8100984822425751357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c85bb93b35cf8f0800000000000000
+      internalID: -505437027295720315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a5def3d4a702d30800000000000000
+      internalID: 4404654907771935301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b574305da92965b0800000000000000
+      internalID: -5374718855938280007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18eeb41ef77b67d0800000000000000
+      internalID: -2924111599893551078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f67916e3534a2150800000000000000
+      internalID: 5848561093715785462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fdb1252f277a8c0800000000000000
+      internalID: -3988092559928074484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f717d79ba529109a0800000000000000
+      internalID: -6268568287966301825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cheese_press-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0924e38584b3710800000000000000
+      internalID: 1674011230337142960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cheese_press-Sheet_0: -8820713518019227091
+      cheese_press-Sheet_1: -4236186433040495273
+      cheese_press-Sheet_10: -2882406765828677843
+      cheese_press-Sheet_11: 228925991441498357
+      cheese_press-Sheet_12: 1950989903213899257
+      cheese_press-Sheet_13: -7216824664700466973
+      cheese_press-Sheet_14: 8401785652011106291
+      cheese_press-Sheet_15: 7180288016515893711
+      cheese_press-Sheet_16: 1028920204859361167
+      cheese_press-Sheet_17: -7808085121792855463
+      cheese_press-Sheet_18: 1929179559076689532
+      cheese_press-Sheet_19: 8100984822425751357
+      cheese_press-Sheet_2: -4577028726703432459
+      cheese_press-Sheet_20: -505437027295720315
+      cheese_press-Sheet_21: 4404654907771935301
+      cheese_press-Sheet_22: -5374718855938280007
+      cheese_press-Sheet_23: -2924111599893551078
+      cheese_press-Sheet_24: 5848561093715785462
+      cheese_press-Sheet_25: -3988092559928074484
+      cheese_press-Sheet_26: -6268568287966301825
+      cheese_press-Sheet_27: 1674011230337142960
+      cheese_press-Sheet_3: -1646798708098933754
+      cheese_press-Sheet_4: -3066267018234733891
+      cheese_press-Sheet_5: 1959222648336613987
+      cheese_press-Sheet_6: -3445550546312697476
+      cheese_press-Sheet_7: 6311995840485246890
+      cheese_press-Sheet_8: 2374429732507550606
+      cheese_press-Sheet_9: 3422995042623667740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

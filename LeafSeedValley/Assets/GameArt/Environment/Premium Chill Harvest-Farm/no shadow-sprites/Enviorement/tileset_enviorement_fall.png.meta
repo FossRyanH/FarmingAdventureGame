@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: ac7ed570671583049a9151885619bdad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5691338484228586233
+    second: tileset_enviorement_fall_0
+  - first:
+      213: 4739371066742190490
+    second: tileset_enviorement_fall_1
+  - first:
+      213: 719071585698606734
+    second: tileset_enviorement_fall_2
+  - first:
+      213: 7455481428914238261
+    second: tileset_enviorement_fall_3
+  - first:
+      213: 1747315483725411547
+    second: tileset_enviorement_fall_4
+  - first:
+      213: 9190218784681112709
+    second: tileset_enviorement_fall_5
+  - first:
+      213: -9146836087108967786
+    second: tileset_enviorement_fall_6
+  - first:
+      213: 7891537581682571128
+    second: tileset_enviorement_fall_7
+  - first:
+      213: -5209449671582636530
+    second: tileset_enviorement_fall_8
+  - first:
+      213: 8533386071774010240
+    second: tileset_enviorement_fall_9
+  - first:
+      213: -741941927476395675
+    second: tileset_enviorement_fall_10
+  - first:
+      213: 7517993759218969932
+    second: tileset_enviorement_fall_11
+  - first:
+      213: -8847683909358555879
+    second: tileset_enviorement_fall_12
+  - first:
+      213: 6826349535550979126
+    second: tileset_enviorement_fall_13
+  - first:
+      213: 7901541482610210210
+    second: tileset_enviorement_fall_14
+  - first:
+      213: -1704994532765006246
+    second: tileset_enviorement_fall_15
+  - first:
+      213: 961646841489072251
+    second: tileset_enviorement_fall_16
+  - first:
+      213: 701983599582710571
+    second: tileset_enviorement_fall_17
+  - first:
+      213: -1277885054643084334
+    second: tileset_enviorement_fall_18
+  - first:
+      213: 5265336619708397474
+    second: tileset_enviorement_fall_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 288
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa74f88232bbfe40800000000000000
+      internalID: 5691338484228586233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 288
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91beebffd0a5c140800000000000000
+      internalID: 4739371066742190490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 297
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e64a12cc7aaf900800000000000000
+      internalID: 719071585698606734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 298
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53374f7dbd0377760800000000000000
+      internalID: 7455481428914238261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 284
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd43efdbc26bf3810800000000000000
+      internalID: 1747315483725411547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 278
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843a05fa473a8f70800000000000000
+      internalID: 9190218784681112709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 282
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69265217a09ef0180800000000000000
+      internalID: -9146836087108967786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 290
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877b5df8e9f548d60800000000000000
+      internalID: 7891537581682571128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 242
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06aa02ef1154b7b0800000000000000
+      internalID: -5209449671582636530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 243
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b1b53ab6dac6670800000000000000
+      internalID: 8533386071774010240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 231
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5610dc87fb714b5f0800000000000000
+      internalID: -741941927476395675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 230
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4da9d1fd77455860800000000000000
+      internalID: 7517993759218969932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 221
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6eb98c56b63580800000000000000
+      internalID: -8847683909358555879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 221
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3b2b2cb01cbe50800000000000000
+      internalID: 6826349535550979126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5bef04d1ae7ad60800000000000000
+      internalID: 7901541482610210210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 74
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a560f828184a658e0800000000000000
+      internalID: -1704994532765006246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 74
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70255215b4785d00800000000000000
+      internalID: 961646841489072251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 20
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b07435d52fdb900800000000000000
+      internalID: 701983599582710571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 17
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e736305a044ee0800000000000000
+      internalID: -1277885054643084334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_enviorement_fall_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 18
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7339832cb321940800000000000000
+      internalID: 5265336619708397474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tileset_enviorement_fall_0: 5691338484228586233
+      tileset_enviorement_fall_1: 4739371066742190490
+      tileset_enviorement_fall_10: -741941927476395675
+      tileset_enviorement_fall_11: 7517993759218969932
+      tileset_enviorement_fall_12: -8847683909358555879
+      tileset_enviorement_fall_13: 6826349535550979126
+      tileset_enviorement_fall_14: 7901541482610210210
+      tileset_enviorement_fall_15: -1704994532765006246
+      tileset_enviorement_fall_16: 961646841489072251
+      tileset_enviorement_fall_17: 701983599582710571
+      tileset_enviorement_fall_18: -1277885054643084334
+      tileset_enviorement_fall_19: 5265336619708397474
+      tileset_enviorement_fall_2: 719071585698606734
+      tileset_enviorement_fall_3: 7455481428914238261
+      tileset_enviorement_fall_4: 1747315483725411547
+      tileset_enviorement_fall_5: 9190218784681112709
+      tileset_enviorement_fall_6: -9146836087108967786
+      tileset_enviorement_fall_7: 7891537581682571128
+      tileset_enviorement_fall_8: -5209449671582636530
+      tileset_enviorement_fall_9: 8533386071774010240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

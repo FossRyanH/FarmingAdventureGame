@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: ceab158c48d771d4fab3fa3d19a68035
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8798260582312962567
+    second: Baby_Chicken_right-Sheet_0
+  - first:
+      213: -7750827633126600746
+    second: Baby_Chicken_right-Sheet_1
+  - first:
+      213: -3736527484075860407
+    second: Baby_Chicken_right-Sheet_2
+  - first:
+      213: 2591406928090908158
+    second: Baby_Chicken_right-Sheet_3
+  - first:
+      213: -6988281245608899708
+    second: Baby_Chicken_right-Sheet_4
+  - first:
+      213: 4509999157167087686
+    second: Baby_Chicken_right-Sheet_5
+  - first:
+      213: -5473925683861264163
+    second: Baby_Chicken_right-Sheet_6
+  - first:
+      213: 7089255801005645840
+    second: Baby_Chicken_right-Sheet_7
+  - first:
+      213: -1314283003969171476
+    second: Baby_Chicken_right-Sheet_8
+  - first:
+      213: 2515493815964235869
+    second: Baby_Chicken_right-Sheet_9
+  - first:
+      213: -1579662216572732199
+    second: Baby_Chicken_right-Sheet_10
+  - first:
+      213: 6783586662803222195
+    second: Baby_Chicken_right-Sheet_11
+  - first:
+      213: -6146158941351354496
+    second: Baby_Chicken_right-Sheet_12
+  - first:
+      213: 5393573053184207686
+    second: Baby_Chicken_right-Sheet_13
+  - first:
+      213: -2209800555262369626
+    second: Baby_Chicken_right-Sheet_14
+  - first:
+      213: -5261818158702980915
+    second: Baby_Chicken_right-Sheet_15
+  - first:
+      213: 4253675391496004435
+    second: Baby_Chicken_right-Sheet_16
+  - first:
+      213: -7084807251703580634
+    second: Baby_Chicken_right-Sheet_17
+  - first:
+      213: -5161098450994082136
+    second: Baby_Chicken_right-Sheet_18
+  - first:
+      213: 5267813429197062702
+    second: Baby_Chicken_right-Sheet_19
+  - first:
+      213: -1689734002290174479
+    second: Baby_Chicken_right-Sheet_20
+  - first:
+      213: -7586863126785107907
+    second: Baby_Chicken_right-Sheet_21
+  - first:
+      213: -267144796100013805
+    second: Baby_Chicken_right-Sheet_22
+  - first:
+      213: 5114108458794962742
+    second: Baby_Chicken_right-Sheet_23
+  - first:
+      213: -5013602222115917527
+    second: Baby_Chicken_right-Sheet_24
+  - first:
+      213: -7878035455574625410
+    second: Baby_Chicken_right-Sheet_25
+  - first:
+      213: -4540971355105312914
+    second: Baby_Chicken_right-Sheet_26
+  - first:
+      213: -4400810820603503226
+    second: Baby_Chicken_right-Sheet_27
+  - first:
+      213: -3068293420152939088
+    second: Baby_Chicken_right-Sheet_28
+  - first:
+      213: 1330283603905366512
+    second: Baby_Chicken_right-Sheet_29
+  - first:
+      213: 71572711145297068
+    second: Baby_Chicken_right-Sheet_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 253
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f51ae59d9c46e580800000000000000
+      internalID: -8798260582312962567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 253
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df053455578f6490800000000000000
+      internalID: -7750827633126600746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 253
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e9c2adc00352cc0800000000000000
+      internalID: -3736527484075860407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 253
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef548590fd686f320800000000000000
+      internalID: 2591406928090908158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 253
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b05fc8b33a40f90800000000000000
+      internalID: -6988281245608899708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 253
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406144a65cb69e30800000000000000
+      internalID: 4509999157167087686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 205
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8ef86b795b804b0800000000000000
+      internalID: -5473925683861264163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 205
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a1dc2798126260800000000000000
+      internalID: 7089255801005645840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 205
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef851e329ab2cde0800000000000000
+      internalID: -1314283003969171476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d587d374c44d8e220800000000000000
+      internalID: 2515493815964235869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc731c5599e31ae0800000000000000
+      internalID: -1579662216572732199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 205
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea67bf024242e50800000000000000
+      internalID: 6783586662803222195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 157
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f59afa10574baa0800000000000000
+      internalID: -6146158941351354496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 157
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64be9219d12d9da40800000000000000
+      internalID: 5393573053184207686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0202f5a163551e0800000000000000
+      internalID: -2209800555262369626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 157
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc01fc153444af6b0800000000000000
+      internalID: -5261818158702980915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 157
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353a0fb4b37180b30800000000000000
+      internalID: 4253675391496004435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 157
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628b81c6755bdad90800000000000000
+      internalID: -7084807251703580634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 109
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aecda1bd481068b0800000000000000
+      internalID: -5161098450994082136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 109
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c25e57680b1940800000000000000
+      internalID: 5267813429197062702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 109
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f55894a0ebdc88e0800000000000000
+      internalID: -1689734002290174479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38d670ee2c06b690800000000000000
+      internalID: -7586863126785107907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3115ddc2939ea4cf0800000000000000
+      internalID: -267144796100013805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 109
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f4b4d2c86f8f640800000000000000
+      internalID: 5114108458794962742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 61
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921fba9975b1c6ab0800000000000000
+      internalID: -5013602222115917527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ba862e789ba290800000000000000
+      internalID: -7878035455574625410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 61
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f39b39c9a3bf0c0800000000000000
+      internalID: -4540971355105312914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 61
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d9b3a00ed2de2c0800000000000000
+      internalID: -4400810820603503226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 61
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd9d11146b3b65d0800000000000000
+      internalID: -3068293420152939088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 61
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f94e4db3ed167210800000000000000
+      internalID: 1330283603905366512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby_Chicken_right-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 13
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca45d6760074ef000800000000000000
+      internalID: 71572711145297068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Baby_Chicken_right-Sheet_0: -8798260582312962567
+      Baby_Chicken_right-Sheet_1: -7750827633126600746
+      Baby_Chicken_right-Sheet_10: -1579662216572732199
+      Baby_Chicken_right-Sheet_11: 6783586662803222195
+      Baby_Chicken_right-Sheet_12: -6146158941351354496
+      Baby_Chicken_right-Sheet_13: 5393573053184207686
+      Baby_Chicken_right-Sheet_14: -2209800555262369626
+      Baby_Chicken_right-Sheet_15: -5261818158702980915
+      Baby_Chicken_right-Sheet_16: 4253675391496004435
+      Baby_Chicken_right-Sheet_17: -7084807251703580634
+      Baby_Chicken_right-Sheet_18: -5161098450994082136
+      Baby_Chicken_right-Sheet_19: 5267813429197062702
+      Baby_Chicken_right-Sheet_2: -3736527484075860407
+      Baby_Chicken_right-Sheet_20: -1689734002290174479
+      Baby_Chicken_right-Sheet_21: -7586863126785107907
+      Baby_Chicken_right-Sheet_22: -267144796100013805
+      Baby_Chicken_right-Sheet_23: 5114108458794962742
+      Baby_Chicken_right-Sheet_24: -5013602222115917527
+      Baby_Chicken_right-Sheet_25: -7878035455574625410
+      Baby_Chicken_right-Sheet_26: -4540971355105312914
+      Baby_Chicken_right-Sheet_27: -4400810820603503226
+      Baby_Chicken_right-Sheet_28: -3068293420152939088
+      Baby_Chicken_right-Sheet_29: 1330283603905366512
+      Baby_Chicken_right-Sheet_3: 2591406928090908158
+      Baby_Chicken_right-Sheet_30: 71572711145297068
+      Baby_Chicken_right-Sheet_4: -6988281245608899708
+      Baby_Chicken_right-Sheet_5: 4509999157167087686
+      Baby_Chicken_right-Sheet_6: -5473925683861264163
+      Baby_Chicken_right-Sheet_7: 7089255801005645840
+      Baby_Chicken_right-Sheet_8: -1314283003969171476
+      Baby_Chicken_right-Sheet_9: 2515493815964235869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
